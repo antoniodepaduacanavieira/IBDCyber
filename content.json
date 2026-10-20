@@ -1,0 +1,1391 @@
+{
+  "reviewedAt": "2026-10-17",
+  "pages": [
+    {
+      "id": "home",
+      "slug": {
+        "pt": "inicio",
+        "en": "home"
+      },
+      "pt": {
+        "title": "Cibersegurança na agenda pública do Brasil",
+        "eyebrow": "Instituto Brasileiro de Defesa Cibernética",
+        "description": "Conheça o IBDCyber, suas áreas de atuação e os registros do debate sobre políticas públicas de cibersegurança no Brasil.",
+        "intro": "O IBDCyber aproxima o debate técnico das decisões públicas sobre cibersegurança. Conheça o Instituto, acompanhe a agenda parlamentar e consulte as fontes que sustentam essa discussão.",
+        "sections": [
+          {
+            "heading": "O que orienta nossa atuação",
+            "paragraphs": [
+              "Estudos, formação, cooperação e contribuição ao debate legislativo compõem a finalidade institucional do IBDCyber. O ponto de partida é compreender o problema, ouvir quem lida com ele e discutir respostas compatíveis com a realidade brasileira."
+            ]
+          },
+          {
+            "heading": "Uma agenda que pode ser acompanhada",
+            "paragraphs": [
+              "Reuniões parlamentares, encontros e participações institucionais ajudam a contar essa trajetória. Os registros disponíveis estão reunidos com datas e indicação de origem."
+            ]
+          },
+          {
+            "heading": "Da discussão ao próximo contato",
+            "paragraphs": [
+              "Órgãos públicos, empresas, pesquisadores e organizações da sociedade civil encontram aqui as áreas de interesse do Instituto e os canais para apresentar uma pauta de trabalho."
+            ]
+          }
+        ]
+      },
+      "en": {
+        "title": "Cybersecurity on Brazil's public agenda",
+        "eyebrow": "Instituto Brasileiro de Defesa Cibernética",
+        "description": "Explore IBDCyber's institutional purpose, areas of interest and sources on Brazil's cybersecurity policy debate.",
+        "intro": "IBDCyber connects technical discussion with public decisions on cybersecurity. Learn about the Institute, follow the parliamentary agenda and consult the sources behind the debate.",
+        "sections": [
+          {
+            "heading": "What guides our work",
+            "paragraphs": [
+              "Research, education, cooperation and contributions to legislative debate form part of IBDCyber's institutional purpose. Understanding the problem, listening to those who deal with it and considering Brazil's circumstances come first."
+            ]
+          },
+          {
+            "heading": "A public record to follow",
+            "paragraphs": [
+              "Parliamentary meetings, institutional encounters and participation in events provide a record of this work. Available entries include dates and their sources."
+            ]
+          },
+          {
+            "heading": "Start a conversation",
+            "paragraphs": [
+              "Public bodies, businesses, researchers and civil society organisations can explore the Institute's areas of interest and find channels to introduce a potential subject for collaboration."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "institute",
+      "slug": {
+        "pt": "instituto",
+        "en": "institute"
+      },
+      "pt": {
+        "title": "O Instituto",
+        "eyebrow": "Quem somos",
+        "description": "Natureza, propósito e áreas de interesse do Instituto Brasileiro de Defesa Cibernética, com sede em Brasília e atuação nacional.",
+        "intro": "O Instituto Brasileiro de Defesa Cibernética, IBDCyber, é uma organização privada, sem fins lucrativos, com sede em Brasília e atuação nacional, conforme sua apresentação institucional.",
+        "sections": [
+          {
+            "heading": "O lugar da cibersegurança nas decisões públicas",
+            "paragraphs": [
+              "A segurança dos serviços digitais envolve escolhas sobre responsabilidades, recursos, formação e proteção das pessoas. São escolhas que exigem conhecimento técnico e debate público. O Instituto se apresenta como uma organização apartidária, dedicada a contribuir para esse debate por meio de estudos, pesquisa, formação e propostas de aperfeiçoamento das políticas públicas.",
+              "Sua finalidade abrange cibersegurança, proteção de dados e ética digital. O diálogo com os poderes públicos e a sociedade civil integra essa atuação. O interesse está nas condições que permitem ao país prevenir danos, preparar instituições e sustentar decisões ao longo do tempo."
+            ]
+          },
+          {
+            "heading": "Quatro frentes de interesse",
+            "paragraphs": [
+              "A organização deste portal reúne o propósito do IBDCyber em quatro frentes: políticas públicas, estudos, formação e cooperação. Elas dão ao visitante uma maneira direta de compreender os assuntos tratados e localizar registros relacionados.",
+              "O trabalho com políticas públicas considera o debate legislativo e institucional. Estudos ajudam a formular perguntas e organizar evidências. A formação trata da capacidade de compreender e decidir. A cooperação aproxima experiências de diferentes setores e países. Essas frentes descrevem a finalidade do Instituto; a disponibilidade de uma atividade específica depende de definição com a equipe."
+            ]
+          },
+          {
+            "heading": "Conhecer a instituição por seus registros",
+            "paragraphs": [
+              "A seção de direção identifica a liderança apresentada pelo Instituto. A agenda reúne atividades documentadas e preserva a origem de cada informação. Referências externas ficam na área de conhecimento, com autoria identificada.",
+              "A relação com a FPCIBERSEG tem uma seção própria. Ali, o visitante pode distinguir a organização da sociedade civil, a frente parlamentar e as funções exercidas por pessoas que participam dessa agenda. Para propor um encontro ou apresentar uma questão de pesquisa, consulte os canais institucionais."
+            ]
+          }
+        ]
+      },
+      "en": {
+        "title": "The Institute",
+        "eyebrow": "About us",
+        "description": "The purpose and areas of interest of IBDCyber, a private nonprofit organisation based in Brasília with a national remit.",
+        "intro": "The Instituto Brasileiro de Defesa Cibernética, or IBDCyber, describes itself in its institutional presentation as a private nonprofit organisation based in Brasília and active across Brazil.",
+        "sections": [
+          {
+            "heading": "Cybersecurity and public decisions",
+            "paragraphs": [
+              "Securing digital services involves decisions about responsibilities, resources, skills and the protection of people. These decisions require technical understanding and public debate. The Institute describes its role as nonpartisan, contributing through research, education and proposals to improve public policy.",
+              "Its stated purpose covers cybersecurity, data protection and digital ethics. Engagement with public institutions and civil society forms part of that purpose. The focus is on the conditions that enable Brazil to prevent harm, prepare institutions and sustain informed decisions over time."
+            ]
+          },
+          {
+            "heading": "Four areas of interest",
+            "paragraphs": [
+              "This portal organises IBDCyber's purpose into four areas: public policy, research, education and cooperation. They help visitors understand the subjects addressed and find related records without needing prior knowledge of the organisation.",
+              "Public policy encompasses legislative and institutional discussion. Research helps formulate questions and organise evidence. Education addresses the ability to understand issues and make decisions. Cooperation brings together experience from different sectors and countries. These areas describe the Institute's purpose. The availability of a particular activity requires a discussion with its team and an agreed scope."
+            ]
+          },
+          {
+            "heading": "An institution explained through its records",
+            "paragraphs": [
+              "The leadership page identifies the person named in the Institute's presentation. The activity archive brings together documented events and retains the source of each entry. External resources appear in the knowledge section with their authors clearly identified.",
+              "A separate section explains the relationship with FPCIBERSEG. It allows readers to distinguish the civil society organisation, the parliamentary group and the roles held by individuals involved in this agenda. To suggest a meeting or introduce a research question, use the institutional channels listed on the contact page."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "governance",
+      "slug": {
+        "pt": "governanca",
+        "en": "governance"
+      },
+      "pt": {
+        "title": "Governança e transparência",
+        "eyebrow": "O Instituto",
+        "description": "Princípios institucionais, identificação de fontes e limites das informações disponíveis neste protótipo do IBDCyber.",
+        "intro": "Uma apresentação institucional precisa permitir que o leitor identifique quem fala, em qual função e com base em quais documentos.",
+        "sections": [
+          {
+            "heading": "Princípios declarados",
+            "paragraphs": [
+              "A apresentação do IBDCyber registra caráter apartidário, interesse público e compromisso com a ética digital. Esses princípios orientam o posicionamento proposto para o portal e devem ser refletidos nas informações sobre projetos, participantes e recursos."
+            ]
+          },
+          {
+            "heading": "Documentos institucionais",
+            "paragraphs": [
+              "Este protótipo reúne as informações fornecidas para o projeto. Estatuto, composição completa dos órgãos de governança e documentos de prestação de contas não integram o acervo publicado nesta versão. A página poderá receber esses materiais após definição institucional de sua divulgação."
+            ]
+          },
+          {
+            "heading": "Como ler os registros",
+            "paragraphs": [
+              "Declarações do Instituto são identificadas como informações institucionais. Registros do Senado e materiais de outras organizações mantêm a indicação de origem. Participação em um evento e exercício de uma função são apresentados com seu contexto, sem presumir uma parceria entre organizações."
+            ]
+          }
+        ]
+      },
+      "en": {
+        "title": "Governance and transparency",
+        "eyebrow": "The Institute",
+        "description": "Institutional principles, source attribution and the limits of the information available in the IBDCyber prototype.",
+        "intro": "An institutional website should make it clear who is speaking, in what capacity and on the basis of which records.",
+        "sections": [
+          {
+            "heading": "Stated principles",
+            "paragraphs": [
+              "IBDCyber's presentation describes a nonpartisan approach, a public interest purpose and a commitment to digital ethics. These principles inform the proposed website and should also guide information about projects, participants and resources."
+            ]
+          },
+          {
+            "heading": "Institutional documents",
+            "paragraphs": [
+              "This prototype brings together information supplied for the project. The bylaws, complete governance membership and accountability documents are not part of the collection published in this version. They can be added once the Institute determines the material to disclose."
+            ]
+          },
+          {
+            "heading": "Reading the records",
+            "paragraphs": [
+              "Statements by the Institute are identified as institutional information. Senate records and resources from other organisations retain their source attribution. Event participation and individual appointments are described in context without implying a partnership between organisations."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "leadership",
+      "slug": {
+        "pt": "direcao",
+        "en": "leadership"
+      },
+      "pt": {
+        "title": "Direção",
+        "eyebrow": "O Instituto",
+        "description": "Carlos Diego de Araújo é apresentado pelo IBDCyber como diretor-presidente. Consulte a origem das informações e sua função na FPCIBERSEG.",
+        "intro": "Carlos Diego de Araújo é identificado como diretor-presidente na apresentação institucional do IBDCyber.",
+        "sections": [
+          {
+            "heading": "Trajetória apresentada pelo Instituto",
+            "paragraphs": [
+              "O material institucional informa sua trajetória como delegado de Polícia Civil em Santa Catarina e atuação no enfrentamento à lavagem de dinheiro. A biografia publicada nesta versão se limita a essas informações fornecidas pelo Instituto."
+            ]
+          },
+          {
+            "heading": "Função na agenda parlamentar",
+            "paragraphs": [
+              "O registro da instalação da FPCIBERSEG, em 25 de março de 2025, anuncia Carlos Diego de Araújo Pinto e Lima como secretário executivo. A designação é pessoal e não constitui, por si, vínculo jurídico entre a Frente e o IBDCyber."
+            ]
+          }
+        ]
+      },
+      "en": {
+        "title": "Leadership",
+        "eyebrow": "The Institute",
+        "description": "IBDCyber identifies Carlos Diego de Araújo as its President. Read the source context and his recorded role in FPCIBERSEG.",
+        "intro": "IBDCyber's institutional presentation identifies Carlos Diego de Araújo as its President.",
+        "sections": [
+          {
+            "heading": "Background supplied by the Institute",
+            "paragraphs": [
+              "The presentation describes a career as a Civil Police chief in Santa Catarina and work addressing money laundering. The biography in this version is limited to that information supplied by the Institute."
+            ]
+          },
+          {
+            "heading": "A role in the parliamentary agenda",
+            "paragraphs": [
+              "The record of FPCIBERSEG's installation on 25 March 2025 announces Carlos Diego de Araújo Pinto e Lima as Executive Secretary. This individual appointment does not, by itself, establish a legal relationship between the group and IBDCyber."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "work",
+      "slug": {
+        "pt": "atuacao",
+        "en": "our-work"
+      },
+      "pt": {
+        "title": "Atuação e serviços",
+        "eyebrow": "Áreas de interesse",
+        "description": "Políticas públicas, estudos, formação e cooperação: conheça as frentes que organizam a finalidade institucional do IBDCyber.",
+        "intro": "O propósito institucional do IBDCyber reúne contribuição ao debate público, produção de conhecimento, formação e cooperação. Conheça cada frente e o contexto para uma conversa com a equipe.",
+        "sections": [
+          {
+            "heading": "Do propósito à atividade",
+            "paragraphs": [
+              "As áreas apresentadas neste portal expressam a finalidade descrita pelo Instituto. Os registros da agenda mostram atividades relatadas ou documentadas. A realização de um novo trabalho exige definição de objetivo, participantes, escopo e condições."
+            ]
+          },
+          {
+            "heading": "Quatro caminhos de atuação",
+            "paragraphs": [],
+            "items": [
+              "Políticas públicas: discussão de escolhas institucionais e legislativas em cibersegurança.",
+              "Estudos e pesquisa: perguntas, evidências e referências para o debate brasileiro.",
+              "Formação: compreensão do risco digital e preparação para decisões.",
+              "Cooperação: interlocução entre setores e intercâmbio de experiências."
+            ]
+          },
+          {
+            "heading": "Apresente uma demanda",
+            "paragraphs": [
+              "Informe o assunto, o público envolvido e a decisão ou dificuldade que motivou o contato. Esses elementos ajudam a equipe a avaliar a pertinência de uma conversa. Não há contratação, inscrição em cursos ou atendimento a incidentes por este protótipo."
+            ]
+          }
+        ]
+      },
+      "en": {
+        "title": "Our work and services",
+        "eyebrow": "Areas of interest",
+        "description": "Public policy, research, education and cooperation: explore the four areas of IBDCyber's institutional purpose.",
+        "intro": "IBDCyber's institutional purpose brings together public debate, knowledge, education and cooperation. Explore each area and the context for a conversation with the team.",
+        "sections": [
+          {
+            "heading": "From purpose to activity",
+            "paragraphs": [
+              "The areas presented here reflect the purpose described by the Institute. The activity archive contains reported or documented events. Any new engagement requires agreement on its objectives, participants, scope and conditions."
+            ]
+          },
+          {
+            "heading": "Four areas of work",
+            "paragraphs": [],
+            "items": [
+              "Public policy: institutional and legislative choices in cybersecurity.",
+              "Research: questions, evidence and references for Brazil's policy debate.",
+              "Education: understanding digital risk and preparing for decisions.",
+              "Cooperation: discussion across sectors and exchange of experience."
+            ]
+          },
+          {
+            "heading": "Introduce a request",
+            "paragraphs": [
+              "Describe the subject, the people involved and the decision or difficulty behind your request. This gives the team a basis for considering a conversation. This prototype does not accept orders, course registrations or incident reports."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "policy",
+      "slug": {
+        "pt": "politicas-publicas",
+        "en": "public-policy"
+      },
+      "pt": {
+        "title": "Políticas públicas",
+        "eyebrow": "Atuação",
+        "description": "O papel do debate técnico e da participação institucional nas políticas públicas brasileiras de cibersegurança.",
+        "intro": "Uma política de cibersegurança precisa esclarecer responsabilidades, considerar os recursos disponíveis e permitir que seus resultados sejam acompanhados.",
+        "sections": [
+          {
+            "heading": "A questão pública",
+            "paragraphs": [
+              "Quando um serviço depende de sistemas digitais, sua segurança passa a envolver decisões administrativas, orçamento, fornecedores e pessoas. O debate público precisa tratar dessas condições com precisão. Termos técnicos, por si, não explicam quem deve agir, o que pode ser exigido e como avaliar uma medida.",
+              "A finalidade declarada do IBDCyber inclui contribuir com estudos, propostas e discussões junto ao Parlamento, aos órgãos públicos e à sociedade civil. Nesta frente, a atenção está na formulação de perguntas úteis: qual problema a proposta pretende resolver, quem será afetado e que capacidade será necessária para colocá-la em prática."
+            ]
+          },
+          {
+            "heading": "Acompanhar a discussão legislativa",
+            "paragraphs": [
+              "A seção FPCIBERSEG oferece um ponto de consulta para registros da agenda parlamentar. O visitante encontra a identificação da Frente e acesso às fontes oficiais. A leitura de uma proposta deve considerar sua versão, a etapa de tramitação e a data da consulta.",
+              "Um projeto em discussão pode receber alterações. Por isso, a origem de uma informação e seu contexto temporal fazem parte do conteúdo. Análises e posicionamentos institucionais, quando publicados, devem ser identificados como tais e acompanhados dos documentos em que se baseiam."
+            ]
+          },
+          {
+            "heading": "Assuntos para uma conversa",
+            "paragraphs": [
+              "Órgãos públicos, entidades representativas e pesquisadores podem apresentar questões sobre governança, responsabilidades institucionais e participação no debate de cibersegurança. Uma descrição da decisão em pauta, do setor afetado e das evidências disponíveis ajuda a delimitar o assunto.",
+              "A equipe precisa avaliar cada possibilidade de trabalho. Esta página apresenta uma área de atuação e não confirma um serviço de assessoria já contratado ou disponível em condições padronizadas. Os canais de contato permitem iniciar essa avaliação, sem antecipar resultados legislativos ou compromissos em nome de outras instituições."
+            ]
+          }
+        ]
+      },
+      "en": {
+        "title": "Public policy",
+        "eyebrow": "Our work",
+        "description": "Technical debate and institutional engagement in Brazil's cybersecurity policy agenda.",
+        "intro": "A cybersecurity policy needs clear responsibilities, a realistic view of available resources and a way to assess its results.",
+        "sections": [
+          {
+            "heading": "A public policy question",
+            "paragraphs": [
+              "When a service relies on digital systems, its security involves administrative decisions, budgets, suppliers and people. Public debate needs to address these conditions precisely. Technical terminology alone does not explain who should act, what can reasonably be required or how a measure should be evaluated.",
+              "IBDCyber's stated purpose includes contributing research, proposals and discussion involving Parliament, public bodies and civil society. This area starts with useful questions: what problem is a proposal intended to solve, who will it affect and what capabilities will be needed to implement it? These questions help connect policy ambitions with the conditions institutions face."
+            ]
+          },
+          {
+            "heading": "Following legislative discussion",
+            "paragraphs": [
+              "The FPCIBERSEG section provides a starting point for consulting parliamentary records. Visitors can identify the group and reach its official sources. A proposal should be read with attention to its version, legislative stage and the date on which the information was checked.",
+              "A bill under consideration may change. Its source and timing are therefore part of the information, not optional details. Any future institutional analysis or position should be clearly labelled and accompanied by the documents on which it relies. Readers should be able to return to the underlying record."
+            ]
+          },
+          {
+            "heading": "Subjects for a conversation",
+            "paragraphs": [
+              "Public bodies, representative organisations and researchers can introduce questions about governance, institutional responsibilities and participation in cybersecurity debate. Describing the decision at issue, the affected sector and the available evidence helps define a useful scope.",
+              "The team must assess each potential engagement. This page presents an area of work, rather than a standard advisory service already available for purchase. The contact channels allow that assessment to begin without promising legislative outcomes or making commitments on behalf of other institutions."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "research",
+      "slug": {
+        "pt": "estudos",
+        "en": "research"
+      },
+      "pt": {
+        "title": "Estudos e pesquisa",
+        "eyebrow": "Atuação",
+        "description": "Pesquisa aplicada ao debate de cibersegurança: perguntas claras, fontes identificadas e limites de interpretação.",
+        "intro": "A contribuição de um estudo começa com uma pergunta bem delimitada. Depois vêm as fontes, o método e a explicação do que os resultados permitem concluir.",
+        "sections": [
+          {
+            "heading": "Conhecimento para uma decisão concreta",
+            "paragraphs": [
+              "Desenvolver estudos e pesquisas integra os objetivos declarados do IBDCyber. Essa finalidade abrange questões de cibersegurança e proteção de dados, com atenção ao debate público. A proposta editorial desta frente é tornar visíveis a pergunta investigada, a origem das informações e a utilidade do trabalho.",
+              "Uma comparação internacional, por exemplo, precisa considerar diferenças de competência, escala e recursos. A existência de uma prática em outro país não demonstra que ela produzirá o mesmo resultado no Brasil. Explicar essas diferenças torna a comparação mais útil para quem precisa decidir."
+            ]
+          },
+          {
+            "heading": "Ler a evidência com cuidado",
+            "paragraphs": [
+              "Relatórios de mercado, registros administrativos e pesquisas acadêmicas respondem a perguntas distintas. Período de observação, universo pesquisado e definição dos termos influenciam os resultados. Esses elementos devem acompanhar qualquer número usado para fundamentar uma recomendação.",
+              "A área de conhecimento do portal começa com uma seleção de referências externas. A autoria permanece com cada organização de origem. Essa seleção facilita a consulta; ela não equivale a uma coleção de estudos produzidos pelo IBDCyber nem representa a adesão integral do Instituto às conclusões de terceiros."
+            ]
+          },
+          {
+            "heading": "Apresentar uma questão de pesquisa",
+            "paragraphs": [
+              "Pesquisadores, órgãos públicos e entidades podem indicar um problema, os dados existentes e a decisão que um estudo ajudaria a informar. Também é útil explicar o que já foi investigado e quais limites de acesso aos dados precisam ser considerados.",
+              "O desenvolvimento de um projeto depende de escopo, equipe, condições de pesquisa e definição sobre a divulgação dos resultados. Não há calendário de publicações ou contratação de estudos confirmado nesta versão. Os registros de trabalhos futuros deverão identificar autoria, revisão, fontes e data, permitindo que o leitor examine a contribuição com autonomia."
+            ]
+          }
+        ]
+      },
+      "en": {
+        "title": "Research",
+        "eyebrow": "Our work",
+        "description": "Research for cybersecurity debate: clear questions, identified sources and explicit limits to interpretation.",
+        "intro": "A useful study starts with a defined question. Sources, methods and an explanation of what the findings support follow from it.",
+        "sections": [
+          {
+            "heading": "Knowledge for a specific decision",
+            "paragraphs": [
+              "Developing studies and research forms part of IBDCyber's stated objectives. This purpose covers cybersecurity and data protection, with attention to public debate. The editorial approach proposed for this area is to make the research question, the origin of its information and its intended use visible to readers.",
+              "An international comparison, for example, needs to consider differences in institutional powers, scale and resources. The existence of a practice in another country does not establish that it would produce the same result in Brazil. Explaining these differences makes the comparison more useful to those considering a decision."
+            ]
+          },
+          {
+            "heading": "Reading evidence carefully",
+            "paragraphs": [
+              "Market reports, administrative records and academic studies answer different questions. Observation periods, sample coverage and definitions influence their findings. These details should accompany any figures used to support a recommendation, particularly when numbers from different sources are compared.",
+              "The website's knowledge section begins with a selection of external resources. Authorship remains with each originating organisation. The selection helps readers find information; it is not a collection of IBDCyber research and does not imply that the Institute endorses every conclusion drawn by another organisation."
+            ]
+          },
+          {
+            "heading": "Introducing a research question",
+            "paragraphs": [
+              "Researchers, public bodies and organisations can describe a problem, the available data and the decision a study could help inform. It is also useful to explain what has already been investigated and any restrictions affecting access to information.",
+              "A project depends on an agreed scope, team, research conditions and publication arrangements. No research commissioning service or publication schedule is confirmed in this version. Future work should identify its authors, review process, sources and date so that readers can assess the contribution for themselves."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "education",
+      "slug": {
+        "pt": "formacao",
+        "en": "education"
+      },
+      "pt": {
+        "title": "Formação",
+        "eyebrow": "Atuação",
+        "description": "Formação em cibersegurança como finalidade institucional: compreender riscos, responsabilidades e escolhas em diferentes funções.",
+        "intro": "Uma pessoa que aprova um orçamento, uma equipe que contrata tecnologia e um especialista que opera sistemas precisam de conhecimentos diferentes sobre cibersegurança.",
+        "sections": [
+          {
+            "heading": "Começar pelo público",
+            "paragraphs": [
+              "A formação de atores públicos e privados está entre os objetivos apresentados pelo IBDCyber. Uma proposta nessa área precisa partir do trabalho que as pessoas realizam e das decisões pelas quais respondem. O conteúdo deve ajudar o participante a reconhecer uma situação, formular a pergunta adequada e saber quando buscar apoio especializado.",
+              "Para gestores, o foco pode estar na compreensão de responsabilidades, prioridades e limites de uma decisão. Para equipes que participam de políticas públicas, importa compreender conceitos, fontes e implicações institucionais. O nível de profundidade deve acompanhar a necessidade de cada público."
+            ]
+          },
+          {
+            "heading": "Aprendizagem com contexto",
+            "paragraphs": [
+              "Casos discutidos com cuidado permitem relacionar um conceito a uma escolha concreta. Uma atividade pode examinar como uma organização prepara sua comunicação, como define responsabilidades ou como lê uma evidência de risco. O valor está na clareza do raciocínio e na possibilidade de aplicar o aprendizado.",
+              "A apresentação institucional estabelece a formação como finalidade. Ela não informa, por si, turmas abertas, corpo docente, carga horária ou certificação. Este portal não oferece matrícula. Qualquer programa futuro precisará apresentar essas condições antes de receber participantes."
+            ]
+          },
+          {
+            "heading": "Uma demanda de formação bem descrita",
+            "paragraphs": [
+              "Ao procurar o Instituto, indique quem participaria, que conhecimentos já possui e qual dificuldade precisa enfrentar. Número de pessoas, contexto de trabalho e prazo desejado ajudam a avaliar a pertinência de uma atividade. Evite incluir dados pessoais desnecessários no contato inicial.",
+              "A definição de um programa depende de equipe, recursos, material e objetivos de aprendizagem. Como referência de consulta imediata, a área de conhecimento aponta materiais externos de segurança digital com autoria identificada. Esses materiais pertencem às organizações responsáveis e não constituem cursos ou certificações do IBDCyber."
+            ]
+          }
+        ]
+      },
+      "en": {
+        "title": "Education",
+        "eyebrow": "Our work",
+        "description": "Cybersecurity education as an institutional purpose: understanding risks, responsibilities and decisions across different roles.",
+        "intro": "A person approving a budget, a team procuring technology and a specialist operating systems need different kinds of cybersecurity knowledge.",
+        "sections": [
+          {
+            "heading": "Start with the audience",
+            "paragraphs": [
+              "Education for people working in public and private organisations is among IBDCyber's stated objectives. A proposal in this area should begin with the work participants do and the decisions for which they are responsible. Content should help them recognise a situation, ask an appropriate question and understand when specialist support is needed.",
+              "For managers, the emphasis may be on responsibilities, priorities and the limits of a decision. For teams involved in public policy, it may be on concepts, sources and institutional implications. The depth of an activity should reflect what its participants need to understand and do."
+            ]
+          },
+          {
+            "heading": "Learning in context",
+            "paragraphs": [
+              "Carefully discussed cases can connect a concept to an actual choice. An activity might examine how an organisation prepares its communication, allocates responsibilities or assesses evidence of risk. Its value lies in clear reasoning and the opportunity to use what has been learned.",
+              "The institutional presentation establishes education as a purpose. It does not, on its own, confirm available courses, instructors, teaching hours or certification. This website does not accept enrolments. Any future programme will need to state those conditions before receiving participants."
+            ]
+          },
+          {
+            "heading": "Describing an education need",
+            "paragraphs": [
+              "When contacting the Institute, explain who would participate, what they already know and the difficulty they need to address. The number of people, their working context and the desired timing help assess whether an activity would be appropriate. Avoid unnecessary personal information in the initial message.",
+              "A programme requires an agreed team, resources, materials and learning objectives. For immediate reading, the knowledge section points to external digital security resources with identified authors. These resources remain the responsibility of their publishers and are not IBDCyber courses or certifications."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "cooperation",
+      "slug": {
+        "pt": "cooperacao",
+        "en": "cooperation"
+      },
+      "pt": {
+        "title": "Cooperação",
+        "eyebrow": "Atuação e diálogo",
+        "description": "Caminhos para apresentar propostas de cooperação ao IBDCyber em pesquisa, formação e políticas públicas de cibersegurança.",
+        "intro": "Uma cooperação começa quando as partes conseguem definir uma questão comum, suas responsabilidades e o resultado que pretendem construir.",
+        "sections": [
+          {
+            "heading": "Experiências que merecem ser discutidas",
+            "paragraphs": [
+              "O IBDCyber inclui a cooperação nacional e internacional entre seus objetivos institucionais. Essa finalidade permite aproximar questões de políticas públicas, pesquisa e formação de experiências presentes em outros setores e países. O interesse está no que pode ser aprendido e nas condições necessárias para aplicar esse conhecimento.",
+              "A apresentação do Instituto registra participações em eventos e uma missão a Pittsburgh e Washington, D.C., em 2024. Esses registros compõem sua trajetória de interlocução. A participação em uma agenda, isoladamente, não define uma parceria permanente nem autoriza atribuir a terceiros compromissos com o Instituto."
+            ]
+          },
+          {
+            "heading": "Quem pode apresentar uma pauta",
+            "paragraphs": [
+              "Órgãos públicos podem trazer questões de capacidade institucional e políticas públicas. Pesquisadores e universidades podem propor perguntas de pesquisa e discussão de evidências. Empresas e entidades podem compartilhar desafios de seus setores. Organizações da sociedade civil podem contribuir com experiências sobre os efeitos das decisões digitais na vida das pessoas.",
+              "Uma proposta deve explicar o tema, a contribuição esperada de cada participante e a razão para desenvolver o trabalho em conjunto. Esses elementos ajudam a distinguir uma conversa inicial, um evento e um projeto com responsabilidades continuadas."
+            ]
+          },
+          {
+            "heading": "Como iniciar",
+            "paragraphs": [
+              "Apresente sua organização, uma breve descrição da pauta e o objetivo do contato. Quando houver material público que ajude a compreender a proposta, inclua o endereço de consulta. A equipe poderá avaliar a aderência ao propósito institucional e a viabilidade de uma conversa.",
+              "Prazos, recursos, uso de marcas, divulgação de resultados e responsabilidades devem ser acordados antes de qualquer iniciativa. Esta página abre um caminho de interlocução; não publica uma lista de parceiros ou assegura a aceitação de propostas. Os canais disponíveis estão reunidos na página de contato."
+            ]
+          }
+        ]
+      },
+      "en": {
+        "title": "Cooperation",
+        "eyebrow": "Work and dialogue",
+        "description": "Ways to introduce cooperation proposals to IBDCyber in cybersecurity research, education and public policy.",
+        "intro": "Cooperation starts when participants can define a shared question, their responsibilities and the result they intend to produce together.",
+        "sections": [
+          {
+            "heading": "Experience worth discussing",
+            "paragraphs": [
+              "IBDCyber includes national and international cooperation among its institutional objectives. This purpose connects questions of public policy, research and education with experience in other sectors and countries. The interest lies in what can be learned and the conditions needed to apply that knowledge.",
+              "The Institute's presentation records participation in events and a mission to Pittsburgh and Washington, D.C., in 2024. These entries form part of its record of institutional engagement. Participation in an event alone does not establish an ongoing partnership or allow commitments to be attributed to other organisations."
+            ]
+          },
+          {
+            "heading": "Who can introduce a subject",
+            "paragraphs": [
+              "Public bodies can bring questions about institutional capacity and public policy. Researchers and universities can propose research questions and discussions of evidence. Businesses and representative organisations can explain challenges in their sectors. Civil society organisations can contribute experience of how digital decisions affect people's lives.",
+              "A proposal should describe the subject, the contribution expected from each participant and the reason for working together. These details help distinguish an initial conversation, a one-off event and a project with continuing responsibilities. They also provide a basis for considering whether the proposed activity fits the Institute's purpose."
+            ]
+          },
+          {
+            "heading": "How to begin",
+            "paragraphs": [
+              "Introduce your organisation, briefly describe the subject and explain the aim of the contact. If public material would help the team understand the proposal, include a link. The team can then consider its relevance and whether a discussion would be useful.",
+              "Timing, resources, use of brands, publication of results and responsibilities should be agreed before an initiative begins. This page offers a way to start a conversation. It does not list confirmed partners or guarantee acceptance of proposals. Available channels are gathered on the contact page."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "knowledge",
+      "slug": {
+        "pt": "conhecimento",
+        "en": "knowledge"
+      },
+      "pt": {
+        "title": "Conhecimento",
+        "eyebrow": "Referências para consulta",
+        "description": "Seleção de fontes externas sobre legislação, políticas públicas e segurança digital, com autoria e data de consulta identificadas.",
+        "intro": "Um ponto de partida para consultar documentos legislativos e materiais de segurança digital. Cada referência leva à organização responsável por sua publicação.",
+        "sections": [
+          {
+            "heading": "O que você encontra aqui",
+            "paragraphs": [
+              "Esta seleção reúne fontes externas. Os materiais não são publicações do IBDCyber. Use a busca e os temas para localizar um assunto e consulte o documento original para compreender seu contexto."
+            ]
+          },
+          {
+            "heading": "Datas e versões",
+            "paragraphs": [
+              "A data de revisão indica quando a referência foi conferida neste projeto. Ela não substitui a data de publicação do material. Documentos legislativos e acervos podem mudar; verifique a versão disponível na origem antes de utilizar a informação."
+            ]
+          }
+        ]
+      },
+      "en": {
+        "title": "Knowledge",
+        "eyebrow": "Resources to consult",
+        "description": "Selected external sources on legislation, public policy and digital security, with authorship and review dates identified.",
+        "intro": "A starting point for legislative records and digital security resources. Each reference takes you to the organisation responsible for publishing it.",
+        "sections": [
+          {
+            "heading": "What this collection contains",
+            "paragraphs": [
+              "This selection brings together external sources. The materials are not IBDCyber publications. Use search and topic filters to find a subject, then consult the original document for its full context."
+            ]
+          },
+          {
+            "heading": "Dates and versions",
+            "paragraphs": [
+              "The review date records when the reference was checked for this project. It is separate from the source's publication date. Legislative records and collections can change; check the version available at the source before using the information."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "front",
+      "slug": {
+        "pt": "fpciberseg",
+        "en": "fpciberseg"
+      },
+      "pt": {
+        "title": "FPCIBERSEG",
+        "eyebrow": "Agenda parlamentar",
+        "description": "Conheça a Frente Parlamentar de Apoio à Cibersegurança e à Defesa Cibernética e consulte registros oficiais do Senado.",
+        "intro": "A Frente Parlamentar de Apoio à Cibersegurança e à Defesa Cibernética foi instituída no Senado pela Resolução nº 55/2024.",
+        "sections": [
+          {
+            "heading": "A relação com o IBDCyber",
+            "paragraphs": [
+              "A instalação ocorreu em 25 de março de 2025. O Senado registra a designação de Carlos Diego de Araújo Pinto e Lima como secretário executivo. O Instituto o apresenta como diretor-presidente. Esses registros identificam funções distintas; não comprovam subordinação jurídica entre as instituições."
+            ]
+          },
+          {
+            "heading": "Acompanhe a matéria",
+            "paragraphs": [
+              "Na consulta de 17 de outubro de 2026, o PL 4752/2025 estava em tramitação, com relatoria de Jorge Seif na CCT. O último estado registrado era de 3 de setembro de 2026. Trata-se de proposta legislativa, não de lei vigente."
+            ]
+          },
+          {
+            "heading": "Registros oficiais",
+            "paragraphs": [
+              "Consulte as reuniões, a composição da Frente e a tramitação diretamente no Senado. A agenda abaixo reúne marcos já realizados."
+            ]
+          }
+        ]
+      },
+      "en": {
+        "title": "FPCIBERSEG",
+        "eyebrow": "Parliamentary agenda",
+        "description": "Learn about Brazil's parliamentary group supporting cybersecurity and cyber defence and consult official Senate records.",
+        "intro": "The Frente Parlamentar de Apoio à Cibersegurança e à Defesa Cibernética was established within the Senate by Resolution 55/2024.",
+        "sections": [
+          {
+            "heading": "The relationship with IBDCyber",
+            "paragraphs": [
+              "The group was installed on 25 March 2025. Senate records name Carlos Diego de Araújo Pinto e Lima as Executive Secretary. IBDCyber identifies him as its President. These are distinct roles and do not establish legal subordination between the institutions."
+            ]
+          },
+          {
+            "heading": "Follow the bill",
+            "paragraphs": [
+              "Checked on 17 October 2026, Bill 4752/2025 remained under consideration, assigned to Senator Jorge Seif at CCT. Its latest recorded status was dated 3 September 2026. It is a legislative proposal, not enacted law."
+            ]
+          },
+          {
+            "heading": "Official records",
+            "paragraphs": [
+              "Consult the Senate for meetings, membership and the bill's progress. The archive below lists completed events."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "agenda",
+      "slug": {
+        "pt": "agenda",
+        "en": "activity"
+      },
+      "pt": {
+        "title": "Agenda e registros",
+        "eyebrow": "Trajetória institucional",
+        "description": "Reuniões da FPCIBERSEG e participações informadas pelo IBDCyber, com datas, contexto e fontes.",
+        "intro": "Reuniões, encontros e participações que ajudam a acompanhar a agenda de cibersegurança. Todos os registros desta versão se referem a atividades passadas.",
+        "sections": [
+          {
+            "heading": "Consulte o contexto",
+            "paragraphs": [
+              "Os registros parlamentares levam às páginas oficiais do Senado. As participações informadas pelo Instituto remetem à apresentação institucional. Cada entrada identifica essa diferença e preserva a precisão disponível para sua data."
+            ]
+          },
+          {
+            "heading": "Novas atividades",
+            "paragraphs": [
+              "Esta versão não anuncia eventos futuros nem recebe inscrições. Para acompanhar novas comunicações, consulte o perfil institucional indicado na página de contato."
+            ]
+          }
+        ]
+      },
+      "en": {
+        "title": "Activity and records",
+        "eyebrow": "Institutional record",
+        "description": "FPCIBERSEG meetings and activities reported by IBDCyber, with dates, context and sources.",
+        "intro": "Meetings and participation in events provide a record of the cybersecurity agenda. Every entry in this version concerns a past activity.",
+        "sections": [
+          {
+            "heading": "Read the context",
+            "paragraphs": [
+              "Parliamentary entries link to official Senate records. Activities reported by the Institute refer to its institutional presentation. Each entry makes this distinction clear and retains the available precision of its date."
+            ]
+          },
+          {
+            "heading": "Upcoming activities",
+            "paragraphs": [
+              "This version does not announce future events or accept registrations. For new announcements, consult the institutional profile listed on the contact page."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "contact",
+      "slug": {
+        "pt": "contato",
+        "en": "contact"
+      },
+      "pt": {
+        "title": "Contato",
+        "eyebrow": "Converse com o Instituto",
+        "description": "Encontre os canais públicos verificados do IBDCyber e saiba como apresentar uma pauta institucional, acadêmica ou de cooperação.",
+        "intro": "Uma boa conversa começa com o assunto. Apresente sua organização, a questão que deseja discutir e o objetivo do contato.",
+        "sections": [
+          {
+            "heading": "Canais disponíveis",
+            "paragraphs": [
+              "Consulte o perfil @institutociberbr no Instagram e o portal institucional atual. São os canais públicos identificados para esta versão. Este protótipo não recebe mensagens nem contém formulário de atendimento."
+            ]
+          },
+          {
+            "heading": "Para encaminhar uma pauta",
+            "paragraphs": [],
+            "items": [
+              "Diálogo institucional: descreva o tema e as pessoas ou organizações envolvidas.",
+              "Pesquisa e formação: indique a pergunta ou necessidade e o público a que se refere.",
+              "Cooperação e imprensa: informe o objetivo, o contexto e eventual prazo."
+            ]
+          },
+          {
+            "heading": "Antes de enviar",
+            "paragraphs": [
+              "Evite incluir senhas, documentos pessoais, dados de terceiros ou informações confidenciais no primeiro contato. Este canal institucional não é apresentado como serviço de resposta a incidentes."
+            ]
+          }
+        ]
+      },
+      "en": {
+        "title": "Contact",
+        "eyebrow": "Speak with the Institute",
+        "description": "Find verified public channels for IBDCyber and introduce an institutional, research or cooperation topic.",
+        "intro": "Start with the subject. Introduce your organisation, the question you would like to discuss and the purpose of your message.",
+        "sections": [
+          {
+            "heading": "Available channels",
+            "paragraphs": [
+              "Consult @institutociberbr on Instagram and the current institutional website. These are the public channels identified for this version. This prototype does not receive messages or provide a contact form."
+            ]
+          },
+          {
+            "heading": "Introducing a subject",
+            "paragraphs": [],
+            "items": [
+              "Institutional discussion: describe the subject and the people or organisations involved.",
+              "Research and education: explain the question or need and the intended audience.",
+              "Cooperation and media: state the purpose, context and any relevant deadline."
+            ]
+          },
+          {
+            "heading": "Before sending",
+            "paragraphs": [
+              "Avoid passwords, personal documents, information about third parties or confidential material in an initial message. This institutional channel is not presented as an incident response service."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "privacy",
+      "slug": {
+        "pt": "privacidade",
+        "en": "privacy"
+      },
+      "pt": {
+        "title": "Privacidade neste protótipo",
+        "eyebrow": "Informações de uso",
+        "description": "Como este protótipo trata a navegação, a busca local e os acessos a páginas externas.",
+        "intro": "Esta página descreve os recursos desta versão de demonstração. Ela deverá ser revista antes da publicação de um portal definitivo.",
+        "sections": [
+          {
+            "heading": "Recursos do projeto",
+            "paragraphs": [
+              "O projeto não adiciona cadastro, formulário de contato ou ferramentas de publicidade e análise de audiência. A busca consulta o conteúdo incluído no próprio portal. Não há envio de solicitações de serviço por esta interface."
+            ]
+          },
+          {
+            "heading": "Hospedagem e páginas externas",
+            "paragraphs": [
+              "O ambiente privado de hospedagem pode exigir autenticação e manter registros técnicos conforme suas próprias condições. Isso é diferente das funções implementadas neste protótipo. Ao acessar Instagram, Senado ou outros endereços externos, aplicam-se as condições de cada serviço."
+            ]
+          },
+          {
+            "heading": "Antes da versão pública",
+            "paragraphs": [
+              "A instituição deverá definir as informações sobre responsáveis, finalidades, canais de privacidade e recursos efetivamente utilizados. A inclusão futura de formulários, métricas ou inscrições exige atualizar esta página antes de ativar essas funções."
+            ]
+          }
+        ]
+      },
+      "en": {
+        "title": "Privacy in this prototype",
+        "eyebrow": "Using this website",
+        "description": "Information about navigation, local search and external links in this demonstration version.",
+        "intro": "This page describes the features of this demonstration version. It will need review before a production portal is published.",
+        "sections": [
+          {
+            "heading": "Project features",
+            "paragraphs": [
+              "The project adds no registration, contact forms, advertising or audience analytics tools. Search uses the content included in the portal itself. This interface does not submit service requests."
+            ]
+          },
+          {
+            "heading": "Hosting and external websites",
+            "paragraphs": [
+              "The private hosting environment may require authentication and retain technical logs under its own terms. Those functions are separate from the features implemented in this prototype. Instagram, the Senate and other external websites apply their own terms when you visit them."
+            ]
+          },
+          {
+            "heading": "Before public launch",
+            "paragraphs": [
+              "The Institute will need to specify the responsible parties, purposes, privacy contacts and features actually used. Adding forms, analytics or registrations will require an update to this page before those functions are enabled."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "accessibility",
+      "slug": {
+        "pt": "acessibilidade",
+        "en": "accessibility"
+      },
+      "pt": {
+        "title": "Acessibilidade",
+        "eyebrow": "Informações de uso",
+        "description": "Recursos previstos para facilitar a leitura e a navegação no protótipo institucional do IBDCyber.",
+        "intro": "O portal foi pensado para ser lido em telas de diferentes tamanhos e percorrido com teclado, com atenção à organização do conteúdo.",
+        "sections": [
+          {
+            "heading": "Recursos de navegação",
+            "paragraphs": [
+              "Links descritivos, títulos hierárquicos, foco visível e um atalho para o conteúdo principal orientam a implementação. O navegador permite ampliar o texto. A mudança de idioma leva ao conteúdo equivalente quando disponível."
+            ]
+          },
+          {
+            "heading": "Referência e limites",
+            "paragraphs": [
+              "As WCAG 2.2, nível AA, são a referência de projeto. Os testes registrados no dossiê descrevem o que foi verificado. Esta página não declara certificação ou conformidade integral; documentos e páginas externos podem oferecer condições de acesso diferentes."
+            ]
+          },
+          {
+            "heading": "Relatar uma dificuldade",
+            "paragraphs": [
+              "Se encontrar uma barreira, indique a página, a ação que tentou realizar e, se possível, o navegador e o recurso de acessibilidade utilizado. Os canais institucionais estão na página de contato."
+            ]
+          }
+        ]
+      },
+      "en": {
+        "title": "Accessibility",
+        "eyebrow": "Using this website",
+        "description": "Features intended to support reading and navigation in the IBDCyber institutional prototype.",
+        "intro": "The portal is designed for different screen sizes and keyboard navigation, with particular attention to content structure.",
+        "sections": [
+          {
+            "heading": "Navigation features",
+            "paragraphs": [
+              "Descriptive links, heading structure, visible focus and a skip link guide the implementation. Browser zoom can enlarge the text. The language switch opens the equivalent content where available."
+            ]
+          },
+          {
+            "heading": "Reference and limits",
+            "paragraphs": [
+              "WCAG 2.2 Level AA is the design reference. The tests recorded in the dossier describe what was checked. This page does not claim certification or complete conformance. External documents and websites may provide different accessibility conditions."
+            ]
+          },
+          {
+            "heading": "Reporting a difficulty",
+            "paragraphs": [
+              "If you encounter a barrier, identify the page, what you tried to do and, where possible, your browser and assistive technology. Institutional channels are listed on the contact page."
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "knowledge": [
+    {
+      "id": "pl4752",
+      "title": {
+        "pt": "PL 4752/2025: acompanhe a tramitação",
+        "en": "Bill 4752/2025: follow its progress"
+      },
+      "summary": {
+        "pt": "Página oficial com textos, emendas, relatoria e andamento da proposta de Marco Legal da Cibersegurança. Em tramitação na data de consulta.",
+        "en": "Official record containing texts, amendments, rapporteur and progress of the proposed cybersecurity framework. Under consideration when checked."
+      },
+      "topic": {
+        "pt": "Políticas públicas",
+        "en": "Public policy"
+      },
+      "date": "2026-10-17",
+      "dateLabel": {
+        "pt": "Referência revisada em",
+        "en": "Reference reviewed on"
+      },
+      "sourceLabel": "Senado Federal",
+      "sourceUrl": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170613",
+      "kind": {
+        "pt": "Referência externa",
+        "en": "External reference"
+      }
+    },
+    {
+      "id": "resolution55",
+      "title": {
+        "pt": "Resolução nº 55/2024",
+        "en": "Senate Resolution 55/2024"
+      },
+      "summary": {
+        "pt": "Texto que institui a FPCIBERSEG no âmbito do Senado Federal. Consulte as finalidades e as regras de organização da Frente.",
+        "en": "The resolution establishing FPCIBERSEG within the Federal Senate. Consult its purposes and organisational provisions."
+      },
+      "topic": {
+        "pt": "Políticas públicas",
+        "en": "Public policy"
+      },
+      "date": "2026-10-17",
+      "dateLabel": {
+        "pt": "Referência revisada em",
+        "en": "Reference reviewed on"
+      },
+      "sourceLabel": "Senado Federal",
+      "sourceUrl": "https://legis.senado.leg.br/norma/39978845/publicacao/39980276",
+      "kind": {
+        "pt": "Referência externa",
+        "en": "External reference"
+      }
+    },
+    {
+      "id": "cert-guide",
+      "title": {
+        "pt": "Cartilha de Segurança para Internet",
+        "en": "CERT.br Internet Security Guide"
+      },
+      "summary": {
+        "pt": "Materiais do CERT.br para consulta sobre cuidados com a segurança na internet. Conteúdo mantido pela organização de origem.",
+        "en": "CERT.br resources on safer internet use. Materials are maintained by the originating organisation and are primarily in Portuguese."
+      },
+      "topic": {
+        "pt": "Formação",
+        "en": "Education"
+      },
+      "date": "2026-10-17",
+      "dateLabel": {
+        "pt": "Referência revisada em",
+        "en": "Reference reviewed on"
+      },
+      "sourceLabel": "CERT.br",
+      "sourceUrl": "https://cartilha.cert.br/",
+      "kind": {
+        "pt": "Referência externa",
+        "en": "External reference"
+      }
+    },
+    {
+      "id": "enisa-library",
+      "title": {
+        "pt": "Publicações da ENISA",
+        "en": "ENISA publications"
+      },
+      "summary": {
+        "pt": "Acervo da agência europeia de cibersegurança, com filtros por tema, público e data. Uma fonte para pesquisa comparada.",
+        "en": "The European Union cybersecurity agency's collection, searchable by topic, audience and date. A resource for comparative research."
+      },
+      "topic": {
+        "pt": "Estudos",
+        "en": "Research"
+      },
+      "date": "2026-10-17",
+      "dateLabel": {
+        "pt": "Referência revisada em",
+        "en": "Reference reviewed on"
+      },
+      "sourceLabel": "ENISA",
+      "sourceUrl": "https://www.enisa.europa.eu/publications",
+      "kind": {
+        "pt": "Referência externa",
+        "en": "External reference"
+      }
+    }
+  ],
+  "events": [
+    {
+      "id": "front-installation",
+      "title": {
+        "pt": "Instalação da FPCIBERSEG",
+        "en": "Installation of FPCIBERSEG"
+      },
+      "summary": {
+        "pt": "Primeira reunião da Frente, com instalação, aprovação do estatuto e eleição da comissão executiva.",
+        "en": "The group's first meeting, including installation, approval of its rules and election of its executive committee."
+      },
+      "body": {
+        "pt": [
+          "O Senado registra a reunião como realizada em 25 de março de 2025, no Auditório Petrônio Portela. Consulte a página oficial para pauta e resultado."
+        ],
+        "en": [
+          "The Senate records the meeting as held on 25 March 2025 at Auditório Petrônio Portela. Consult the official page for its agenda and outcome."
+        ]
+      },
+      "date": "2025-03-25",
+      "displayDate": {
+        "pt": "25 de março de 2025",
+        "en": "25 March 2025"
+      },
+      "type": {
+        "pt": "Agenda parlamentar",
+        "en": "Parliamentary activity"
+      },
+      "sourceLabel": "Senado Federal",
+      "sourceUrl": "https://legis.senado.leg.br/atividade/comissoes/comissao/2716/reuniao/13380"
+    },
+    {
+      "id": "front-opening",
+      "title": {
+        "pt": "Abertura dos trabalhos da Frente",
+        "en": "Opening of the group's work"
+      },
+      "summary": {
+        "pt": "Segunda reunião, com debate sobre o custo econômico e social da insegurança cibernética no Brasil.",
+        "en": "The second meeting included discussion of the economic and social cost of cyber insecurity in Brazil."
+      },
+      "body": {
+        "pt": [
+          "Realizada em 28 de maio de 2025, a reunião também tratou de alterações no estatuto e da eleição de cargos da comissão executiva. O registro do Senado permite consultar os resultados e as intervenções."
+        ],
+        "en": [
+          "Held on 28 May 2025, the meeting also addressed changes to the rules and appointments to the executive committee. The Senate record provides the outcomes and contributions."
+        ]
+      },
+      "date": "2025-05-28",
+      "displayDate": {
+        "pt": "28 de maio de 2025",
+        "en": "28 May 2025"
+      },
+      "type": {
+        "pt": "Agenda parlamentar",
+        "en": "Parliamentary activity"
+      },
+      "sourceLabel": "Senado Federal",
+      "sourceUrl": "https://legis.senado.leg.br/atividade/comissoes/comissao/2716/reuniao/13626"
+    },
+    {
+      "id": "front-hearing",
+      "title": {
+        "pt": "Audiência sobre o Marco Legal da Cibersegurança",
+        "en": "Hearing on the cybersecurity framework"
+      },
+      "summary": {
+        "pt": "Terceira reunião da FPCIBERSEG, dedicada à discussão do PL 4752/2025.",
+        "en": "FPCIBERSEG's third meeting, dedicated to discussion of Bill 4752/2025."
+      },
+      "body": {
+        "pt": [
+          "A audiência ocorreu em 4 de novembro de 2025. A página oficial do Senado reúne os registros da discussão. O encontro integra o histórico de debate da proposta e não corresponde à aprovação de uma lei."
+        ],
+        "en": [
+          "The hearing took place on 4 November 2025. The Senate's official page provides records of the discussion. The meeting forms part of the debate on the proposal and does not constitute enactment of a law."
+        ]
+      },
+      "date": "2025-11-04",
+      "displayDate": {
+        "pt": "4 de novembro de 2025",
+        "en": "4 November 2025"
+      },
+      "type": {
+        "pt": "Agenda parlamentar",
+        "en": "Parliamentary activity"
+      },
+      "sourceLabel": "Senado Federal",
+      "sourceUrl": "https://legis.senado.leg.br/atividade/comissoes/comissao/2716/reuniao/14171"
+    },
+    {
+      "id": "rsa2025",
+      "title": {
+        "pt": "Participação relatada na RSA Conference",
+        "en": "Reported participation in RSA Conference"
+      },
+      "summary": {
+        "pt": "A apresentação institucional inclui a RSA Conference entre as participações de 2025.",
+        "en": "The institutional presentation lists RSA Conference among the activities reported for 2025."
+      },
+      "body": {
+        "pt": [
+          "O material fornecido pelo Instituto associa essa participação ao diálogo sobre cibersegurança e à agenda internacional. Esta entrada reproduz o alcance do registro institucional: a fonte informa o ano, sem detalhar a data ou resultados específicos."
+        ],
+        "en": [
+          "The material supplied by the Institute associates this participation with cybersecurity discussion and the international agenda. This entry preserves the scope of that record: the source gives a year without specifying the date or particular outcomes."
+        ]
+      },
+      "date": "2025",
+      "displayDate": {
+        "pt": "2025 | ano informado pelo Instituto",
+        "en": "2025 | year reported by the Institute"
+      },
+      "type": {
+        "pt": "Participação institucional",
+        "en": "Institutional participation"
+      },
+      "sourceLabel": "Apresentação institucional do IBDCyber",
+      "sourceUrl": "https://drive.google.com/file/d/1soc9H5SItfho9lnlMgRBPLny8xpMlP7a/view"
+    },
+    {
+      "id": "mission2024",
+      "title": {
+        "pt": "Missão relatada a Pittsburgh e Washington, D.C.",
+        "en": "Reported mission to Pittsburgh and Washington, D.C."
+      },
+      "summary": {
+        "pt": "Registro institucional de intercâmbio nos Estados Unidos em 2024.",
+        "en": "An institutional record of an exchange visit to the United States in 2024."
+      },
+      "body": {
+        "pt": [
+          "A apresentação fornecida pelo IBDCyber menciona a missão como oportunidade de intercâmbio sobre cibersegurança. A fonte informa as cidades e o ano. Esta versão não atribui parcerias, acordos ou entregas que não estejam detalhados no material."
+        ],
+        "en": [
+          "The presentation supplied by IBDCyber describes the mission as an opportunity to exchange experience on cybersecurity. The source gives the cities and year. This version does not attribute partnerships, agreements or deliverables that are not detailed in the material."
+        ]
+      },
+      "date": "2024",
+      "displayDate": {
+        "pt": "2024 | ano informado pelo Instituto",
+        "en": "2024 | year reported by the Institute"
+      },
+      "type": {
+        "pt": "Participação institucional",
+        "en": "Institutional participation"
+      },
+      "sourceLabel": "Apresentação institucional do IBDCyber",
+      "sourceUrl": "https://drive.google.com/file/d/1soc9H5SItfho9lnlMgRBPLny8xpMlP7a/view"
+    }
+  ],
+  "carousel": {
+    "intervalMs": 6000,
+    "slides": [
+      {
+        "image": "/assets/gallery-p14-3.png",
+        "width": 860,
+        "height": 570,
+        "title": {
+          "pt": "Diálogo institucional",
+          "en": "Institutional dialogue"
+        },
+        "description": {
+          "pt": "Reunião da FPCIBERSEG no Senado Federal.",
+          "en": "FPCIBERSEG meeting at the Federal Senate."
+        },
+        "caption": {
+          "pt": "Acervo da apresentação institucional",
+          "en": "Institutional presentation archive"
+        },
+        "alt": {
+          "pt": "Participantes reunidos em sala de comissão do Senado.",
+          "en": "Participants gathered in a Senate committee room."
+        },
+        "sourceFile": "institution.pdf",
+        "sourcePage": 14
+      },
+      {
+        "image": "/assets/gallery-p6-3.png",
+        "width": 886,
+        "height": 643,
+        "title": {
+          "pt": "Cooperação internacional",
+          "en": "International cooperation"
+        },
+        "description": {
+          "pt": "Missão a Pittsburgh e Washington, D.C., em 2024.",
+          "en": "Mission to Pittsburgh and Washington, D.C., in 2024."
+        },
+        "caption": {
+          "pt": "Acervo da apresentação institucional",
+          "en": "Institutional presentation archive"
+        },
+        "alt": {
+          "pt": "Comitiva reunida diante de uma projeção com as bandeiras do Brasil e dos Estados Unidos.",
+          "en": "Delegation in front of a screen displaying the Brazilian and US flags."
+        },
+        "sourceFile": "institution.pdf",
+        "sourcePage": 6
+      },
+      {
+        "image": "/assets/gallery-p6-2.png",
+        "width": 771,
+        "height": 483,
+        "title": {
+          "pt": "RSA Conference 2025",
+          "en": "RSA Conference 2025"
+        },
+        "description": {
+          "pt": "Encontro sobre cibersegurança registrado na apresentação do Instituto.",
+          "en": "Cybersecurity meeting documented in the Institute’s presentation."
+        },
+        "caption": {
+          "pt": "Acervo da apresentação institucional",
+          "en": "Institutional presentation archive"
+        },
+        "alt": {
+          "pt": "Participantes de um painel em ambiente de conferência.",
+          "en": "Participants in a conference panel discussion."
+        },
+        "sourceFile": "institution.pdf",
+        "sourcePage": 6
+      },
+      {
+        "image": "/assets/gallery-p14-5.png",
+        "width": 733,
+        "height": 458,
+        "title": {
+          "pt": "Encontro no Senado",
+          "en": "Meeting at the Senate"
+        },
+        "description": {
+          "pt": "Registro de participantes das reuniões da Frente.",
+          "en": "Group photograph from the parliamentary front’s meetings."
+        },
+        "caption": {
+          "pt": "Acervo da apresentação institucional",
+          "en": "Institutional presentation archive"
+        },
+        "alt": {
+          "pt": "Grupo posando junto à mesa de uma sala de comissão.",
+          "en": "Group standing beside a committee room table."
+        },
+        "sourceFile": "institution.pdf",
+        "sourcePage": 14
+      },
+      {
+        "image": "/assets/gallery-p14-1.png",
+        "width": 1600,
+        "height": 1200,
+        "title": {
+          "pt": "A agenda em discussão",
+          "en": "The agenda under discussion"
+        },
+        "description": {
+          "pt": "Visão da sala durante reunião da FPCIBERSEG.",
+          "en": "View of the room during a FPCIBERSEG meeting."
+        },
+        "caption": {
+          "pt": "Acervo da apresentação institucional",
+          "en": "Institutional presentation archive"
+        },
+        "alt": {
+          "pt": "Visão ampla da sala com participantes em torno das mesas.",
+          "en": "Wide view of participants seated around the meeting tables."
+        },
+        "sourceFile": "institution.pdf",
+        "sourcePage": 14
+      },
+      {
+        "image": "/assets/gallery-p14-2.png",
+        "width": 733,
+        "height": 458,
+        "title": {
+          "pt": "Participação e escuta",
+          "en": "Participation and discussion"
+        },
+        "description": {
+          "pt": "Público presente em reunião no Senado Federal.",
+          "en": "Attendees at a Federal Senate meeting."
+        },
+        "caption": {
+          "pt": "Acervo da apresentação institucional",
+          "en": "Institutional presentation archive"
+        },
+        "alt": {
+          "pt": "Participantes sentados nas fileiras da sala de reunião.",
+          "en": "Attendees seated in rows in the meeting room."
+        },
+        "sourceFile": "institution.pdf",
+        "sourcePage": 14
+      },
+      {
+        "image": "/assets/gallery-p14-4.png",
+        "width": 1000,
+        "height": 617,
+        "title": {
+          "pt": "Debate parlamentar",
+          "en": "Parliamentary debate"
+        },
+        "description": {
+          "pt": "Reuniões da FPCIBERSEG documentadas pelo Instituto.",
+          "en": "FPCIBERSEG meetings documented by the Institute."
+        },
+        "caption": {
+          "pt": "Acervo da apresentação institucional",
+          "en": "Institutional presentation archive"
+        },
+        "alt": {
+          "pt": "Participantes sentados à mesa de uma reunião parlamentar.",
+          "en": "Participants seated at a parliamentary meeting table."
+        },
+        "sourceFile": "institution.pdf",
+        "sourcePage": 14
+      },
+      {
+        "image": "/assets/gallery-p14-6.png",
+        "width": 675,
+        "height": 450,
+        "title": {
+          "pt": "Interlocução técnica",
+          "en": "Technical dialogue"
+        },
+        "description": {
+          "pt": "Discussão registrada nas reuniões da Frente no Senado.",
+          "en": "Discussion recorded at the front’s Senate meetings."
+        },
+        "caption": {
+          "pt": "Acervo da apresentação institucional",
+          "en": "Institutional presentation archive"
+        },
+        "alt": {
+          "pt": "Três participantes à mesa, com um deles falando ao microfone.",
+          "en": "Three participants at the table, one speaking into a microphone."
+        },
+        "sourceFile": "institution.pdf",
+        "sourcePage": 14
+      },
+      {
+        "image": "/assets/gallery-p6-1.png",
+        "width": 1179,
+        "height": 969,
+        "title": {
+          "pt": "Cibersegurança no Parlamento",
+          "en": "Cybersecurity in Parliament"
+        },
+        "description": {
+          "pt": "Registro do acervo da apresentação institucional.",
+          "en": "Photograph from the institutional presentation archive."
+        },
+        "caption": {
+          "pt": "Acervo da apresentação institucional",
+          "en": "Institutional presentation archive"
+        },
+        "alt": {
+          "pt": "Senador Esperidião Amin falando ao microfone diante de uma tela sobre cibersegurança.",
+          "en": "Senator Esperidião Amin speaking into a microphone in front of a cybersecurity screen."
+        },
+        "sourceFile": "institution.pdf",
+        "sourcePage": 6
+      },
+      {
+        "image": "/assets/gallery-p5-1.png",
+        "width": 880,
+        "height": 1280,
+        "title": {
+          "pt": "Presidência do Instituto",
+          "en": "Institute leadership"
+        },
+        "description": {
+          "pt": "Carlos Diego de Araújo, presidente do IBDCyber.",
+          "en": "Carlos Diego de Araújo, president of IBDCyber."
+        },
+        "caption": {
+          "pt": "Acervo da apresentação institucional",
+          "en": "Institutional presentation archive"
+        },
+        "alt": {
+          "pt": "Carlos Diego de Araújo sentado, segurando um microfone.",
+          "en": "Carlos Diego de Araújo seated, holding a microphone."
+        },
+        "sourceFile": "institution.pdf",
+        "sourcePage": 5
+      }
+    ]
+  }
+}

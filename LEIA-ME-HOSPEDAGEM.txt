@@ -1,0 +1,32 @@
+IBDCyber | Primeira versão para avaliação em hospedagem
+
+Este pacote contém a versão atual do portal, com páginas em português e inglês,
+marca vetorial e carrossel de dez fotos. Os arquivos estão na raiz do ZIP.
+
+INSTALAÇÃO
+1. Use um domínio ou subdomínio destinado à avaliação.
+2. Extraia o conteúdo do ZIP na raiz pública desse domínio, normalmente public_html,
+   www ou htdocs. O arquivo index.html deve ficar diretamente nessa pasta.
+3. Preserve a estrutura das pastas assets, pt e en.
+4. Acesse o domínio por HTTPS. A página inicial encaminha para /pt/.
+5. Confira também /en/, a busca, o menu em celular e o carrossel.
+
+REQUISITOS
+Servidor de arquivos estáticos que abra index.html nos diretórios.
+Não é necessário instalar Node.js, Python, PHP ou banco de dados no provedor.
+Os endereços de arquivos começam com /. Por isso, publique na raiz de um domínio
+ou subdomínio, não dentro de uma subpasta como /teste/.
+Caso o provedor permita, configure 404.html como página de erro 404.
+Não abra os arquivos por duplo clique para testar: use o endereço da hospedagem.
+
+ESCOPO
+Pacote pronto para servir, contendo HTML, CSS, JavaScript, JSON e imagens.
+Não inclui o gerador Python, repositório Git, credenciais ou configuração do Sites.
+Não há painel administrativo, cadastro, banco de dados ou envio de formulários.
+A busca e os filtros usam JavaScript e os dados incluídos no pacote.
+
+AVALIAÇÃO
+As instruções de não indexação existentes foram preservadas em robots.txt e nas
+páginas. Elas não restringem acesso. A privacidade do Sites não é transferida ao
+novo provedor. Para manter acesso privado, configure proteção no painel da hospedagem.
+O domínio original ibdcyber.org.br não é alterado por este pacote.

@@ -1,0 +1,129 @@
+/* Light editorial layout, following the supplied visual reference. */
+:root{--paper:#f7f5f1;--ink:#153341;--muted:#52636a}
+body{background:#fffefa;color:var(--ink);font-size:18px}
+.wrap{max-width:1320px}
+.header-main{flex-wrap:wrap;gap:0;min-height:0;padding-top:12px}
+.brand{padding:0 0 12px;gap:24px}
+.brand img{width:150px}
+.brand span{display:block;font-size:13px;max-width:210px;line-height:1.6}
+.header-actions{margin-left:auto;order:1}
+.utility{font-size:12px}.utility .location{font-size:12px}
+.nav{order:3;flex-basis:100%;justify-content:flex-start;gap:30px;font-size:17px;border-top:1px solid #ffffff20;padding:5px 0 9px}
+.nav a{font-size:17px;padding:10px 0}.nav a:last-child{margin-left:auto}
+.search-link{width:auto;font-size:15px;gap:10px}
+.masthead{background:#f7f5f1;color:var(--ink)}
+.masthead-grid{display:block;padding-top:50px;padding-bottom:36px}
+.masthead-copy{display:grid;grid-template-columns:1.15fr 1fr;gap:85px;align-items:center;padding:0 0 38px}
+.masthead .eyebrow{font-size:13px;letter-spacing:1px;color:#58666a;max-width:none;margin-bottom:20px}
+.masthead h1{font-size:clamp(42px,4.4vw,62px);font-weight:450;line-height:1.07;letter-spacing:-2.4px;margin:0}
+.masthead h1 em{color:#406979;font-style:normal}
+.masthead-summary{border-left:1px solid #d5dcd9;padding-left:34px}
+.masthead-intro{font-size:18px;line-height:1.75;max-width:470px;color:#52636a}
+.masthead .buttons{gap:24px;flex-wrap:wrap;margin-top:25px}
+.masthead .button{background:#133543;border-color:#133543;color:white!important;font-size:15px;padding:13px 20px}
+.masthead .button:hover{background:#244d5e;border-color:#244d5e}
+.masthead .text-link{color:#153341;font-size:15px;border-color:#aab8bc}
+.hero-signature{color:#52636a;font-size:13px;margin-top:22px;letter-spacing:0}
+.masthead-media.photo-carousel{border-radius:14px;background:#fffefa;border:1px solid #dce2df;box-shadow:0 12px 36px #17374609;width:100%;overflow:hidden}
+.carousel-slide:not([hidden]){display:grid;grid-template-columns:minmax(0,2.25fr) minmax(250px,1fr);animation:gallery-reveal .45s ease-out}
+.carousel-slide[hidden]{display:none}
+.carousel-image{aspect-ratio:auto;height:420px;background:#e8eeed;touch-action:pan-y}
+.masthead-media .carousel-image img{padding:0;object-fit:contain;object-position:center}
+.masthead-media .carousel-slide figcaption{padding:34px 30px;gap:16px;background:#fffefa;min-height:0;justify-content:center}
+.masthead-media .carousel-slide figcaption strong{font-size:29px;font-weight:500;line-height:1.15;letter-spacing:-.7px;color:#153341}
+.masthead-media .carousel-slide figcaption .gallery-kicker{display:flex;flex-wrap:wrap;justify-content:space-between;gap:12px;font-size:12px;letter-spacing:.6px;text-transform:uppercase;color:#52636a;margin-bottom:6px}
+.masthead-media .carousel-slide figcaption .gallery-number{font-variant-numeric:tabular-nums;font-size:13px;color:#52636a}
+.masthead-media .carousel-slide figcaption p{font-size:16px;line-height:1.7;margin:0;color:#52636a}
+.masthead-media .carousel-slide figcaption .gallery-source{font-size:13px;color:#65736f;line-height:1.5;margin-top:20px;padding-top:17px;border-top:1px solid #dce2df}
+.carousel-controls{background:#fffefa;padding:18px 24px 8px;gap:16px}
+.carousel-controls button{color:#153341;border:1px solid #bac9c9;border-radius:50%;min-width:44px;min-height:44px;background:#fffefa}
+.carousel-controls button:hover{background:#eaf0ee;border-color:#547481;color:#153341}
+.carousel-controls button:focus-visible,.carousel-dot:focus-visible{outline:3px solid #326777;outline-offset:3px}
+.carousel-controls .carousel-toggle{font-size:14px;min-width:110px;border-radius:24px;padding:9px 15px}
+.carousel-counter{display:block;margin-left:auto;font-size:14px;color:#52636a;letter-spacing:1px}
+.carousel-arrows{gap:10px}
+.carousel-timing{background:#fffefa;color:#52636a;font-size:13px;padding:0 24px 18px}
+.carousel-progress{height:3px;background:#e1e7e4;margin-top:12px}
+.carousel-progress>span{background:#987437}
+.carousel-dots{display:flex;gap:8px;margin:0;padding:0 24px 22px;overflow-x:auto;scrollbar-width:thin;scrollbar-color:#b5c4c3 transparent}
+.carousel-dot{position:relative;display:block;flex:1 0 0;min-width:64px;height:67px;padding:3px;background:#edf1ee;border:2px solid transparent;border-radius:7px;cursor:pointer;overflow:hidden;transition:border-color .2s,opacity .2s;opacity:.7}
+.carousel-dot img{display:block;width:100%;height:100%;object-fit:contain;border-radius:3px}
+.carousel-dot:hover{opacity:1;border-color:#a5b6b3}
+.carousel-dot[aria-pressed=true]{opacity:1;border-color:#987437;background:#fcf6e9}
+.carousel-dot .thumb-number,.carousel-dot[aria-pressed=true] .thumb-number{position:absolute;bottom:3px;right:3px;width:auto;height:auto;padding:0 4px;border-radius:3px;background:#133543;color:white;font-size:11px;line-height:18px;transition:none}
+.spotlight-bar{background:#edf2f1}.spotlight-grid{grid-template-columns:140px 1.1fr 1fr auto;gap:25px}
+.spotlight-grid p{font-size:16px}.spotlight-grid h2{font-size:21px}
+.practice-section,.knowledge-section{background:#edf3f3}
+.practice-card p,.resource p{font-size:16px;line-height:1.75}
+.front-panel{background:#e9efec;color:#153341;border:1px solid #d4ded8;box-shadow:none}
+.front-panel:after{display:none}.panel-label{color:#6d542b}.front-monogram span{color:#416773}.front-panel>p{color:#52636a;font-size:16px}.panel-foot{color:#52636a;border-color:#bacbc5}
+.cta-band{background:#eaf0ee;color:#153341;border-color:#d4dfd9}.cta-band p{color:#52636a;font-size:16px}.cta-band .button{background:#133543;border-color:#133543;color:#fff!important}
+.site-footer{background:#f7f5f1;color:#153341}.footer-brand{filter:brightness(0) saturate(100%);opacity:.8}.site-footer p,.site-footer a,.footer-bottom,.prototype{color:#52636a}.footer-top h2{color:#153341}.footer-bottom{border-color:#cfd9d4;font-size:13px}
+@keyframes gallery-reveal{from{opacity:.35}to{opacity:1}}
+@media(max-width:1100px){.masthead-copy{gap:40px}.masthead h1{font-size:49px}.carousel-image{height:370px}.masthead-media .carousel-slide figcaption{padding:25px}.masthead-media .carousel-slide figcaption strong{font-size:26px}.carousel-dots{gap:6px}.nav{gap:23px;font-size:16px}.nav a{font-size:16px}}
+@media(max-width:980px){.header-main{padding:8px 0;min-height:110px}.brand{padding:0}.brand img{width:140px}.nav{padding:12px 0;gap:0}.nav a{font-size:18px;white-space:normal}.nav a:last-child{margin-left:0}.header-actions{margin-left:auto}.menu-toggle{font-size:15px;min-height:44px}.masthead-copy{gap:30px}.masthead-summary{padding-left:25px}.masthead h1{font-size:43px}.masthead .eyebrow{font-size:12px}.carousel-slide:not([hidden]){grid-template-columns:minmax(0,1.8fr) minmax(225px,1fr)}.carousel-image{height:340px}.carousel-dot{flex:0 0 74px}.spotlight-grid{grid-template-columns:1fr auto}.hero-signature{display:none}}
+@media(max-width:700px){.wrap{padding-left:24px;padding-right:24px}.brand img{width:132px}.brand span{display:none}.search-link{font-size:0;width:34px}.utility{font-size:11px;letter-spacing:0}.utility>span{max-width:220px;font-size:11px}.masthead-grid{padding-top:33px;padding-bottom:28px}.masthead-copy{display:block;padding-bottom:28px}.masthead h1{font-size:clamp(36px,8.5vw,51px);letter-spacing:-1.6px}.masthead .eyebrow{font-size:12px;margin-bottom:18px;max-width:none}.masthead-summary{border:0;padding:0;margin-top:24px}.masthead-intro{font-size:17px;line-height:1.7}.masthead .buttons{gap:18px;margin-top:20px}.masthead .button{font-size:15px;padding:12px 17px}.masthead .text-link{font-size:15px}.carousel-slide:not([hidden]){grid-template-columns:1fr}.carousel-image{height:auto;aspect-ratio:3/2}.masthead-media .carousel-slide figcaption{padding:20px 22px;min-height:185px;gap:10px;justify-content:flex-start}.masthead-media .carousel-slide figcaption strong{font-size:25px}.masthead-media .carousel-slide figcaption p{font-size:16px}.masthead-media .carousel-slide figcaption .gallery-source{margin-top:5px;padding-top:10px;font-size:12px}.masthead-media .carousel-slide figcaption .gallery-kicker{font-size:11px;margin:0}.carousel-controls{padding:14px 20px 8px;gap:10px}.carousel-timing{padding:0 22px 16px;font-size:12px}.carousel-dots{padding:0 20px 20px;gap:8px}.carousel-dot{flex:0 0 70px;height:56px}.carousel-counter{font-size:13px}.carousel-controls .carousel-toggle{font-size:13px;min-width:100px}.spotlight-grid{grid-template-columns:1fr;gap:14px}.spotlight-grid>.text-link{grid-column:1;grid-row:4}.spotlight-grid p{font-size:16px}.spotlight-grid h2{font-size:23px}.section-head>p{font-size:16px}.footer-top .text-link{font-size:15px}.front-copy>p:not(.eyebrow){font-size:17px}.panel-foot{font-size:13px}}
+@media(max-width:380px){.wrap{padding-left:18px;padding-right:18px}.brand img{width:124px}.header-actions{gap:8px}.utility>span{max-width:190px;font-size:10px}.lang{gap:10px}.masthead h1{font-size:36px}.masthead .buttons{gap:12px}.carousel-controls{padding-left:14px;padding-right:14px;gap:8px}.carousel-counter{font-size:12px}.carousel-arrows{gap:6px}.carousel-controls button{min-width:42px;min-height:44px}.carousel-controls .carousel-toggle{min-width:94px;padding:8px 10px}.masthead-media .carousel-slide figcaption{min-height:205px}}
+@media(prefers-reduced-motion:reduce){.carousel-slide:not([hidden]){animation:none}.carousel-dot{transition:none}}
+
+/* Compact split hero. */
+.masthead-grid{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.08fr);gap:60px;align-items:center;padding-top:44px;padding-bottom:44px}
+.masthead-copy{display:block;padding:0;min-width:0}
+.masthead h1{font-size:clamp(40px,4.2vw,58px);line-height:1.1;letter-spacing:-1.9px;font-weight:500;max-width:550px}
+.masthead h1 em{display:inline}
+.masthead .eyebrow{font-size:12px;letter-spacing:.7px;max-width:450px;margin-bottom:23px}
+.masthead-summary{border:0;padding:0;margin-top:25px}
+.masthead-intro{font-size:18px;line-height:1.75;max-width:450px}
+.masthead .buttons{gap:22px;margin-top:26px}
+.hero-signature{font-size:13px;margin-top:27px}
+.masthead-media.photo-carousel{border-radius:14px;background:#fffefa;box-shadow:0 12px 28px #183b420a;max-width:600px;justify-self:end;border:1px solid #dae1dd}
+.carousel-slide:not([hidden]){display:block}
+.carousel-image{height:260px;aspect-ratio:auto;background:#e8eeed;border-bottom:1px solid #e0e6e3}
+.masthead-media .carousel-image img{object-fit:contain;padding:0}
+.masthead-media .carousel-slide figcaption{padding:17px 22px 8px;min-height:88px;gap:6px;justify-content:flex-start}
+.masthead-media .carousel-slide figcaption strong{font-size:20px;line-height:1.3;font-weight:600;letter-spacing:-.3px}
+.masthead-media .carousel-slide figcaption p{font-size:14px;line-height:1.6;color:#52636a;margin:0}
+.carousel-controls{padding:6px 20px 9px;gap:12px}
+.carousel-controls .carousel-toggle{font-size:13px;min-width:104px;min-height:40px;padding:7px 12px}
+.carousel-controls button{min-height:40px;min-width:40px}
+.carousel-arrows{gap:7px}
+.carousel-counter{font-size:13px;letter-spacing:.7px}
+.carousel-timing{padding:0 22px;position:relative}
+.carousel-timing [data-timing-label]{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
+.carousel-progress{margin-top:0;height:2px}
+.carousel-dots{justify-content:center;align-items:center;padding:7px 20px 10px;gap:3px;overflow:visible}
+.carousel-dot{display:flex;align-items:center;justify-content:center;flex:0 0 25px;min-width:25px;width:25px;height:25px;border:0;padding:4px;background:transparent;border-radius:4px;opacity:1;overflow:visible}
+.carousel-dot>span{display:block;width:5px;height:5px;border-radius:50%;background:#859895;transition:width .2s,background .2s}
+.carousel-dot:hover{background:#ecf1ee;border:0}
+.carousel-dot[aria-pressed=true]{border:0;background:transparent}
+.carousel-dot[aria-pressed=true]>span{width:17px;height:5px;background:#9a763d;border-radius:4px}
+@media(max-width:1100px){.carousel-image{height:235px}.masthead-grid{gap:36px}.masthead h1{font-size:46px}.masthead-intro{font-size:17px}.masthead .buttons{gap:18px}.masthead .button{font-size:14px;padding:12px 16px}.masthead .text-link{font-size:14px}.masthead-media .carousel-slide figcaption{min-height:110px;padding-left:18px;padding-right:18px}}
+@media(max-width:850px){.masthead-grid{gap:28px;grid-template-columns:minmax(0,1fr) minmax(0,1fr)}.masthead h1{font-size:38px;letter-spacing:-1.5px}.masthead .eyebrow{font-size:11px;line-height:1.6}.masthead-summary{margin-top:20px}.masthead-intro{font-size:16px}.carousel-controls{padding-left:14px;padding-right:14px;gap:8px}.carousel-controls .carousel-toggle{min-width:94px;font-size:12px}.carousel-dots{gap:1px;padding-left:10px;padding-right:10px}.carousel-dot{width:24px;min-width:24px;flex-basis:24px}.masthead-media .carousel-slide figcaption strong{font-size:18px}.masthead-media .carousel-slide figcaption{min-height:120px}}
+@media(max-width:700px){.masthead-grid{display:grid;grid-template-columns:1fr;gap:30px;padding-top:32px;padding-bottom:30px}.masthead-copy{padding:0}.masthead h1{font-size:clamp(36px,8vw,48px);max-width:520px}.masthead .eyebrow{font-size:12px;margin-bottom:18px}.masthead-intro{font-size:17px;max-width:500px}.masthead .buttons{margin-top:22px}.masthead .button,.masthead .text-link{font-size:15px}.masthead-media.photo-carousel{max-width:520px;justify-self:start}.carousel-image{height:auto;aspect-ratio:1.8}.masthead-media .carousel-slide figcaption{min-height:106px;padding:15px 18px 7px}.masthead-media .carousel-slide figcaption strong{font-size:19px}.masthead-media .carousel-slide figcaption p{font-size:14px}.carousel-controls{padding:6px 16px 9px}.carousel-controls .carousel-toggle{font-size:13px;min-width:100px}.carousel-counter{font-size:13px}.carousel-dots{gap:3px;padding:7px 14px 10px}.carousel-dot{flex-basis:25px;min-width:25px;width:25px}.carousel-controls button{min-height:44px;min-width:44px}}
+@media(max-width:380px){.masthead h1{font-size:36px}.carousel-dots{gap:1px}.carousel-controls{gap:7px;padding-left:13px;padding-right:13px}.carousel-controls .carousel-toggle{min-width:94px}.carousel-arrows{gap:5px}.carousel-counter{font-size:12px}.masthead-media .carousel-slide figcaption{min-height:116px}}
+
+/* Photographs retain their native proportions, with a minimal control row. */
+.masthead-grid{min-height:520px}
+.masthead-media.photo-carousel{max-width:480px;border:0;border-radius:0;background:transparent;box-shadow:none;overflow:visible}
+.photo-carousel .carousel-slide:not([hidden]){display:block}
+.photo-carousel .carousel-image{height:auto;aspect-ratio:auto;min-height:0;background:transparent;border:0;border-radius:10px;overflow:hidden}
+.masthead-media.photo-carousel .carousel-image img{position:static;width:100%;height:auto;aspect-ratio:auto;padding:0;border-radius:0;display:block}
+.masthead-media.photo-carousel .carousel-slide figcaption{position:static;min-height:0;padding:13px 0 5px;gap:4px;background:transparent}
+.masthead-media.photo-carousel .carousel-slide figcaption strong{font-size:18px;line-height:1.35;font-weight:600;letter-spacing:-.15px}
+.masthead-media.photo-carousel .carousel-slide figcaption p{font-size:14px;line-height:1.55}
+.photo-carousel .portrait-slide:not([hidden]){display:grid;grid-template-columns:minmax(0,.85fr) minmax(0,1fr);gap:24px;align-items:center}
+.masthead-media.photo-carousel .portrait-slide figcaption{padding:0}
+.photo-carousel .carousel-controls{padding:8px 0 7px;gap:9px;background:transparent}
+.photo-carousel .carousel-controls button,.photo-carousel .carousel-controls .carousel-toggle{width:32px;height:32px;min-width:32px;min-height:32px;padding:0;border:0;border-radius:5px;background:transparent;color:#264b58;display:inline-flex;align-items:center;justify-content:center;font-size:19px;box-shadow:none}
+.photo-carousel .carousel-controls button:hover{background:#e3eae7;color:#133543;transform:none}
+.photo-carousel .carousel-controls button:focus-visible{outline:2px solid #326777;outline-offset:3px}
+.photo-carousel .carousel-toggle [data-rotation-label]{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
+.photo-carousel .carousel-toggle [data-rotation-icon]{font-size:16px;width:auto}
+.photo-carousel .carousel-counter{margin-left:0;font-size:12px;letter-spacing:1px;color:#52636a}
+.photo-carousel .carousel-arrows{margin-left:auto;gap:6px}
+.photo-carousel .carousel-timing{padding:0;background:transparent}
+.photo-carousel .carousel-progress{height:2px;margin:0;background:#dde5df}
+.photo-carousel .carousel-progress>span{background:#a0844f}
+@media(max-width:1100px){.masthead-grid{min-height:480px}.masthead-media.photo-carousel{max-width:440px}}
+@media(max-width:850px){.masthead-media.photo-carousel .carousel-slide figcaption strong{font-size:17px}.photo-carousel .portrait-slide:not([hidden]){gap:16px}}
+@media(max-width:700px){.masthead-grid{min-height:0}.masthead-media.photo-carousel{max-width:460px;justify-self:start}.masthead-media.photo-carousel .carousel-slide figcaption{padding:12px 0 5px}.masthead-media.photo-carousel .carousel-slide figcaption strong{font-size:18px}.photo-carousel .carousel-controls{padding:5px 0 7px}.photo-carousel .carousel-controls button,.photo-carousel .carousel-controls .carousel-toggle{width:36px;height:36px;min-width:36px;min-height:36px}.photo-carousel .portrait-slide:not([hidden]){grid-template-columns:minmax(0,.9fr) minmax(0,1fr);gap:18px}.masthead-media.photo-carousel .portrait-slide figcaption{padding:0}.masthead-media.photo-carousel .portrait-slide figcaption strong{font-size:17px}.masthead-media.photo-carousel .portrait-slide figcaption p{font-size:13px}}
