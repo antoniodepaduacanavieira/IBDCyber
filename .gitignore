@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.log
+documentacao/historico/
+acervo/
+entregas/*
+!entregas/README.md
+.local/

@@ -1,0 +1,28 @@
+name: Validar e empacotar portal
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  portal:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Gerar e conferir o site
+        run: python ferramentas/portal.py build
+      - name: Preparar ZIP de hospedagem
+        run: python ferramentas/portal.py package
+      - uses: actions/upload-artifact@v4
+        with:
+          name: IBDCyber-portal
+          path: entregas/IBDCyber-portal-*.zip
+          retention-days: 30
