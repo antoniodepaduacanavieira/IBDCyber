@@ -40,3 +40,9 @@ Selecionar Cloud e o ambiente IBDCyber - Presença digital. Ler AGENTS.md e CONT
 ## Atualização do portal em 15/11/2026
 
 Implementadas melhorias da auditoria e comunicado de audiência futura em português e inglês. O estado do ciclo, verificações e limitações está em gestao/SUPERVISAO.md. A nova versão tem 62 HTMLs. A avaliação independente da versão atual ficou interrompida por limite de uso da conta; a meta 95 não foi comprovada. Usar o HEAD mais recente ao retomar a supervisão.
+
+## Supervisão local concluída em 15/11/2026
+
+O novo chat Supervisão institucional e SEO do IBDCyber está confirmado dentro do projeto local IBDCyber. A coordenação entre supervisor e construtor funcionou e corrigiu duas falhas verificadas. Relatório: gestao/auditorias/supervisao-local/AVALIACAO-2026-11-15-059ed3e.md. Nota: 75/100 pontos comprovados, meta 95 pendente. A rubrica não foi alterada. O site público foi limpo de mensagens de produção dirigidas ao responsável em ambos os idiomas.
+
+ZIP desta rodada: entregas/IBDCyber-portal-20261115T193115563364Z.zip. Build, reprodução limpa e integridade aprovados. O relatório lista dependências de validação institucional, testes especializados e hospedagem. Não declarar pontuação de Google nem conformidade WCAG integral.

@@ -1,5 +1,13 @@
 # Supervisão do portal
 
+## Supervisor ativo dentro do projeto
+
+Em 15/11/2026 foi criado e confirmado no projeto local IBDCyber o chat **Supervisão institucional e SEO do IBDCyber**, identificador `01a1e0aa-10d7-7372-94da-0a57fbedb84e`, host local. Este é o supervisor ativo. A troca de mensagens com o construtor foi testada e já resultou em correções de acessibilidade e descrições SEO. O chat da nuvem abaixo permanece como histórico da primeira auditoria. Os novos relatórios ficam em gestao/auditorias/supervisao-local.
+
+Por orientação expressa do responsável, notas de produção, aprovação administrativa e instruções dirigidas ao proprietário foram removidas das páginas públicas PT/EN. Pendências internas ficam em gestao/NOTAS-EDITORIAIS-INTERNAS.md. Propostas de serviços para validação estão em gestao/PROPOSTAS-SERVICOS.md e não constituem ofertas confirmadas.
+
+## Histórico da supervisão na nuvem
+
 Chat: Supervisionar qualidade do portal IBDCyber.
 Identificador: 6af9bf2e-ceb0-8191-928a-257b59fe4024, host durable.
 Chat de construção: 01a14bf1-6c81-7531-9c69-a3f2e5536713, host local.

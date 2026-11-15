@@ -1,0 +1,124 @@
+{
+  "360": {
+    "errors": [],
+    "requests": [
+      {
+        "url": "http://127.0.0.1:4175/pt/index.html",
+        "status": 200,
+        "size": 20471
+      },
+      {
+        "url": "http://127.0.0.1:4175/site.css",
+        "status": 200,
+        "size": 12737
+      },
+      {
+        "url": "http://127.0.0.1:4175/theme.css",
+        "status": 200,
+        "size": 24480
+      },
+      {
+        "url": "http://127.0.0.1:4175/light.css?v=contact-20261103",
+        "status": 200,
+        "size": 19545
+      },
+      {
+        "url": "http://127.0.0.1:4175/assets/logo-white.svg",
+        "status": 200,
+        "size": 40242
+      },
+      {
+        "url": "http://127.0.0.1:4175/assets/gallery-p14-3-480.webp",
+        "status": 200,
+        "size": 31734
+      },
+      {
+        "url": "http://127.0.0.1:4175/site.js",
+        "status": 200,
+        "size": 7694
+      },
+      {
+        "url": "http://127.0.0.1:4175/chat.js",
+        "status": 200,
+        "size": 1594
+      },
+      {
+        "url": "http://127.0.0.1:4175/assets/logo-white.png",
+        "status": 200,
+        "size": 39437
+      }
+    ],
+    "firstImage": {
+      "src": "http://127.0.0.1:4175/assets/gallery-p14-3-480.webp",
+      "loaded": true,
+      "naturalWidth": 324
+    },
+    "chatRequests": []
+  },
+  "1440": {
+    "errors": [],
+    "requests": [
+      {
+        "url": "http://127.0.0.1:4175/pt/index.html",
+        "status": 200,
+        "size": 20471
+      },
+      {
+        "url": "http://127.0.0.1:4175/site.css",
+        "status": 200,
+        "size": 12737
+      },
+      {
+        "url": "http://127.0.0.1:4175/theme.css",
+        "status": 200,
+        "size": 24480
+      },
+      {
+        "url": "http://127.0.0.1:4175/light.css?v=contact-20261103",
+        "status": 200,
+        "size": 19545
+      },
+      {
+        "url": "http://127.0.0.1:4175/assets/logo-white.svg",
+        "status": 200,
+        "size": 40242
+      },
+      {
+        "url": "http://127.0.0.1:4175/assets/gallery-p14-3-860.webp",
+        "status": 200,
+        "size": 81012
+      },
+      {
+        "url": "http://127.0.0.1:4175/site.js",
+        "status": 200,
+        "size": 7694
+      },
+      {
+        "url": "http://127.0.0.1:4175/chat.js",
+        "status": 200,
+        "size": 1594
+      },
+      {
+        "url": "http://127.0.0.1:4175/assets/logo-white.png",
+        "status": 200,
+        "size": 39437
+      }
+    ],
+    "firstImage": {
+      "src": "http://127.0.0.1:4175/assets/gallery-p14-3-860.webp",
+      "loaded": true,
+      "naturalWidth": 600
+    },
+    "chatRequests": []
+  },
+  "subpath": {
+    "title": "Cibersegurança na agenda pública do Brasil | IBDCyber",
+    "css": "rgb(255, 254, 250)",
+    "image": 600,
+    "contact": "Contato | IBDCyber"
+  },
+  "englishSearch": {
+    "count": 7,
+    "status": "7 results for “education”"
+  }
+}
