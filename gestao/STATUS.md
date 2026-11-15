@@ -36,3 +36,7 @@ A listagem de ambientes confirmou a configuração publicada como runnable=true 
 ## Próxima sessão
 
 Selecionar Cloud e o ambiente IBDCyber - Presença digital. Ler AGENTS.md e CONTINUIDADE.md, conferir git status e o estado remoto antes de editar. Validar, registrar e enviar alterações concluídas ao GitHub para continuidade em outro computador.
+
+## Atualização do portal em 15/11/2026
+
+Implementadas melhorias da auditoria e comunicado de audiência futura em português e inglês. O estado do ciclo, verificações e limitações está em gestao/SUPERVISAO.md. A nova versão tem 62 HTMLs. A avaliação independente da versão atual ficou interrompida por limite de uso da conta; a meta 95 não foi comprovada. Usar o HEAD mais recente ao retomar a supervisão.
