@@ -134,19 +134,19 @@
       "pt": {
         "title": "Governança e transparência",
         "eyebrow": "O Instituto",
-        "description": "Princípios institucionais, identificação de fontes e limites das informações disponíveis neste protótipo do IBDCyber.",
+        "description": "Princípios do IBDCyber, documentos institucionais, fontes e canal para correções.",
         "intro": "Uma apresentação institucional precisa permitir que o leitor identifique quem fala, em qual função e com base em quais documentos.",
         "sections": [
           {
             "heading": "Princípios declarados",
             "paragraphs": [
-              "A apresentação do IBDCyber registra caráter apartidário, interesse público e compromisso com a ética digital. Esses princípios orientam o posicionamento proposto para o portal e devem ser refletidos nas informações sobre projetos, participantes e recursos."
+              "O IBDCyber declara caráter apartidário, interesse público e compromisso com a ética digital."
             ]
           },
           {
             "heading": "Documentos institucionais",
             "paragraphs": [
-              "Este protótipo reúne as informações fornecidas para o projeto. Estatuto, composição completa dos órgãos de governança e documentos de prestação de contas não integram o acervo publicado nesta versão. A página poderá receber esses materiais após definição institucional de sua divulgação."
+              "Para solicitar informações sobre estatuto, composição dos órgãos de governança ou prestação de contas, entre em contato pelo e-mail administrativo@ibdcyber.org.br."
             ]
           },
           {
@@ -159,7 +159,7 @@
             "heading": "Publicação e correções",
             "paragraphs": [
               "Este portal é publicado pelo Instituto Brasileiro de Defesa Cibernética. Solicitações de correção e documentos para atualização devem ser encaminhados a administrativo@ibdcyber.org.br, com indicação da página e da fonte que sustenta a alteração.",
-              "A rotina editorial proposta prevê revisão mensal da agenda e das referências legislativas, além de atualização quando novos documentos forem recebidos. Essa periodicidade aguarda validação administrativa do Instituto. Datas de consulta indicam a revisão de uma fonte, não a data de ocorrência de um evento."
+              "As datas de consulta mostram quando uma fonte foi conferida. A data de cada atividade é informada separadamente. Comunicados com detalhes ainda não confirmados são identificados dessa forma."
             ]
           }
         ]
@@ -167,19 +167,19 @@
       "en": {
         "title": "Governance and transparency",
         "eyebrow": "The Institute",
-        "description": "Institutional principles, source attribution and the limits of the information available in the IBDCyber prototype.",
+        "description": "IBDCyber principles, institutional documents, sources and correction requests.",
         "intro": "An institutional website should make it clear who is speaking, in what capacity and on the basis of which records.",
         "sections": [
           {
             "heading": "Stated principles",
             "paragraphs": [
-              "IBDCyber's presentation describes a nonpartisan approach, a public interest purpose and a commitment to digital ethics. These principles inform the proposed website and should also guide information about projects, participants and resources."
+              "IBDCyber states a nonpartisan approach, a public interest purpose and a commitment to digital ethics."
             ]
           },
           {
             "heading": "Institutional documents",
             "paragraphs": [
-              "This prototype brings together information supplied for the project. The bylaws, complete governance membership and accountability documents are not part of the collection published in this version. They can be added once the Institute determines the material to disclose."
+              "For information about the bylaws, governance bodies or accountability documents, contact administrativo@ibdcyber.org.br."
             ]
           },
           {
@@ -192,7 +192,7 @@
             "heading": "Publication and corrections",
             "paragraphs": [
               "This website is published by Instituto Brasileiro de Defesa Cibernética. Send correction requests and supporting documents to administrativo@ibdcyber.org.br, identifying the page and the source supporting the change.",
-              "The proposed editorial schedule provides for monthly reviews of events and legislative references, with further updates when new documents arrive. This schedule awaits administrative approval by the Institute. A source review date is not the date on which an event occurred."
+              "Review dates indicate when a source was checked. Activity dates are shown separately. Announcements with details awaiting confirmation are identified accordingly."
             ]
           }
         ]
@@ -213,7 +213,7 @@
           {
             "heading": "Trajetória apresentada pelo Instituto",
             "paragraphs": [
-              "O material institucional informa sua trajetória como delegado de Polícia Civil em Santa Catarina e atuação no enfrentamento à lavagem de dinheiro. A biografia publicada nesta versão se limita a essas informações fornecidas pelo Instituto."
+              "O material institucional informa sua trajetória como delegado de Polícia Civil em Santa Catarina e atuação no enfrentamento à lavagem de dinheiro."
             ]
           },
           {
@@ -231,9 +231,9 @@
         "intro": "IBDCyber's institutional presentation identifies Carlos Diego de Araújo as its President.",
         "sections": [
           {
-            "heading": "Background supplied by the Institute",
+            "heading": "Professional background",
             "paragraphs": [
-              "The presentation describes a career as a Civil Police chief in Santa Catarina and work addressing money laundering. The biography in this version is limited to that information supplied by the Institute."
+              "The presentation describes a career as a Civil Police chief in Santa Catarina and work addressing money laundering."
             ]
           },
           {
@@ -276,7 +276,7 @@
           {
             "heading": "Apresente uma demanda",
             "paragraphs": [
-              "Informe o assunto, o público envolvido e a decisão ou dificuldade que motivou o contato. Esses elementos ajudam a equipe a avaliar a pertinência de uma conversa. Não há contratação, inscrição em cursos ou atendimento a incidentes por este protótipo."
+              "Informe o assunto, o público envolvido e a decisão ou dificuldade que motivou o contato. Esses elementos ajudam a equipe a avaliar a pertinência de uma conversa. Este canal recebe contatos institucionais; não atende emergências cibernéticas."
             ]
           }
         ]
@@ -306,7 +306,7 @@
           {
             "heading": "Introduce a request",
             "paragraphs": [
-              "Describe the subject, the people involved and the decision or difficulty behind your request. This gives the team a basis for considering a conversation. This prototype does not accept orders, course registrations or incident reports."
+              "Describe the subject, the people involved and the decision or difficulty behind your request. This gives the team a basis for considering a conversation. This channel handles institutional enquiries, not cybersecurity emergencies."
             ]
           }
         ]
@@ -407,7 +407,7 @@
             "heading": "Apresentar uma questão de pesquisa",
             "paragraphs": [
               "Pesquisadores, órgãos públicos e entidades podem indicar um problema, os dados existentes e a decisão que um estudo ajudaria a informar. Também é útil explicar o que já foi investigado e quais limites de acesso aos dados precisam ser considerados.",
-              "O desenvolvimento de um projeto depende de escopo, equipe, condições de pesquisa e definição sobre a divulgação dos resultados. Não há calendário de publicações ou contratação de estudos confirmado nesta versão. Os registros de trabalhos futuros deverão identificar autoria, revisão, fontes e data, permitindo que o leitor examine a contribuição com autonomia."
+              "O desenvolvimento de um projeto depende de escopo, equipe, condições de pesquisa e definição sobre a divulgação dos resultados. Consulte o Instituto para discutir uma proposta de estudo e suas condições."
             ]
           }
         ]
@@ -421,7 +421,7 @@
           {
             "heading": "Knowledge for a specific decision",
             "paragraphs": [
-              "Developing studies and research forms part of IBDCyber's stated objectives. This purpose covers cybersecurity and data protection, with attention to public debate. The editorial approach proposed for this area is to make the research question, the origin of its information and its intended use visible to readers.",
+              "Developing studies and research forms part of IBDCyber's stated objectives. This purpose covers cybersecurity and data protection, with attention to public debate. Research questions, sources and intended uses help readers assess a study.",
               "An international comparison, for example, needs to consider differences in institutional powers, scale and resources. The existence of a practice in another country does not establish that it would produce the same result in Brazil. Explaining these differences makes the comparison more useful to those considering a decision."
             ]
           },
@@ -436,7 +436,7 @@
             "heading": "Introducing a research question",
             "paragraphs": [
               "Researchers, public bodies and organisations can describe a problem, the available data and the decision a study could help inform. It is also useful to explain what has already been investigated and any restrictions affecting access to information.",
-              "A project depends on an agreed scope, team, research conditions and publication arrangements. No research commissioning service or publication schedule is confirmed in this version. Future work should identify its authors, review process, sources and date so that readers can assess the contribution for themselves."
+              "A project depends on an agreed scope, team, research conditions and publication arrangements. Contact the Institute to discuss a research proposal and its conditions."
             ]
           }
         ]
@@ -593,7 +593,7 @@
           {
             "heading": "Datas e versões",
             "paragraphs": [
-              "A data de revisão indica quando a referência foi conferida neste projeto. Ela não substitui a data de publicação do material. Documentos legislativos e acervos podem mudar; verifique a versão disponível na origem antes de utilizar a informação."
+              "A data de revisão indica quando a referência foi conferida. Ela não substitui a data de publicação do material. Documentos legislativos e acervos podem mudar; verifique a versão disponível na origem antes de utilizar a informação."
             ]
           }
         ]
@@ -798,13 +798,13 @@
         "en": "privacy"
       },
       "pt": {
-        "title": "Privacidade neste protótipo",
+        "title": "Privacidade",
         "eyebrow": "Informações de uso",
-        "description": "Como este protótipo trata a navegação, a busca local e os acessos a páginas externas.",
-        "intro": "Esta página descreve os recursos desta versão de demonstração. Ela deverá ser revista antes da publicação de um portal definitivo.",
+        "description": "Informações sobre a busca, o atendimento e os links externos do portal IBDCyber.",
+        "intro": "Saiba como funcionam os recursos de navegação e contato deste portal.",
         "sections": [
           {
-            "heading": "Recursos do projeto",
+            "heading": "Navegação e busca",
             "paragraphs": [
               "A busca consulta o conteúdo incluído no próprio portal. O site não possui cadastro ou formulário de contato próprio. O chat é carregado por um serviço externo da HostGator."
             ]
@@ -812,31 +812,31 @@
           {
             "heading": "Chat da HostGator",
             "paragraphs": [
-              "Ao abrir uma página, o navegador se conecta à HostGator para carregar o chat. As mensagens enviadas pelo visitante são processadas pelo serviço externo. O chat depende de conexão com a internet."
+              "O chat é carregado somente quando você seleciona Abrir atendimento. Nesse momento, seu navegador se conecta ao serviço externo da HostGator. As mensagens enviadas são processadas por esse serviço. Você também pode entrar em contato por e-mail, sem abrir o chat."
             ]
           },
           {
             "heading": "Hospedagem e páginas externas",
             "paragraphs": [
-              "O ambiente privado de hospedagem pode exigir autenticação e manter registros técnicos conforme suas próprias condições. Isso é diferente das funções implementadas neste protótipo. Ao acessar Instagram, Senado ou outros endereços externos, aplicam-se as condições de cada serviço."
+              "O provedor de hospedagem pode manter registros técnicos de acesso conforme suas condições de serviço. Ao acessar Instagram, Senado ou outros sites externos, aplicam-se as condições de cada serviço."
             ]
           },
           {
-            "heading": "Antes da versão pública",
+            "heading": "Dúvidas sobre privacidade",
             "paragraphs": [
-              "A instituição deverá definir as informações sobre responsáveis, finalidades, canais de privacidade e recursos efetivamente utilizados. A inclusão futura de formulários, métricas ou inscrições exige atualizar esta página antes de ativar essas funções."
+              "Para esclarecer dúvidas sobre o uso de informações neste portal, escreva a administrativo@ibdcyber.org.br."
             ]
           }
         ]
       },
       "en": {
-        "title": "Privacy in this prototype",
+        "title": "Privacy",
         "eyebrow": "Using this website",
-        "description": "Information about navigation, local search and external links in this demonstration version.",
-        "intro": "This page describes the features of this demonstration version. It will need review before a production portal is published.",
+        "description": "Information about search, support and external links on the IBDCyber website.",
+        "intro": "Learn how this website’s navigation and contact features work.",
         "sections": [
           {
-            "heading": "Project features",
+            "heading": "Navigation and search",
             "paragraphs": [
               "Search uses the content included in the portal itself. The site has no registration or contact form of its own. Chat is loaded from an external HostGator service."
             ]
@@ -844,19 +844,19 @@
           {
             "heading": "HostGator chat",
             "paragraphs": [
-              "When you open a page, your browser connects to HostGator to load the chat. Messages submitted by visitors are processed by the external service. Chat requires an internet connection."
+              "Chat loads only when you select Open support chat. Your browser then connects to the external HostGator service, which processes messages you submit. You can also contact the Institute by email without opening chat."
             ]
           },
           {
             "heading": "Hosting and external websites",
             "paragraphs": [
-              "The private hosting environment may require authentication and retain technical logs under its own terms. Those functions are separate from the features implemented in this prototype. Instagram, the Senate and other external websites apply their own terms when you visit them."
+              "The hosting provider may retain technical access logs under its terms of service. Instagram, the Senate and other external websites apply their own terms when you visit them."
             ]
           },
           {
-            "heading": "Before public launch",
+            "heading": "Privacy enquiries",
             "paragraphs": [
-              "The Institute will need to specify the responsible parties, purposes, privacy contacts and features actually used. Adding forms, analytics or registrations will require an update to this page before those functions are enabled."
+              "For enquiries about information use on this website, email administrativo@ibdcyber.org.br."
             ]
           }
         ]
@@ -871,19 +871,19 @@
       "pt": {
         "title": "Acessibilidade",
         "eyebrow": "Informações de uso",
-        "description": "Recursos previstos para facilitar a leitura e a navegação no protótipo institucional do IBDCyber.",
+        "description": "Recursos de leitura e navegação do portal IBDCyber.",
         "intro": "O portal foi pensado para ser lido em telas de diferentes tamanhos e percorrido com teclado, com atenção à organização do conteúdo.",
         "sections": [
           {
             "heading": "Recursos de navegação",
             "paragraphs": [
-              "Links descritivos, títulos hierárquicos, foco visível e um atalho para o conteúdo principal orientam a implementação. O navegador permite ampliar o texto. A mudança de idioma leva ao conteúdo equivalente quando disponível."
+              "Links descritivos, títulos hierárquicos, foco visível e um atalho para o conteúdo principal ajudam a navegar pelo portal. O navegador permite ampliar o texto. A mudança de idioma leva ao conteúdo equivalente quando disponível."
             ]
           },
           {
             "heading": "Referência e limites",
             "paragraphs": [
-              "As WCAG 2.2, nível AA, são a referência de projeto. Os testes registrados no dossiê descrevem o que foi verificado. Esta página não declara certificação ou conformidade integral; documentos e páginas externos podem oferecer condições de acesso diferentes."
+              "As WCAG 2.2, nível AA, são a referência de projeto. Esta página não declara certificação ou conformidade integral; documentos e páginas externos podem oferecer condições de acesso diferentes."
             ]
           },
           {
@@ -897,19 +897,19 @@
       "en": {
         "title": "Accessibility",
         "eyebrow": "Using this website",
-        "description": "Features intended to support reading and navigation in the IBDCyber institutional prototype.",
+        "description": "Reading and navigation features on the IBDCyber website.",
         "intro": "The portal is designed for different screen sizes and keyboard navigation, with particular attention to content structure.",
         "sections": [
           {
             "heading": "Navigation features",
             "paragraphs": [
-              "Descriptive links, heading structure, visible focus and a skip link guide the implementation. Browser zoom can enlarge the text. The language switch opens the equivalent content where available."
+              "Descriptive links, heading structure, visible focus and a skip link help visitors navigate the website. Browser zoom can enlarge the text. The language switch opens the equivalent content where available."
             ]
           },
           {
             "heading": "Reference and limits",
             "paragraphs": [
-              "WCAG 2.2 Level AA is the design reference. The tests recorded in the dossier describe what was checked. This page does not claim certification or complete conformance. External documents and websites may provide different accessibility conditions."
+              "WCAG 2.2 Level AA is the design reference. This page does not claim certification or complete conformance. External documents and websites may provide different accessibility conditions."
             ]
           },
           {
@@ -1251,10 +1251,10 @@
       },
       "body": {
         "pt": [
-          "A apresentação fornecida pelo IBDCyber menciona a missão como oportunidade de intercâmbio sobre cibersegurança. A fonte informa as cidades e o ano. Esta versão não atribui parcerias, acordos ou entregas que não estejam detalhados no material."
+          "A apresentação fornecida pelo IBDCyber menciona a missão como oportunidade de intercâmbio sobre cibersegurança. A fonte informa as cidades e o ano."
         ],
         "en": [
-          "The presentation supplied by IBDCyber describes the mission as an opportunity to exchange experience on cybersecurity. The source gives the cities and year. This version does not attribute partnerships, agreements or deliverables that are not detailed in the material."
+          "The presentation supplied by IBDCyber describes the mission as an opportunity to exchange experience on cybersecurity. The source gives the cities and year."
         ]
       },
       "date": "2024",
