@@ -10,6 +10,7 @@ O portal institucional é a primeira entrega deste projeto. Este repositório re
 - Site pronto para hospedagem: `portal/dist/`.
 - Instruções para outro computador: [CONTINUIDADE.md](CONTINUIDADE.md).
 - Situação e próximos passos: [gestao/STATUS.md](gestao/STATUS.md).
+- Dossiê e acervo no Drive privado: [documentacao/ACERVO.md](documentacao/ACERVO.md).
 
 ## Estrutura
 
@@ -22,8 +23,8 @@ O portal institucional é a primeira entrega deste projeto. Este repositório re
 | `portal/*.py` | Geradores das páginas e conversão dos links relativos |
 | `gestao` | Escopo, decisões e prioridades |
 | `ferramentas` | Validação, prévia e empacotamento |
-| `documentacao/historico` | Estudos e dossiê anteriores, preservados localmente |
-| `acervo` | Apresentação e arquivos de marca, preservados localmente |
+| `documentacao/historico` | Estudos e dossiê anteriores, com cópia no Drive privado |
+| `acervo` | Apresentação e arquivos de marca, com cópia no Drive privado |
 | `entregas` | ZIPs para hospedagem, gerados localmente ou na nuvem |
 
 O repositório é público por decisão do responsável. Documentos de trabalho, acervo completo e credenciais ficam fora dos novos envios. As imagens e marcas necessárias ao portal permanecem em `portal/dist/assets`. Arquivos já publicados no histórico do GitHub continuam no histórico.
