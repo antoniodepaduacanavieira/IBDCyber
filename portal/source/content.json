@@ -154,6 +154,13 @@
             "paragraphs": [
               "Declarações do Instituto são identificadas como informações institucionais. Registros do Senado e materiais de outras organizações mantêm a indicação de origem. Participação em um evento e exercício de uma função são apresentados com seu contexto, sem presumir uma parceria entre organizações."
             ]
+          },
+          {
+            "heading": "Publicação e correções",
+            "paragraphs": [
+              "Este portal é publicado pelo Instituto Brasileiro de Defesa Cibernética. Solicitações de correção e documentos para atualização devem ser encaminhados a administrativo@ibdcyber.org.br, com indicação da página e da fonte que sustenta a alteração.",
+              "A rotina editorial proposta prevê revisão mensal da agenda e das referências legislativas, além de atualização quando novos documentos forem recebidos. Essa periodicidade aguarda validação administrativa do Instituto. Datas de consulta indicam a revisão de uma fonte, não a data de ocorrência de um evento."
+            ]
           }
         ]
       },
@@ -179,6 +186,13 @@
             "heading": "Reading the records",
             "paragraphs": [
               "Statements by the Institute are identified as institutional information. Senate records and resources from other organisations retain their source attribution. Event participation and individual appointments are described in context without implying a partnership between organisations."
+            ]
+          },
+          {
+            "heading": "Publication and corrections",
+            "paragraphs": [
+              "This website is published by Instituto Brasileiro de Defesa Cibernética. Send correction requests and supporting documents to administrativo@ibdcyber.org.br, identifying the page and the source supporting the change.",
+              "The proposed editorial schedule provides for monthly reviews of events and legislative references, with further updates when new documents arrive. This schedule awaits administrative approval by the Institute. A source review date is not the date on which an event occurred."
             ]
           }
         ]
@@ -1012,9 +1026,95 @@
         "pt": "Referência externa",
         "en": "External reference"
       }
+    },
+    {
+      "id": "cais",
+      "title": {
+        "pt": "CAIS: segurança na rede de ensino e pesquisa",
+        "en": "CAIS: security for education and research networks"
+      },
+      "summary": {
+        "pt": "Referência externa em português para compreender cuidados e responsabilidades em segurança digital. Consulte o escopo e os materiais publicados pela instituição de origem.",
+        "en": "External Portuguese-language resource for understanding digital security practices and responsibilities. Consult the scope and materials published by the source organisation."
+      },
+      "topic": {
+        "pt": "Formação",
+        "en": "Education"
+      },
+      "date": "2026-11-15",
+      "dateLabel": {
+        "pt": "Referência revisada em",
+        "en": "Reference reviewed on"
+      },
+      "sourceLabel": "RNP",
+      "sourceUrl": "https://www.rnp.br/servicos/cais/",
+      "kind": {
+        "pt": "Referência externa",
+        "en": "External reference"
+      }
+    },
+    {
+      "id": "fasciculos",
+      "title": {
+        "pt": "Guias práticos de segurança digital",
+        "en": "Practical digital security guides"
+      },
+      "summary": {
+        "pt": "Referência externa em português para compreender cuidados e responsabilidades em segurança digital. Consulte o escopo e os materiais publicados pela instituição de origem.",
+        "en": "External Portuguese-language resource for understanding digital security practices and responsibilities. Consult the scope and materials published by the source organisation."
+      },
+      "topic": {
+        "pt": "Formação",
+        "en": "Education"
+      },
+      "date": "2026-11-15",
+      "dateLabel": {
+        "pt": "Referência revisada em",
+        "en": "Reference reviewed on"
+      },
+      "sourceLabel": "CERT.br",
+      "sourceUrl": "https://cartilha.cert.br/fasciculos/",
+      "kind": {
+        "pt": "Referência externa",
+        "en": "External reference"
+      }
     }
   ],
   "events": [
+    {
+      "id": "audiencia-publica-seguranca-cibernetica",
+      "title": {
+        "pt": "Em breve: audiência pública sobre segurança cibernética no Senado Federal",
+        "en": "Coming soon: public hearing on cybersecurity in the Federal Senate"
+      },
+      "summary": {
+        "pt": "O IBDCyber informa que prepara uma audiência pública sobre segurança cibernética no Senado Federal. Data e programação serão divulgadas após confirmação.",
+        "en": "IBDCyber announces preparations for a public hearing on cybersecurity in the Federal Senate. The date and programme will be published once confirmed."
+      },
+      "body": {
+        "pt": [
+          "Segundo informação fornecida pelo Instituto, está em preparação uma audiência pública no Senado Federal para tratar de segurança cibernética, com atuação do IBDCyber nessa agenda.",
+          "A data, a comissão responsável, os participantes e a forma de acompanhamento ainda serão confirmados. Este comunicado será atualizado com o registro oficial do Senado quando disponível. Para informações institucionais, escreva a administrativo@ibdcyber.org.br."
+        ],
+        "en": [
+          "According to information provided by the Institute, a public hearing on cybersecurity is being prepared in the Federal Senate, with IBDCyber participating in this agenda.",
+          "The date, responsible committee, participants and viewing arrangements remain to be confirmed. This announcement will be updated with the official Senate record when available. For institutional enquiries, email administrativo@ibdcyber.org.br."
+        ]
+      },
+      "date": "2026-11-15",
+      "displayDate": {
+        "pt": "Data a confirmar",
+        "en": "Date to be confirmed"
+      },
+      "type": {
+        "pt": "Em preparação",
+        "en": "In preparation"
+      },
+      "sourceType": "institutional-notice",
+      "sourceLabel": "IBDCyber",
+      "sourceDate": "2026-11-15",
+      "featured": true
+    },
     {
       "id": "front-installation",
       "title": {
@@ -1043,7 +1143,8 @@
         "en": "Parliamentary activity"
       },
       "sourceLabel": "Senado Federal",
-      "sourceUrl": "https://legis.senado.leg.br/atividade/comissoes/comissao/2716/reuniao/13380"
+      "sourceUrl": "https://legis.senado.leg.br/atividade/comissoes/comissao/2716/reuniao/13380",
+      "featured": false
     },
     {
       "id": "front-opening",
@@ -1073,7 +1174,8 @@
         "en": "Parliamentary activity"
       },
       "sourceLabel": "Senado Federal",
-      "sourceUrl": "https://legis.senado.leg.br/atividade/comissoes/comissao/2716/reuniao/13626"
+      "sourceUrl": "https://legis.senado.leg.br/atividade/comissoes/comissao/2716/reuniao/13626",
+      "featured": false
     },
     {
       "id": "front-hearing",
@@ -1103,7 +1205,8 @@
         "en": "Parliamentary activity"
       },
       "sourceLabel": "Senado Federal",
-      "sourceUrl": "https://legis.senado.leg.br/atividade/comissoes/comissao/2716/reuniao/14171"
+      "sourceUrl": "https://legis.senado.leg.br/atividade/comissoes/comissao/2716/reuniao/14171",
+      "featured": false
     },
     {
       "id": "rsa2025",
@@ -1133,7 +1236,8 @@
         "en": "Institutional participation"
       },
       "sourceLabel": "Apresentação institucional do IBDCyber",
-      "sourceUrl": "https://drive.google.com/file/d/1soc9H5SItfho9lnlMgRBPLny8xpMlP7a/view"
+      "sourceUrl": "https://drive.google.com/file/d/1soc9H5SItfho9lnlMgRBPLny8xpMlP7a/view",
+      "featured": false
     },
     {
       "id": "mission2024",
@@ -1163,7 +1267,8 @@
         "en": "Institutional participation"
       },
       "sourceLabel": "Apresentação institucional do IBDCyber",
-      "sourceUrl": "https://drive.google.com/file/d/1soc9H5SItfho9lnlMgRBPLny8xpMlP7a/view"
+      "sourceUrl": "https://drive.google.com/file/d/1soc9H5SItfho9lnlMgRBPLny8xpMlP7a/view",
+      "featured": false
     },
     {
       "id": "reuniao-diretoria-2026-11-05",
@@ -1172,15 +1277,15 @@
         "en": "IBDCyber Board Meeting"
       },
       "summary": {
-        "pt": "5 de novembro de 2026, às 15h (horário de Brasília).",
-        "en": "November 5, 2026, at 3:00 p.m. (Brasília time, UTC−3)."
+        "pt": "Comunicado histórico: reunião prevista para 5 de novembro de 2026, às 15h. Resultados ainda não publicados.",
+        "en": "Archived announcement: meeting scheduled for November 5, 2026 at 3:00 p.m. Outcomes not yet published."
       },
       "body": {
         "pt": [
-          "O IBDCyber comunica a realização de reunião de diretoria em 5 de novembro de 2026."
+          "Comunicado publicado em 3 de novembro de 2026 para reunião prevista em 5 de novembro, às 15h, horário de Brasília. A data anunciada já passou. A realização da reunião e seus resultados ainda não foram confirmados neste portal. A pauta abaixo preserva o anúncio original."
         ],
         "en": [
-          "IBDCyber announces a board meeting on November 5, 2026."
+          "Announcement published on November 3, 2026 for a meeting scheduled for November 5 at 3:00 p.m., Brasília time. The announced date has passed. The meeting and its outcomes have not yet been confirmed on this website. The agenda below preserves the original announcement."
         ]
       },
       "agenda": {
@@ -1205,13 +1310,13 @@
         "en": "November 5, 2026, 3:00 p.m."
       },
       "type": {
-        "pt": "Reunião de diretoria",
-        "en": "Board meeting"
+        "pt": "Comunicado histórico",
+        "en": "Archived announcement"
       },
       "sourceType": "institutional-notice",
       "sourceLabel": "IBDCyber",
       "sourceDate": "2026-11-03",
-      "featured": true
+      "featured": false
     }
   ],
   "carousel": {

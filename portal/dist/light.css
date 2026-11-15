@@ -135,3 +135,16 @@ body{background:#fffefa;color:var(--ink);font-size:18px}
 .contact-primary .contact-email:hover{color:#65501e}
 .contact-primary p{margin:12px 0 0;font-size:16px;color:#52636a}
 @media(max-width:600px){.contact-primary{padding:22px 18px;margin-top:24px}.contact-primary .contact-email{font-size:clamp(18px,5.1vw,26px)}}
+/* Legible captions on the light institutional background. */
+.masthead-media.photo-carousel .carousel-slide figcaption strong{color:#163744}
+.masthead-media.photo-carousel .carousel-slide figcaption p{color:#425860}
+.carousel-image picture{display:contents}
+.record-image picture{display:block}
+:focus-visible{outline:3px solid #b07813;outline-offset:4px}
+.body-content a{overflow-wrap:anywhere}
+.chat-access{max-width:1160px;margin:0 auto 32px;padding:24px;border-bottom:1px solid #657786;color:#fff}
+.chat-access button{font:inherit;background:#fff;color:#153746;border:0;border-radius:5px;padding:12px 20px;min-height:44px;cursor:pointer}
+.chat-access p{font-size:14px;line-height:1.6;color:#e0e7eb;margin:12px 0}
+.chat-access a{color:#fff;text-decoration:underline}
+.site-footer .chat-access{color:#163744;border-color:#c9d3d2}
+.site-footer .chat-access p,.site-footer .chat-access a{color:#254b58}

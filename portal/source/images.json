@@ -1,0 +1,154 @@
+{
+  "director.png": [
+    {
+      "file": "director-480.webp",
+      "width": 480
+    },
+    {
+      "file": "director-880.webp",
+      "width": 880
+    }
+  ],
+  "gallery-p14-1.png": [
+    {
+      "file": "gallery-p14-1-480.webp",
+      "width": 480
+    },
+    {
+      "file": "gallery-p14-1-960.webp",
+      "width": 960
+    },
+    {
+      "file": "gallery-p14-1-1440.webp",
+      "width": 1440
+    }
+  ],
+  "gallery-p14-2.png": [
+    {
+      "file": "gallery-p14-2-480.webp",
+      "width": 480
+    },
+    {
+      "file": "gallery-p14-2-733.webp",
+      "width": 733
+    }
+  ],
+  "gallery-p14-3.png": [
+    {
+      "file": "gallery-p14-3-480.webp",
+      "width": 480
+    },
+    {
+      "file": "gallery-p14-3-860.webp",
+      "width": 860
+    }
+  ],
+  "gallery-p14-4.png": [
+    {
+      "file": "gallery-p14-4-480.webp",
+      "width": 480
+    },
+    {
+      "file": "gallery-p14-4-960.webp",
+      "width": 960
+    },
+    {
+      "file": "gallery-p14-4-1000.webp",
+      "width": 1000
+    }
+  ],
+  "gallery-p14-5.png": [
+    {
+      "file": "gallery-p14-5-480.webp",
+      "width": 480
+    },
+    {
+      "file": "gallery-p14-5-733.webp",
+      "width": 733
+    }
+  ],
+  "gallery-p14-6.png": [
+    {
+      "file": "gallery-p14-6-480.webp",
+      "width": 480
+    },
+    {
+      "file": "gallery-p14-6-675.webp",
+      "width": 675
+    }
+  ],
+  "gallery-p5-1.png": [
+    {
+      "file": "gallery-p5-1-480.webp",
+      "width": 480
+    },
+    {
+      "file": "gallery-p5-1-880.webp",
+      "width": 880
+    }
+  ],
+  "gallery-p6-1.png": [
+    {
+      "file": "gallery-p6-1-480.webp",
+      "width": 480
+    },
+    {
+      "file": "gallery-p6-1-960.webp",
+      "width": 960
+    },
+    {
+      "file": "gallery-p6-1-1179.webp",
+      "width": 1179
+    }
+  ],
+  "gallery-p6-2.png": [
+    {
+      "file": "gallery-p6-2-480.webp",
+      "width": 480
+    },
+    {
+      "file": "gallery-p6-2-771.webp",
+      "width": 771
+    }
+  ],
+  "gallery-p6-3.png": [
+    {
+      "file": "gallery-p6-3-480.webp",
+      "width": 480
+    },
+    {
+      "file": "gallery-p6-3-886.webp",
+      "width": 886
+    }
+  ],
+  "mission.png": [
+    {
+      "file": "mission-480.webp",
+      "width": 480
+    },
+    {
+      "file": "mission-886.webp",
+      "width": 886
+    }
+  ],
+  "rsa.png": [
+    {
+      "file": "rsa-480.webp",
+      "width": 480
+    },
+    {
+      "file": "rsa-771.webp",
+      "width": 771
+    }
+  ],
+  "senate.png": [
+    {
+      "file": "senate-480.webp",
+      "width": 480
+    },
+    {
+      "file": "senate-860.webp",
+      "width": 860
+    }
+  ]
+}

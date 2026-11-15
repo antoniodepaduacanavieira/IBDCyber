@@ -46,6 +46,8 @@ def standard(id,lang):
  elif id=='work':extra=areas(lang)
  elif id=='contact':extra='<div class="buttons"><a class="button" href="https://www.instagram.com/institutociberbr/">Instagram @institutociberbr ↗</a></div>'
  elif id=='front':extra='<div class="source-box">'+tx(lang,'Registro oficial da Frente no Senado Federal','Official Senate record for the parliamentary front')+': <a href="https://www25.senado.leg.br/web/atividade/conselhos/-/conselho/FPCIBERSEG">FPCIBERSEG ↗</a><br>'+tx(lang,'Secretaria Executiva: registro de 25/03/2025','Executive Secretary: record of 25 March 2025')+': <a href="https://legis.senado.leg.br/atividade/comissoes/comissao/2716/reuniao/13380">'+tx(lang,'Consultar registro','View record')+' ↗</a></div>'
+ if id in ['front','leadership']:
+  extra+='<div class="source-box"><strong>'+tx(lang,'Designação pessoal documentada','Documented personal appointment')+'</strong><p>'+tx(lang,'O resultado da reunião de 25/03/2025 registra a designação de Carlos Diego de Araújo Pinto e Lima como Secretário Executivo da FPCIBERSEG. O registro comprova a função pessoal naquela data; não constitui instrumento de parceria entre o Instituto e a Frente.','The record of the meeting on 25 March 2025 names Carlos Diego de Araújo Pinto e Lima as Executive Secretary of FPCIBERSEG. It documents a personal appointment on that date; it is not a partnership agreement between the Institute and the Front.')+'</p><a href="https://legis.senado.gov.br/sdleg-getter/documento/download/b0c46488-a5c9-4af2-acc7-cc2272e97218">'+tx(lang,'Resultado oficial, página 2 (PDF)','Official meeting outcome, page 2 (PDF)')+'</a></div>'
  pic=''
  if id=='leadership':pic=f'<figure><img class="portrait" src="/assets/director.png" alt="Carlos Diego de Araújo" width="880" height="1280"><figcaption>{tx(lang,"Acervo da apresentação institucional do IBDCyber.","From the IBDCyber institutional presentation.")}</figcaption></figure>'
  listing=''
@@ -79,9 +81,9 @@ for lang in ['pt','en']:
    body+=''.join('<p>'+esc(p)+'</p>' for p in paras)
    if item.get('agenda'): body+='<h2>'+tx(lang,'Pauta','Agenda')+'</h2><ul>'+''.join('<li>'+esc(topic)+'</li>' for topic in item['agenda'][lang])+'</ul>'
    if item.get('sourceType')=='institutional-notice':
-    body+='<div class="source-box"><strong>'+tx(lang,'Comunicado do IBDCyber','IBDCyber announcement')+'</strong><p>'+tx(lang,'Publicado em 3 de novembro de 2026.','Published on November 3, 2026.')+'</p></div>'
+    body+='<div class="source-box"><strong>'+tx(lang,'Comunicado do IBDCyber','IBDCyber announcement')+'</strong><p>'+tx(lang,'Data do comunicado: ','Announcement date: ')+esc(item.get('sourceDate',item['date']))+'</p></div>'
    else:
-    body+=f'<div class="source-box"><strong>{tx(lang,"Fonte","Source")}: {esc(item["sourceLabel"])}</strong><p><a href="{esc(item["sourceUrl"])}">{tx(lang,"Abrir documento ou página de origem","Open source document or page")} ↗</a></p><span>{tx(lang,"Referência conferida em 17/10/2026","Source checked on 17 October 2026")}</span></div>'
+    body+=f'<div class="source-box"><strong>{tx(lang,"Fonte","Source")}: {esc(item["sourceLabel"])}</strong><p><a href="{esc(item["sourceUrl"])}">{tx(lang,"Abrir documento ou página de origem","Open source document or page")} ↗</a></p><span>{tx(lang,"Referência conferida em: ","Source checked on: ")+esc(item.get("reviewedAt",item.get("date","2026-10-17")))}</span></div>'
    body+='</article></div></main>'
    save(detail(kind,item,lang),title,summary,body,parent,lang,detail(kind,item,'en' if lang=='pt' else 'pt'))
    index[lang].append({'title':title,'description':summary,'text':' '.join(paras+item.get('agenda',{}).get(lang,[])),'url':detail(kind,item,lang)})
@@ -95,10 +97,12 @@ for lang in ['pt','en']:
 (DIST/'content.json').write_text(json.dumps(data,ensure_ascii=False,indent=2),encoding='utf-8')
 (DIST/'robots.txt').write_text('User-agent: *\nAllow: /\n',encoding='utf-8')
 manifest=ROOT/'.openai/hosting.json';m=json.loads(manifest.read_text(encoding='utf-8-sig'));m['static']={'directory':'dist'};manifest.write_text(json.dumps(m,indent=2),encoding='utf-8')
-chat_embed = """<script type="module" id="hostgator-chat">import BubbleChat from 'https://agent-factory-chat.hostgator.io/scripts/start-chat.js'; const hashId = '90521b22-a546-4a0b-bc18-68b1fd8d50ff'; const bubbleChat = new BubbleChat(hashId, 'prod'); bubbleChat.open();</script>"""
+chat_embed = '<script src="/chat.js" defer></script>'
 for page in DIST.rglob('*.html'):
  if page == DIST/'index.html': continue
  doc = page.read_text(encoding='utf-8')
  page.write_text(doc.replace('</body>', chat_embed+'</body>'), encoding='utf-8')
 make_portable(DIST)
+from production import enhance
+enhance(DIST, ROOT)
 print('Built',len(list(DIST.rglob('index.html'))),'portable HTML routes')
