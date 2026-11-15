@@ -1,0 +1,1203 @@
+[
+  {
+    "w": 320,
+    "route": "pt/index.html",
+    "overflow": false,
+    "broken": [],
+    "resources": [
+      {
+        "url": "http://127.0.0.1:4173/site.css",
+        "bytes": 13036
+      },
+      {
+        "url": "http://127.0.0.1:4173/light.css?v=contact-20261103",
+        "bytes": 18766
+      },
+      {
+        "url": "http://127.0.0.1:4173/theme.css",
+        "bytes": 24574
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/gallery-p14-3.png",
+        "bytes": 749732
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.svg",
+        "bytes": 40499
+      },
+      {
+        "url": "http://127.0.0.1:4173/site.js",
+        "bytes": 7909
+      },
+      {
+        "url": "https://agent-factory-chat.hostgator.io/scripts/start-chat.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.png",
+        "bytes": 39737
+      }
+    ],
+    "email": null
+  },
+  {
+    "w": 320,
+    "route": "en/index.html",
+    "overflow": false,
+    "broken": [],
+    "resources": [
+      {
+        "url": "http://127.0.0.1:4173/site.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/theme.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/light.css?v=contact-20261103",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/site.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.svg",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/gallery-p14-3.png",
+        "bytes": 0
+      },
+      {
+        "url": "https://agent-factory-chat.hostgator.io/scripts/start-chat.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.png",
+        "bytes": 0
+      }
+    ],
+    "email": null
+  },
+  {
+    "w": 320,
+    "route": "pt/fpciberseg/index.html",
+    "overflow": false,
+    "broken": [],
+    "resources": [
+      {
+        "url": "http://127.0.0.1:4173/site.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/theme.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/light.css?v=contact-20261103",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/site.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.svg",
+        "bytes": 0
+      },
+      {
+        "url": "https://agent-factory-chat.hostgator.io/scripts/start-chat.js",
+        "bytes": 0
+      }
+    ],
+    "email": null
+  },
+  {
+    "w": 320,
+    "route": "en/fpciberseg/index.html",
+    "overflow": false,
+    "broken": [],
+    "resources": [
+      {
+        "url": "http://127.0.0.1:4173/site.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/theme.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/light.css?v=contact-20261103",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/site.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.svg",
+        "bytes": 0
+      },
+      {
+        "url": "https://agent-factory-chat.hostgator.io/scripts/start-chat.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.png",
+        "bytes": 0
+      }
+    ],
+    "email": null
+  },
+  {
+    "w": 320,
+    "route": "pt/busca/index.html",
+    "overflow": false,
+    "broken": [],
+    "resources": [
+      {
+        "url": "http://127.0.0.1:4173/site.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/theme.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/light.css?v=contact-20261103",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/site.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.svg",
+        "bytes": 0
+      },
+      {
+        "url": "https://agent-factory-chat.hostgator.io/scripts/start-chat.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.png",
+        "bytes": 0
+      }
+    ],
+    "email": null
+  },
+  {
+    "w": 320,
+    "route": "en/search/index.html",
+    "overflow": false,
+    "broken": [],
+    "resources": [
+      {
+        "url": "http://127.0.0.1:4173/site.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/theme.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/light.css?v=contact-20261103",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/site.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.svg",
+        "bytes": 0
+      },
+      {
+        "url": "https://agent-factory-chat.hostgator.io/scripts/start-chat.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.png",
+        "bytes": 0
+      }
+    ],
+    "email": null
+  },
+  {
+    "w": 320,
+    "route": "pt/contato/index.html",
+    "overflow": false,
+    "broken": [],
+    "resources": [
+      {
+        "url": "http://127.0.0.1:4173/site.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/theme.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/light.css?v=contact-20261103",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/site.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.svg",
+        "bytes": 0
+      },
+      {
+        "url": "https://agent-factory-chat.hostgator.io/scripts/start-chat.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.png",
+        "bytes": 0
+      }
+    ],
+    "email": "18px"
+  },
+  {
+    "w": 320,
+    "route": "en/contact/index.html",
+    "overflow": false,
+    "broken": [],
+    "resources": [
+      {
+        "url": "http://127.0.0.1:4173/site.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/theme.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/light.css?v=contact-20261103",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/site.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.svg",
+        "bytes": 0
+      },
+      {
+        "url": "https://agent-factory-chat.hostgator.io/scripts/start-chat.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.png",
+        "bytes": 0
+      }
+    ],
+    "email": "18px"
+  },
+  {
+    "w": 360,
+    "route": "pt/index.html",
+    "overflow": false,
+    "broken": [],
+    "resources": [
+      {
+        "url": "http://127.0.0.1:4173/site.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/theme.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/light.css?v=contact-20261103",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/site.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.svg",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/gallery-p14-3.png",
+        "bytes": 0
+      },
+      {
+        "url": "https://agent-factory-chat.hostgator.io/scripts/start-chat.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.png",
+        "bytes": 0
+      }
+    ],
+    "email": null
+  },
+  {
+    "w": 360,
+    "route": "en/index.html",
+    "overflow": false,
+    "broken": [],
+    "resources": [
+      {
+        "url": "http://127.0.0.1:4173/site.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/theme.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/light.css?v=contact-20261103",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/site.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.svg",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/gallery-p14-3.png",
+        "bytes": 0
+      },
+      {
+        "url": "https://agent-factory-chat.hostgator.io/scripts/start-chat.js",
+        "bytes": 0
+      }
+    ],
+    "email": null
+  },
+  {
+    "w": 360,
+    "route": "pt/fpciberseg/index.html",
+    "overflow": false,
+    "broken": [],
+    "resources": [
+      {
+        "url": "http://127.0.0.1:4173/site.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/theme.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/light.css?v=contact-20261103",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/site.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.svg",
+        "bytes": 0
+      },
+      {
+        "url": "https://agent-factory-chat.hostgator.io/scripts/start-chat.js",
+        "bytes": 0
+      }
+    ],
+    "email": null
+  },
+  {
+    "w": 360,
+    "route": "en/fpciberseg/index.html",
+    "overflow": false,
+    "broken": [],
+    "resources": [
+      {
+        "url": "http://127.0.0.1:4173/site.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/theme.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/light.css?v=contact-20261103",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/site.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.svg",
+        "bytes": 0
+      },
+      {
+        "url": "https://agent-factory-chat.hostgator.io/scripts/start-chat.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.png",
+        "bytes": 0
+      }
+    ],
+    "email": null
+  },
+  {
+    "w": 360,
+    "route": "pt/busca/index.html",
+    "overflow": false,
+    "broken": [],
+    "resources": [
+      {
+        "url": "http://127.0.0.1:4173/site.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/theme.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/light.css?v=contact-20261103",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/site.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.svg",
+        "bytes": 0
+      },
+      {
+        "url": "https://agent-factory-chat.hostgator.io/scripts/start-chat.js",
+        "bytes": 0
+      }
+    ],
+    "email": null
+  },
+  {
+    "w": 360,
+    "route": "en/search/index.html",
+    "overflow": false,
+    "broken": [],
+    "resources": [
+      {
+        "url": "http://127.0.0.1:4173/site.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/theme.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/light.css?v=contact-20261103",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/site.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.svg",
+        "bytes": 0
+      },
+      {
+        "url": "https://agent-factory-chat.hostgator.io/scripts/start-chat.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.png",
+        "bytes": 0
+      }
+    ],
+    "email": null
+  },
+  {
+    "w": 360,
+    "route": "pt/contato/index.html",
+    "overflow": false,
+    "broken": [],
+    "resources": [
+      {
+        "url": "http://127.0.0.1:4173/site.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/theme.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/light.css?v=contact-20261103",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/site.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.svg",
+        "bytes": 0
+      },
+      {
+        "url": "https://agent-factory-chat.hostgator.io/scripts/start-chat.js",
+        "bytes": 0
+      }
+    ],
+    "email": "18.36px"
+  },
+  {
+    "w": 360,
+    "route": "en/contact/index.html",
+    "overflow": false,
+    "broken": [],
+    "resources": [
+      {
+        "url": "http://127.0.0.1:4173/site.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/theme.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/light.css?v=contact-20261103",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/site.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.svg",
+        "bytes": 0
+      },
+      {
+        "url": "https://agent-factory-chat.hostgator.io/scripts/start-chat.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.png",
+        "bytes": 0
+      }
+    ],
+    "email": "18.36px"
+  },
+  {
+    "w": 768,
+    "route": "pt/index.html",
+    "overflow": false,
+    "broken": [],
+    "resources": [
+      {
+        "url": "http://127.0.0.1:4173/site.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/theme.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/light.css?v=contact-20261103",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/site.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.svg",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/gallery-p14-3.png",
+        "bytes": 0
+      },
+      {
+        "url": "https://agent-factory-chat.hostgator.io/scripts/start-chat.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.png",
+        "bytes": 0
+      }
+    ],
+    "email": null
+  },
+  {
+    "w": 768,
+    "route": "en/index.html",
+    "overflow": false,
+    "broken": [],
+    "resources": [
+      {
+        "url": "http://127.0.0.1:4173/site.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/theme.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/light.css?v=contact-20261103",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/site.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.svg",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/gallery-p14-3.png",
+        "bytes": 0
+      },
+      {
+        "url": "https://agent-factory-chat.hostgator.io/scripts/start-chat.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.png",
+        "bytes": 0
+      }
+    ],
+    "email": null
+  },
+  {
+    "w": 768,
+    "route": "pt/fpciberseg/index.html",
+    "overflow": false,
+    "broken": [],
+    "resources": [
+      {
+        "url": "http://127.0.0.1:4173/site.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/theme.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/light.css?v=contact-20261103",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/site.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.svg",
+        "bytes": 0
+      },
+      {
+        "url": "https://agent-factory-chat.hostgator.io/scripts/start-chat.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.png",
+        "bytes": 0
+      }
+    ],
+    "email": null
+  },
+  {
+    "w": 768,
+    "route": "en/fpciberseg/index.html",
+    "overflow": false,
+    "broken": [],
+    "resources": [
+      {
+        "url": "http://127.0.0.1:4173/site.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/theme.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/light.css?v=contact-20261103",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/site.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.svg",
+        "bytes": 0
+      },
+      {
+        "url": "https://agent-factory-chat.hostgator.io/scripts/start-chat.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.png",
+        "bytes": 0
+      }
+    ],
+    "email": null
+  },
+  {
+    "w": 768,
+    "route": "pt/busca/index.html",
+    "overflow": false,
+    "broken": [],
+    "resources": [
+      {
+        "url": "http://127.0.0.1:4173/site.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/theme.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/light.css?v=contact-20261103",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/site.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.svg",
+        "bytes": 0
+      },
+      {
+        "url": "https://agent-factory-chat.hostgator.io/scripts/start-chat.js",
+        "bytes": 0
+      }
+    ],
+    "email": null
+  },
+  {
+    "w": 768,
+    "route": "en/search/index.html",
+    "overflow": false,
+    "broken": [],
+    "resources": [
+      {
+        "url": "http://127.0.0.1:4173/site.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/theme.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/light.css?v=contact-20261103",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/site.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.svg",
+        "bytes": 0
+      },
+      {
+        "url": "https://agent-factory-chat.hostgator.io/scripts/start-chat.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.png",
+        "bytes": 0
+      }
+    ],
+    "email": null
+  },
+  {
+    "w": 768,
+    "route": "pt/contato/index.html",
+    "overflow": false,
+    "broken": [],
+    "resources": [
+      {
+        "url": "http://127.0.0.1:4173/site.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/theme.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/light.css?v=contact-20261103",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/site.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.svg",
+        "bytes": 0
+      },
+      {
+        "url": "https://agent-factory-chat.hostgator.io/scripts/start-chat.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.png",
+        "bytes": 0
+      }
+    ],
+    "email": "23.04px"
+  },
+  {
+    "w": 768,
+    "route": "en/contact/index.html",
+    "overflow": false,
+    "broken": [],
+    "resources": [
+      {
+        "url": "http://127.0.0.1:4173/site.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/theme.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/light.css?v=contact-20261103",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/site.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.svg",
+        "bytes": 0
+      },
+      {
+        "url": "https://agent-factory-chat.hostgator.io/scripts/start-chat.js",
+        "bytes": 0
+      }
+    ],
+    "email": "23.04px"
+  },
+  {
+    "w": 1440,
+    "route": "pt/index.html",
+    "overflow": false,
+    "broken": [],
+    "resources": [
+      {
+        "url": "http://127.0.0.1:4173/site.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/theme.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/light.css?v=contact-20261103",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/site.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.svg",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/gallery-p14-3.png",
+        "bytes": 0
+      },
+      {
+        "url": "https://agent-factory-chat.hostgator.io/scripts/start-chat.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.png",
+        "bytes": 0
+      }
+    ],
+    "email": null
+  },
+  {
+    "w": 1440,
+    "route": "en/index.html",
+    "overflow": false,
+    "broken": [],
+    "resources": [
+      {
+        "url": "http://127.0.0.1:4173/site.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/theme.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/light.css?v=contact-20261103",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/site.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.svg",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/gallery-p14-3.png",
+        "bytes": 0
+      },
+      {
+        "url": "https://agent-factory-chat.hostgator.io/scripts/start-chat.js",
+        "bytes": 0
+      }
+    ],
+    "email": null
+  },
+  {
+    "w": 1440,
+    "route": "pt/fpciberseg/index.html",
+    "overflow": false,
+    "broken": [],
+    "resources": [
+      {
+        "url": "http://127.0.0.1:4173/site.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/theme.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/light.css?v=contact-20261103",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/site.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.svg",
+        "bytes": 0
+      },
+      {
+        "url": "https://agent-factory-chat.hostgator.io/scripts/start-chat.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.png",
+        "bytes": 0
+      }
+    ],
+    "email": null
+  },
+  {
+    "w": 1440,
+    "route": "en/fpciberseg/index.html",
+    "overflow": false,
+    "broken": [],
+    "resources": [
+      {
+        "url": "http://127.0.0.1:4173/site.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/theme.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/light.css?v=contact-20261103",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/site.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.svg",
+        "bytes": 0
+      },
+      {
+        "url": "https://agent-factory-chat.hostgator.io/scripts/start-chat.js",
+        "bytes": 0
+      }
+    ],
+    "email": null
+  },
+  {
+    "w": 1440,
+    "route": "pt/busca/index.html",
+    "overflow": false,
+    "broken": [],
+    "resources": [
+      {
+        "url": "http://127.0.0.1:4173/site.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/theme.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/light.css?v=contact-20261103",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/site.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.svg",
+        "bytes": 0
+      },
+      {
+        "url": "https://agent-factory-chat.hostgator.io/scripts/start-chat.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.png",
+        "bytes": 0
+      }
+    ],
+    "email": null
+  },
+  {
+    "w": 1440,
+    "route": "en/search/index.html",
+    "overflow": false,
+    "broken": [],
+    "resources": [
+      {
+        "url": "http://127.0.0.1:4173/site.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/theme.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/light.css?v=contact-20261103",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/site.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.svg",
+        "bytes": 0
+      },
+      {
+        "url": "https://agent-factory-chat.hostgator.io/scripts/start-chat.js",
+        "bytes": 0
+      }
+    ],
+    "email": null
+  },
+  {
+    "w": 1440,
+    "route": "pt/contato/index.html",
+    "overflow": false,
+    "broken": [],
+    "resources": [
+      {
+        "url": "http://127.0.0.1:4173/site.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/theme.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/light.css?v=contact-20261103",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/site.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.svg",
+        "bytes": 0
+      },
+      {
+        "url": "https://agent-factory-chat.hostgator.io/scripts/start-chat.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.png",
+        "bytes": 0
+      }
+    ],
+    "email": "34px"
+  },
+  {
+    "w": 1440,
+    "route": "en/contact/index.html",
+    "overflow": false,
+    "broken": [],
+    "resources": [
+      {
+        "url": "http://127.0.0.1:4173/site.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/theme.css",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/light.css?v=contact-20261103",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/site.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.svg",
+        "bytes": 0
+      },
+      {
+        "url": "https://agent-factory-chat.hostgator.io/scripts/start-chat.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.png",
+        "bytes": 0
+      }
+    ],
+    "email": "34px"
+  },
+  {
+    "search": "pt/busca/index.html",
+    "status": "8 resultados para “formação”",
+    "results": 8
+  },
+  {
+    "empty": "pt/busca/index.html",
+    "status": "Nenhum resultado. Experimente termos como formação, Parlamento ou estudos."
+  },
+  {
+    "search": "en/search/index.html",
+    "status": "6 results for “education”",
+    "results": 6
+  },
+  {
+    "empty": "en/search/index.html",
+    "status": "No results. Try terms such as education, Parliament or research."
+  },
+  {
+    "carousel": "2",
+    "pause": "paused"
+  },
+  {
+    "reducedMotion": "paused"
+  }
+]

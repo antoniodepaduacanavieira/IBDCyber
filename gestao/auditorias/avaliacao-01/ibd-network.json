@@ -1,0 +1,252 @@
+[
+  {
+    "width": 360,
+    "failed": [
+      {
+        "url": "https://agent-factory-chat.hostgator.io/scripts/start-chat.js",
+        "error": {
+          "errorText": "net::ERR_TUNNEL_CONNECTION_FAILED"
+        }
+      }
+    ],
+    "resources": [
+      {
+        "url": "http://127.0.0.1:4173/site.css",
+        "bytes": 13036
+      },
+      {
+        "url": "http://127.0.0.1:4173/theme.css",
+        "bytes": 24574
+      },
+      {
+        "url": "http://127.0.0.1:4173/light.css?v=contact-20261103",
+        "bytes": 18766
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.svg",
+        "bytes": 40499
+      },
+      {
+        "url": "http://127.0.0.1:4173/site.js",
+        "bytes": 7909
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/gallery-p14-3.png",
+        "bytes": 749732
+      },
+      {
+        "url": "https://agent-factory-chat.hostgator.io/scripts/start-chat.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.png",
+        "bytes": 39737
+      }
+    ],
+    "images": [
+      {
+        "src": "http://127.0.0.1:4173/assets/logo-white.svg",
+        "w": 124,
+        "nw": 227,
+        "loading": "auto"
+      },
+      {
+        "src": "http://127.0.0.1:4173/assets/gallery-p14-3.png",
+        "w": 324,
+        "nw": 860,
+        "loading": "auto"
+      },
+      {
+        "src": "",
+        "w": 886,
+        "nw": 0,
+        "loading": "lazy"
+      },
+      {
+        "src": "",
+        "w": 771,
+        "nw": 0,
+        "loading": "lazy"
+      },
+      {
+        "src": "",
+        "w": 733,
+        "nw": 0,
+        "loading": "lazy"
+      },
+      {
+        "src": "",
+        "w": 1600,
+        "nw": 0,
+        "loading": "lazy"
+      },
+      {
+        "src": "",
+        "w": 733,
+        "nw": 0,
+        "loading": "lazy"
+      },
+      {
+        "src": "",
+        "w": 1000,
+        "nw": 0,
+        "loading": "lazy"
+      },
+      {
+        "src": "",
+        "w": 675,
+        "nw": 0,
+        "loading": "lazy"
+      },
+      {
+        "src": "",
+        "w": 1179,
+        "nw": 0,
+        "loading": "lazy"
+      },
+      {
+        "src": "",
+        "w": 880,
+        "nw": 0,
+        "loading": "lazy"
+      },
+      {
+        "src": "",
+        "w": 322,
+        "nw": 0,
+        "loading": "lazy"
+      },
+      {
+        "src": "http://127.0.0.1:4173/assets/logo-white.svg",
+        "w": 135,
+        "nw": 227,
+        "loading": "lazy"
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "failed": [
+      {
+        "url": "https://agent-factory-chat.hostgator.io/scripts/start-chat.js",
+        "error": {
+          "errorText": "net::ERR_TUNNEL_CONNECTION_FAILED"
+        }
+      }
+    ],
+    "resources": [
+      {
+        "url": "http://127.0.0.1:4173/site.css",
+        "bytes": 13036
+      },
+      {
+        "url": "http://127.0.0.1:4173/theme.css",
+        "bytes": 24574
+      },
+      {
+        "url": "http://127.0.0.1:4173/light.css?v=contact-20261103",
+        "bytes": 18766
+      },
+      {
+        "url": "http://127.0.0.1:4173/site.js",
+        "bytes": 7909
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/gallery-p14-3.png",
+        "bytes": 749732
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.svg",
+        "bytes": 40499
+      },
+      {
+        "url": "https://agent-factory-chat.hostgator.io/scripts/start-chat.js",
+        "bytes": 0
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/logo-white.png",
+        "bytes": 39737
+      }
+    ],
+    "images": [
+      {
+        "src": "http://127.0.0.1:4173/assets/logo-white.svg",
+        "w": 150,
+        "nw": 227,
+        "loading": "auto"
+      },
+      {
+        "src": "http://127.0.0.1:4173/assets/gallery-p14-3.png",
+        "w": 480,
+        "nw": 860,
+        "loading": "auto"
+      },
+      {
+        "src": "",
+        "w": 886,
+        "nw": 0,
+        "loading": "lazy"
+      },
+      {
+        "src": "",
+        "w": 771,
+        "nw": 0,
+        "loading": "lazy"
+      },
+      {
+        "src": "",
+        "w": 733,
+        "nw": 0,
+        "loading": "lazy"
+      },
+      {
+        "src": "",
+        "w": 1600,
+        "nw": 0,
+        "loading": "lazy"
+      },
+      {
+        "src": "",
+        "w": 733,
+        "nw": 0,
+        "loading": "lazy"
+      },
+      {
+        "src": "",
+        "w": 1000,
+        "nw": 0,
+        "loading": "lazy"
+      },
+      {
+        "src": "",
+        "w": 675,
+        "nw": 0,
+        "loading": "lazy"
+      },
+      {
+        "src": "",
+        "w": 1179,
+        "nw": 0,
+        "loading": "lazy"
+      },
+      {
+        "src": "",
+        "w": 880,
+        "nw": 0,
+        "loading": "lazy"
+      },
+      {
+        "src": "",
+        "w": 558,
+        "nw": 0,
+        "loading": "lazy"
+      },
+      {
+        "src": "http://127.0.0.1:4173/assets/logo-white.svg",
+        "w": 150,
+        "nw": 227,
+        "loading": "lazy"
+      }
+    ]
+  }
+]

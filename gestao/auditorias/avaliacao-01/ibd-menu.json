@@ -1,0 +1,24 @@
+[
+  {
+    "lang": "pt",
+    "menu": "true",
+    "navVisible": true,
+    "overflow": false
+  },
+  {
+    "lang": "pt",
+    "closed": "false",
+    "focused": true
+  },
+  {
+    "lang": "en",
+    "menu": "true",
+    "navVisible": true,
+    "overflow": false
+  },
+  {
+    "lang": "en",
+    "closed": "false",
+    "focused": true
+  }
+]
