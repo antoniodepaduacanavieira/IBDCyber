@@ -16,7 +16,9 @@ O portal institucional é a primeira entrega deste projeto. Este repositório re
 | Pasta | Conteúdo |
 | --- | --- |
 | `portal/source` | Conteúdo estruturado em português e inglês |
-| `portal/dist` | HTML, CSS, JavaScript, fotografias e marca usados no site |
+| `portal/static` | CSS, JavaScript, fotografias e marca de origem |
+| `portal/dist` | Saída gerada para hospedagem |
+| `.codex` | Preparação e instruções de inicialização na nuvem |
 | `portal/*.py` | Geradores das páginas e conversão dos links relativos |
 | `gestao` | Escopo, decisões e prioridades |
 | `ferramentas` | Validação, prévia e empacotamento |
@@ -32,7 +34,7 @@ Requisito para edição e geração: Python 3.10 ou superior, apenas biblioteca 
 
 ```sh
 python ferramentas/portal.py build
-python ferramentas/portal.py check
+python ferramentas/portal.py verify-clean
 python ferramentas/portal.py serve
 python ferramentas/portal.py package
 ```
@@ -43,6 +45,6 @@ Para hospedar, extraia o ZIP e envie seu conteúdo para a pasta pública do prov
 
 ## Continuidade editorial
 
-Editar `portal/source/content.json` e executar a geração. Alterações de estrutura ficam em `portal/build.py` e `portal/redesign.py`. Os estilos e o JavaScript são mantidos em `portal/dist`; não apagar essa pasta antes de gerar, pois ela também contém os recursos de origem.
+Editar `portal/source/content.json` e executar a geração. Alterações de estrutura ficam em `portal/build.py` e `portal/redesign.py`. Os estilos, o JavaScript e os recursos visuais de origem são mantidos em `portal/static`. A pasta `portal/dist` pode ser reconstruída a partir do checkout. Não editar os arquivos gerados diretamente.
 
 O dossiê histórico não é atualizado automaticamente quando o site muda. Para o conteúdo atual, consultar o JSON e as páginas geradas.

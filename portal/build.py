@@ -2,7 +2,9 @@ import json,html,re,shutil
 from portable import make_portable
 from redesign import render_home
 from pathlib import Path
-ROOT=Path(__file__).parent; DIST=ROOT/'dist'
+ROOT=Path(__file__).resolve().parent; DIST=ROOT/'dist'
+DIST.mkdir(parents=True, exist_ok=True)
+shutil.copytree(ROOT/'static', DIST, dirs_exist_ok=True)
 data=json.loads((ROOT/'source/content.json').read_text(encoding='utf-8-sig'))
 pages={p['id']:p for p in data['pages']}
 def esc(v):return html.escape(str(v),quote=True)

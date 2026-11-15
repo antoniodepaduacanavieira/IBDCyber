@@ -17,11 +17,11 @@ Organizar e desenvolver a presença digital do Instituto Brasileiro de Defesa Ci
 
 ## Implementação
 
-Conteúdo em portal/source/content.json. Geradores em portal/build.py, redesign.py e portable.py. Recursos estáticos e estilos em portal/dist. Essa pasta contém também recursos não gerados; não apagá-la.
+Conteúdo em portal/source/content.json. Geradores em portal/build.py, redesign.py e portable.py. Recursos estáticos, estilos e JavaScript de origem em portal/static. portal/dist contém somente a saída gerada. Executar bash .codex/setup.sh em Linux para preparar e validar o checkout. As instruções de prévia estão em .codex/start.md.
 
 Usar caminhos relativos ao repositório, sem dependência de nomes de usuário ou unidades Windows. Não instalar dependências para tarefas que a biblioteca padrão do Python resolve.
 
-Após alterações, executar python ferramentas/portal.py build e python ferramentas/portal.py check. Para gerar a entrega, executar python ferramentas/portal.py package. Verificar visualmente mudanças de interface em desktop e celular quando houver ferramenta de navegador.
+Após alterações, executar python ferramentas/portal.py build e python ferramentas/portal.py verify-clean. A geração já inclui a verificação de links. Para gerar a entrega, executar python ferramentas/portal.py package. Verificar visualmente mudanças de interface em desktop e celular quando houver ferramenta de navegador.
 
 ## Publicação
 

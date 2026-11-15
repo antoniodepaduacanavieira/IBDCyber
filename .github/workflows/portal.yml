@@ -20,6 +20,8 @@ jobs:
       - name: Gerar e conferir o site
         run: python ferramentas/portal.py build
       - name: Preparar ZIP de hospedagem
+        run: python ferramentas/portal.py verify-clean
+      - name: Empacotar arquivos para hospedagem
         run: python ferramentas/portal.py package
       - uses: actions/upload-artifact@v4
         with:
