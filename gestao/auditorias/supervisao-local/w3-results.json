@@ -36,7 +36,8 @@
     ],
     "focusChecked": 47,
     "obscured": [],
-    "targetIssues": []
+    "targetIssues": [],
+    "focusApplied": 47
   },
   {
     "path": "/en/index.html",
@@ -75,7 +76,8 @@
     ],
     "focusChecked": 47,
     "obscured": [],
-    "targetIssues": []
+    "targetIssues": [],
+    "focusApplied": 47
   },
   {
     "path": "/pt/busca/index.html",
@@ -114,7 +116,8 @@
     ],
     "focusChecked": 21,
     "obscured": [],
-    "targetIssues": []
+    "targetIssues": [],
+    "focusApplied": 21
   },
   {
     "path": "/en/search/index.html",
@@ -153,7 +156,8 @@
     ],
     "focusChecked": 21,
     "obscured": [],
-    "targetIssues": []
+    "targetIssues": [],
+    "focusApplied": 21
   },
   {
     "path": "/pt/contato/index.html",
@@ -192,7 +196,8 @@
     ],
     "focusChecked": 24,
     "obscured": [],
-    "targetIssues": []
+    "targetIssues": [],
+    "focusApplied": 24
   },
   {
     "path": "/en/contact/index.html",
@@ -231,7 +236,8 @@
     ],
     "focusChecked": 24,
     "obscured": [],
-    "targetIssues": []
+    "targetIssues": [],
+    "focusApplied": 24
   },
   {
     "path": "/pt/conhecimento/index.html",
@@ -270,7 +276,8 @@
     ],
     "focusChecked": 35,
     "obscured": [],
-    "targetIssues": []
+    "targetIssues": [],
+    "focusApplied": 35
   },
   {
     "path": "/pt/fpciberseg/index.html",
@@ -330,6 +337,7 @@
     ],
     "focusChecked": 31,
     "obscured": [],
-    "targetIssues": []
+    "targetIssues": [],
+    "focusApplied": 31
   }
 ]
