@@ -1,0 +1,335 @@
+[
+  {
+    "path": "/pt/index.html",
+    "dpr": 2,
+    "innerWidth": 320,
+    "scrollWidth": 320,
+    "small": [
+      {
+        "text": "PT",
+        "w": 18,
+        "h": 21,
+        "nearestCenter": 29,
+        "tag": "A"
+      },
+      {
+        "text": "EN",
+        "w": 20,
+        "h": 19,
+        "nearestCenter": 29,
+        "tag": "A"
+      },
+      {
+        "text": "Consultar a proposta →",
+        "w": 161,
+        "h": 19,
+        "nearestCenter": 210,
+        "tag": "A"
+      },
+      {
+        "text": "administrativo@ibdcyber.org.br",
+        "w": 284,
+        "h": 22,
+        "nearestCenter": 142,
+        "tag": "A"
+      }
+    ],
+    "focusChecked": 47,
+    "obscured": [],
+    "targetIssues": []
+  },
+  {
+    "path": "/en/index.html",
+    "dpr": 2,
+    "innerWidth": 320,
+    "scrollWidth": 320,
+    "small": [
+      {
+        "text": "EN",
+        "w": 20,
+        "h": 21,
+        "nearestCenter": 29,
+        "tag": "A"
+      },
+      {
+        "text": "PT",
+        "w": 18,
+        "h": 19,
+        "nearestCenter": 29,
+        "tag": "A"
+      },
+      {
+        "text": "Explore the proposal →",
+        "w": 159,
+        "h": 19,
+        "nearestCenter": 217,
+        "tag": "A"
+      },
+      {
+        "text": "administrativo@ibdcyber.org.br",
+        "w": 284,
+        "h": 22,
+        "nearestCenter": 142,
+        "tag": "A"
+      }
+    ],
+    "focusChecked": 47,
+    "obscured": [],
+    "targetIssues": []
+  },
+  {
+    "path": "/pt/busca/index.html",
+    "dpr": 2,
+    "innerWidth": 320,
+    "scrollWidth": 320,
+    "small": [
+      {
+        "text": "PT",
+        "w": 18,
+        "h": 21,
+        "nearestCenter": 29,
+        "tag": "A"
+      },
+      {
+        "text": "EN",
+        "w": 20,
+        "h": 19,
+        "nearestCenter": 29,
+        "tag": "A"
+      },
+      {
+        "text": "Início",
+        "w": 31,
+        "h": 18,
+        "nearestCenter": 99,
+        "tag": "A"
+      },
+      {
+        "text": "administrativo@ibdcyber.org.br",
+        "w": 284,
+        "h": 22,
+        "nearestCenter": 142,
+        "tag": "A"
+      }
+    ],
+    "focusChecked": 21,
+    "obscured": [],
+    "targetIssues": []
+  },
+  {
+    "path": "/en/search/index.html",
+    "dpr": 2,
+    "innerWidth": 320,
+    "scrollWidth": 320,
+    "small": [
+      {
+        "text": "EN",
+        "w": 20,
+        "h": 21,
+        "nearestCenter": 29,
+        "tag": "A"
+      },
+      {
+        "text": "PT",
+        "w": 18,
+        "h": 19,
+        "nearestCenter": 29,
+        "tag": "A"
+      },
+      {
+        "text": "Home",
+        "w": 35,
+        "h": 18,
+        "nearestCenter": 98,
+        "tag": "A"
+      },
+      {
+        "text": "administrativo@ibdcyber.org.br",
+        "w": 284,
+        "h": 22,
+        "nearestCenter": 142,
+        "tag": "A"
+      }
+    ],
+    "focusChecked": 21,
+    "obscured": [],
+    "targetIssues": []
+  },
+  {
+    "path": "/pt/contato/index.html",
+    "dpr": 2,
+    "innerWidth": 320,
+    "scrollWidth": 320,
+    "small": [
+      {
+        "text": "PT",
+        "w": 18,
+        "h": 21,
+        "nearestCenter": 29,
+        "tag": "A"
+      },
+      {
+        "text": "EN",
+        "w": 20,
+        "h": 19,
+        "nearestCenter": 29,
+        "tag": "A"
+      },
+      {
+        "text": "Início",
+        "w": 31,
+        "h": 18,
+        "nearestCenter": 99,
+        "tag": "A"
+      },
+      {
+        "text": "administrativo@ibdcyber.org.br",
+        "w": 284,
+        "h": 22,
+        "nearestCenter": 142,
+        "tag": "A"
+      }
+    ],
+    "focusChecked": 24,
+    "obscured": [],
+    "targetIssues": []
+  },
+  {
+    "path": "/en/contact/index.html",
+    "dpr": 2,
+    "innerWidth": 320,
+    "scrollWidth": 320,
+    "small": [
+      {
+        "text": "EN",
+        "w": 20,
+        "h": 21,
+        "nearestCenter": 29,
+        "tag": "A"
+      },
+      {
+        "text": "PT",
+        "w": 18,
+        "h": 19,
+        "nearestCenter": 29,
+        "tag": "A"
+      },
+      {
+        "text": "Home",
+        "w": 35,
+        "h": 18,
+        "nearestCenter": 98,
+        "tag": "A"
+      },
+      {
+        "text": "administrativo@ibdcyber.org.br",
+        "w": 284,
+        "h": 22,
+        "nearestCenter": 142,
+        "tag": "A"
+      }
+    ],
+    "focusChecked": 24,
+    "obscured": [],
+    "targetIssues": []
+  },
+  {
+    "path": "/pt/conhecimento/index.html",
+    "dpr": 2,
+    "innerWidth": 320,
+    "scrollWidth": 320,
+    "small": [
+      {
+        "text": "PT",
+        "w": 18,
+        "h": 21,
+        "nearestCenter": 29,
+        "tag": "A"
+      },
+      {
+        "text": "EN",
+        "w": 20,
+        "h": 19,
+        "nearestCenter": 29,
+        "tag": "A"
+      },
+      {
+        "text": "Início",
+        "w": 31,
+        "h": 18,
+        "nearestCenter": 99,
+        "tag": "A"
+      },
+      {
+        "text": "administrativo@ibdcyber.org.br",
+        "w": 284,
+        "h": 22,
+        "nearestCenter": 142,
+        "tag": "A"
+      }
+    ],
+    "focusChecked": 35,
+    "obscured": [],
+    "targetIssues": []
+  },
+  {
+    "path": "/pt/fpciberseg/index.html",
+    "dpr": 2,
+    "innerWidth": 320,
+    "scrollWidth": 320,
+    "small": [
+      {
+        "text": "PT",
+        "w": 18,
+        "h": 21,
+        "nearestCenter": 29,
+        "tag": "A"
+      },
+      {
+        "text": "EN",
+        "w": 20,
+        "h": 19,
+        "nearestCenter": 29,
+        "tag": "A"
+      },
+      {
+        "text": "Início",
+        "w": 31,
+        "h": 18,
+        "nearestCenter": 99,
+        "tag": "A"
+      },
+      {
+        "text": "FPCIBERSEG ↗",
+        "w": 82,
+        "h": 18,
+        "nearestCenter": 64,
+        "tag": "A"
+      },
+      {
+        "text": "Consultar registro ↗",
+        "w": 115,
+        "h": 18,
+        "nearestCenter": 64,
+        "tag": "A"
+      },
+      {
+        "text": "Resultado oficial, página 2 (PDF)",
+        "w": 184,
+        "h": 18,
+        "nearestCenter": 394,
+        "tag": "A"
+      },
+      {
+        "text": "administrativo@ibdcyber.org.br",
+        "w": 284,
+        "h": 22,
+        "nearestCenter": 142,
+        "tag": "A"
+      }
+    ],
+    "focusChecked": 31,
+    "obscured": [],
+    "targetIssues": []
+  }
+]

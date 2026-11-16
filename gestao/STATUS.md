@@ -46,3 +46,9 @@ Implementadas melhorias da auditoria e comunicado de audiência futura em portug
 O novo chat Supervisão institucional e SEO do IBDCyber está confirmado dentro do projeto local IBDCyber. A coordenação entre supervisor e construtor funcionou e corrigiu duas falhas verificadas. Relatório: gestao/auditorias/supervisao-local/AVALIACAO-2026-11-15-059ed3e.md. Nota: 75/100 pontos comprovados, meta 95 pendente. A rubrica não foi alterada. O site público foi limpo de mensagens de produção dirigidas ao responsável em ambos os idiomas.
 
 ZIP desta rodada: entregas/IBDCyber-portal-20261115T193115563364Z.zip. Build, reprodução limpa e integridade aprovados. O relatório lista dependências de validação institucional, testes especializados e hospedagem. Não declarar pontuação de Google nem conformidade WCAG integral.
+
+## Segunda rodada de supervisão, 15/11/2026
+
+Nota independente: 90/100 na rubrica fixa v1, versão d6239f1. Cinco melhorias aplicadas: jornadas por público, cronologia parlamentar com fontes, metadados de biblioteca, agenda separada e possibilidades de cooperação. A política editorial mensal e sempre que houver novos documentos foi confirmada pelo responsável e publicada PT/EN. Desempenho móvel: mediana LCP 2,46s, CLS 0,0788 e TBT 56ms. Teste de escala200% aprovado na amostra do supervisor.
+
+Relatório: gestao/auditorias/supervisao-local/AVALIACAO-2026-11-15-d6239f1.md. A meta95 continua pendente: leitor de tela real (W4) e operação HostGator (O2), cinco pontos cada. Não presumir aprovação por testes automáticos. ZIP: entregas/IBDCyber-portal-20261116T014244050278Z.zip (nome em UTC; entrega local em15/11). Apenas dist, integridade aprovada.

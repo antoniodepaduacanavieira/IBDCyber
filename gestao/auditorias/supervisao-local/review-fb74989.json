@@ -1,0 +1,296 @@
+{
+  "layout": [
+    {
+      "path": "/pt/index.html",
+      "width": 320,
+      "overflow": 0
+    },
+    {
+      "path": "/en/index.html",
+      "width": 320,
+      "overflow": 0
+    },
+    {
+      "path": "/pt/fpciberseg/index.html",
+      "width": 320,
+      "overflow": 0
+    },
+    {
+      "path": "/en/fpciberseg/index.html",
+      "width": 320,
+      "overflow": 0
+    },
+    {
+      "path": "/pt/conhecimento/index.html",
+      "width": 320,
+      "overflow": 0
+    },
+    {
+      "path": "/en/knowledge/index.html",
+      "width": 320,
+      "overflow": 0
+    },
+    {
+      "path": "/pt/agenda/index.html",
+      "width": 320,
+      "overflow": 0
+    },
+    {
+      "path": "/en/activity/index.html",
+      "width": 320,
+      "overflow": 0
+    },
+    {
+      "path": "/pt/cooperacao/index.html",
+      "width": 320,
+      "overflow": 0
+    },
+    {
+      "path": "/en/cooperation/index.html",
+      "width": 320,
+      "overflow": 0
+    },
+    {
+      "path": "/pt/index.html",
+      "width": 360,
+      "overflow": 0
+    },
+    {
+      "path": "/en/index.html",
+      "width": 360,
+      "overflow": 0
+    },
+    {
+      "path": "/pt/fpciberseg/index.html",
+      "width": 360,
+      "overflow": 0
+    },
+    {
+      "path": "/en/fpciberseg/index.html",
+      "width": 360,
+      "overflow": 0
+    },
+    {
+      "path": "/pt/conhecimento/index.html",
+      "width": 360,
+      "overflow": 0
+    },
+    {
+      "path": "/en/knowledge/index.html",
+      "width": 360,
+      "overflow": 0
+    },
+    {
+      "path": "/pt/agenda/index.html",
+      "width": 360,
+      "overflow": 0
+    },
+    {
+      "path": "/en/activity/index.html",
+      "width": 360,
+      "overflow": 0
+    },
+    {
+      "path": "/pt/cooperacao/index.html",
+      "width": 360,
+      "overflow": 0
+    },
+    {
+      "path": "/en/cooperation/index.html",
+      "width": 360,
+      "overflow": 0
+    },
+    {
+      "path": "/pt/index.html",
+      "width": 768,
+      "overflow": 0
+    },
+    {
+      "path": "/en/index.html",
+      "width": 768,
+      "overflow": 0
+    },
+    {
+      "path": "/pt/fpciberseg/index.html",
+      "width": 768,
+      "overflow": 0
+    },
+    {
+      "path": "/en/fpciberseg/index.html",
+      "width": 768,
+      "overflow": 0
+    },
+    {
+      "path": "/pt/conhecimento/index.html",
+      "width": 768,
+      "overflow": 0
+    },
+    {
+      "path": "/en/knowledge/index.html",
+      "width": 768,
+      "overflow": 0
+    },
+    {
+      "path": "/pt/agenda/index.html",
+      "width": 768,
+      "overflow": 0
+    },
+    {
+      "path": "/en/activity/index.html",
+      "width": 768,
+      "overflow": 0
+    },
+    {
+      "path": "/pt/cooperacao/index.html",
+      "width": 768,
+      "overflow": 0
+    },
+    {
+      "path": "/en/cooperation/index.html",
+      "width": 768,
+      "overflow": 0
+    },
+    {
+      "path": "/pt/index.html",
+      "width": 1440,
+      "overflow": 0
+    },
+    {
+      "path": "/en/index.html",
+      "width": 1440,
+      "overflow": 0
+    },
+    {
+      "path": "/pt/fpciberseg/index.html",
+      "width": 1440,
+      "overflow": 0
+    },
+    {
+      "path": "/en/fpciberseg/index.html",
+      "width": 1440,
+      "overflow": 0
+    },
+    {
+      "path": "/pt/conhecimento/index.html",
+      "width": 1440,
+      "overflow": 0
+    },
+    {
+      "path": "/en/knowledge/index.html",
+      "width": 1440,
+      "overflow": 0
+    },
+    {
+      "path": "/pt/agenda/index.html",
+      "width": 1440,
+      "overflow": 0
+    },
+    {
+      "path": "/en/activity/index.html",
+      "width": 1440,
+      "overflow": 0
+    },
+    {
+      "path": "/pt/cooperacao/index.html",
+      "width": 1440,
+      "overflow": 0
+    },
+    {
+      "path": "/en/cooperation/index.html",
+      "width": 1440,
+      "overflow": 0
+    }
+  ],
+  "checks": {
+    "journeys": [
+      {
+        "title": "Parlamento e assessorias",
+        "href": "fpciberseg/index.html"
+      },
+      {
+        "title": "Gestores e pesquisadores",
+        "href": "conhecimento/index.html"
+      },
+      {
+        "title": "Cidadãos e imprensa",
+        "href": "contato/index.html"
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2025-03-25",
+        "source": "https://legis.senado.leg.br/atividade/comissoes/comissao/2716/reuniao/13380"
+      },
+      {
+        "date": "2025-05-28",
+        "source": "https://legis.senado.leg.br/atividade/comissoes/comissao/2716/reuniao/13626"
+      },
+      {
+        "date": "2025-11-04",
+        "source": "https://legis.senado.leg.br/atividade/comissoes/comissao/2716/reuniao/14171"
+      }
+    ],
+    "resources": {
+      "cards": 6,
+      "metadata": 6
+    },
+    "agenda": {
+      "groups": [
+        "Em preparaçãoData a confirmarEm breve: audiência pública sobre segurança cibernética no Senado FederalEm preparação↗",
+        "Histórico e comunicados anteriores5 de novembro de 2026, às 15hReunião de Diretoria do IBDCyberComunicado histórico↗4 de novembro de 2025Audiência sobre o Marco Legal da CibersegurançaAgenda parlamentar↗28 de maio de 2025Abertura dos trabalhos da FrenteAgenda parlamentar↗25 de março de 2025Instalação da FPCIBERSEGAgenda parlamentar↗2025 | ano informado pelo InstitutoParticipação relatada na RSA ConferenceParticipação institucional↗2024 | ano informado pelo InstitutoMissão relatada a Pittsburgh e Washington, D.C.Participação institucional↗"
+      ],
+      "initial": 2,
+      "empty": {
+        "groups": 0,
+        "message": "Nenhum resultado nesta seleção. Limpe os filtros ou tente outro termo."
+      },
+      "filtered": {
+        "groups": 2,
+        "cards": 2
+      }
+    },
+    "cooperation": "oposta, inclua o endereço de consulta. A equipe poderá avaliar a aderência ao propósito institucional e a viabilidade de uma conversa.\n\nPrazos, recursos, uso de marcas, divulgação de resultados e responsabilidades devem ser acordados antes de qualquer iniciativa. Esta página abre um caminho de interlocução; não publica uma lista de parceiros ou assegura a aceitação de propostas. Os canais disponíveis estão reunidos na página de contato.\n\nNotas técnicas para o debate público\n\nPara assessorias parlamentares e gestores: propostas de análise de um problema, comparação de alternativas e organização de fontes. A definição de escopo, equipe e revisão precede qualquer compromisso de entrega.\n\nFormação para quem decide\n\nPara dirigentes e equipes: possibilidades de oficinas sobre riscos, responsabilidades e decisões em cibersegurança. Programa, instrutores e condições de participação dependem de análise de viabilidade.\n\nPesquisa e diálogos técnicos\n\nPara pesquisadores e organizações: propostas de estudos e encontros temáticos, com pergunta de pesquisa, responsabilidades e forma de divulgação acordadas entre os participantes.\n\nComo apresentar uma proposta\n\nEnvie o tema, o público, o objetivo e o prazo pretendido para administrativo@ibdcyber.org.br. Essas possibilidades de cooperação são pontos de partida para análise; não constituem serviços com contratação ou disponibilidade confirmadas."
+  },
+  "axe": [
+    {
+      "path": "/pt/index.html",
+      "violations": []
+    },
+    {
+      "path": "/en/index.html",
+      "violations": []
+    },
+    {
+      "path": "/pt/fpciberseg/index.html",
+      "violations": []
+    },
+    {
+      "path": "/en/fpciberseg/index.html",
+      "violations": []
+    },
+    {
+      "path": "/pt/conhecimento/index.html",
+      "violations": []
+    },
+    {
+      "path": "/en/knowledge/index.html",
+      "violations": []
+    },
+    {
+      "path": "/pt/agenda/index.html",
+      "violations": []
+    },
+    {
+      "path": "/en/activity/index.html",
+      "violations": []
+    },
+    {
+      "path": "/pt/cooperacao/index.html",
+      "violations": []
+    },
+    {
+      "path": "/en/cooperation/index.html",
+      "violations": []
+    }
+  ]
+}
