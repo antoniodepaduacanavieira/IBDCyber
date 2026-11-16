@@ -52,3 +52,8 @@ ZIP desta rodada: entregas/IBDCyber-portal-20261115T193115563364Z.zip. Build, re
 Nota independente: 90/100 na rubrica fixa v1, versão d6239f1. Cinco melhorias aplicadas: jornadas por público, cronologia parlamentar com fontes, metadados de biblioteca, agenda separada e possibilidades de cooperação. A política editorial mensal e sempre que houver novos documentos foi confirmada pelo responsável e publicada PT/EN. Desempenho móvel: mediana LCP 2,46s, CLS 0,0788 e TBT 56ms. Teste de escala200% aprovado na amostra do supervisor.
 
 Relatório: gestao/auditorias/supervisao-local/AVALIACAO-2026-11-15-d6239f1.md. A meta95 continua pendente: leitor de tela real (W4) e operação HostGator (O2), cinco pontos cada. Não presumir aprovação por testes automáticos. ZIP: entregas/IBDCyber-portal-20261116T014244050278Z.zip (nome em UTC; entrega local em15/11). Apenas dist, integridade aprovada.
+
+## Pacote de entrega de 16/11/2026
+
+Nova versão consolidada em entregas/IBDCyber-portal-20261116T114623816610Z.zip. A reconstrução limpa reproduziu todos os arquivos; 62 HTMLs, referências internas, e-mail bilíngue e integridade do pacote aprovados. O conteúdo corresponde à versão avaliada em 90/100, sem nova alteração de interface nesta consolidação. Publicação na HostGator e testes com leitor de tela real permanecem pendentes. O ZIP contém somente o portal para hospedagem.
+
