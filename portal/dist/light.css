@@ -149,3 +149,20 @@ body{background:#fffefa;color:var(--ink);font-size:18px}
 .site-footer .chat-access{color:#163744;border-color:#c9d3d2}
 .site-footer .chat-access p,.site-footer .chat-access a{color:#254b58}
 .practice-top>span{color:#52636a}
+.pathways{padding:32px 0 40px;border-bottom:1px solid #d4dfdd;background:#fffefa}
+.pathways h2{font-size:22px;line-height:1.3;margin:0 0 22px;color:#153341}
+.pathway-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px}
+.pathway-grid>a{position:relative;padding:20px 36px 20px 20px;border:1px solid #d4dfdd;border-radius:6px;color:#153341;text-decoration:none;background:#fff}
+.pathway-grid>a:hover{border-color:#426a78;background:#edf3f2}
+.pathway-grid h3{font-size:19px;margin:0 0 8px;line-height:1.4}
+.pathway-grid p{font-size:15px;color:#425860;line-height:1.6;margin:0}
+.pathway-grid span{position:absolute;right:14px;top:20px}
+.resource-meta{display:grid;grid-template-columns:auto 1fr;gap:5px 12px;font-size:13px;color:#425860;margin:16px 0}
+.resource-meta dt{font-weight:600}.resource-meta dd{margin:0}
+.parliament-timeline ol{list-style:none;padding:0 0 0 24px;border-left:2px solid #b3c6c7}
+.parliament-timeline li{position:relative;padding:0 0 30px 12px}
+.parliament-timeline li:before{content:'';position:absolute;left:-31px;top:6px;width:10px;height:10px;border-radius:50%;background:#305c6c}
+.parliament-timeline time{font-weight:600;color:#264b58}.timeline-status{display:block;font-size:13px;color:#52636a;margin-top:5px}
+.parliament-timeline h3{font-size:23px;line-height:1.4;margin:10px 0}
+.agenda-group{margin:32px 0}.agenda-group[hidden]{display:none}
+@media(max-width:700px){.pathway-grid{grid-template-columns:1fr;gap:12px}.pathways{padding:28px 0}.pathway-grid>a{padding:18px 36px 18px 18px}}

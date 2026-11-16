@@ -1,6 +1,7 @@
 import json,html,re,shutil
 from portable import make_portable
 from redesign import render_home
+from journeys import pathways, timeline, agenda_groups
 from pathlib import Path
 ROOT=Path(__file__).resolve().parent; DIST=ROOT/'dist'
 DIST.mkdir(parents=True, exist_ok=True)
@@ -28,7 +29,7 @@ def footer(lang):
 def section_html(s,index):
  return f'<section id="section-{index}"><h2>{esc(s["heading"])}</h2>'+''.join(f'<p>{esc(p)}</p>' for p in s.get('paragraphs',[]))+('<ul>'+''.join(f'<li>{esc(x)}</li>' for x in s['items'])+'</ul>' if s.get('items') else '')+'</section>'
 def resource(item,lang):
- return f'<article class="resource" data-filter-item data-category="{esc(item["topic"][lang])}"><p class="tag">{esc(item["kind"][lang])} · {esc(item["topic"][lang])}</p><h3><a href="{detail("knowledge",item,lang)}">{esc(item["title"][lang])}</a></h3><p>{esc(item["summary"][lang])}</p><a class="text-link" href="{detail("knowledge",item,lang)}">{tx(lang,"Consultar referência","Explore resource")} ↗</a></article>'
+ return f'<article class="resource" data-filter-item data-category="{esc(item["topic"][lang])}"><p class="tag">{esc(item["kind"][lang])} · {esc(item["topic"][lang])}</p><h3><a href="{detail("knowledge",item,lang)}">{esc(item["title"][lang])}</a></h3><p>{esc(item["summary"][lang])}</p><dl class="resource-meta"><dt>{tx(lang,"Autoria","Publisher")}</dt><dd>{esc(item["sourceLabel"])}</dd><dt>{tx(lang,"Idioma da fonte","Source language")}</dt><dd>{esc(item.get("sourceLanguage",{}).get(lang,""))}</dd><dt>{tx(lang,"Consulta","Reviewed")}</dt><dd>{esc(item["date"])}</dd></dl><a class="text-link" href="{detail("knowledge",item,lang)}">{tx(lang,"Consultar referência","Explore resource")} ↗</a></article>'
 def event(item,lang):
  return f'<a class="agenda-item" data-filter-item data-category="{esc(item["type"][lang])}" href="{detail("events",item,lang)}"><time datetime="{esc(item.get("startDate",item["date"]))}">{esc(item["displayDate"][lang])}</time><div><h3>{esc(item["title"][lang])}</h3><p>{esc(item["type"][lang])}</p></div><span aria-hidden="true">↗</span></a>'
 def areas(lang):
@@ -52,14 +53,14 @@ def standard(id,lang):
  if id=='leadership':pic=f'<figure><img class="portrait" src="/assets/director.png" alt="Carlos Diego de Araújo" width="880" height="1280"><figcaption>{tx(lang,"Acervo da apresentação institucional do IBDCyber.","From the IBDCyber institutional presentation.")}</figcaption></figure>'
  listing=''
  if id=='knowledge':listing=filters(data['knowledge'],'topic',lang)+'<div class="small-grid">'+''.join(resource(x,lang) for x in data['knowledge'])+'</div>'
- if id=='agenda':listing=filters(data['events'],'type',lang)+'<div class="agenda-list">'+''.join(event(x,lang) for x in sorted(data['events'],key=lambda x:x['date'],reverse=True))+'</div>'
- if id=='front':listing='<div class="agenda-list">'+''.join(event(x,lang) for x in data['events'] if x['id'].startswith('front-'))+'</div>'
+ if id=='agenda':listing=filters(data['events'],'type',lang)+agenda_groups(data['events'],lang,event)
+ if id=='front':listing=timeline(data['events'],lang,detail)
  contact_card=''
  if id=='contact':
   email=esc(pages[id]['email'])
   contact_card=f'<section class="wrap contact-primary" aria-labelledby="contact-email-heading"><div><h2 id="contact-email-heading">{tx(lang,"E-mail administrativo","Administrative email")}</h2><a class="contact-email" href="mailto:{email}">{email}<span aria-hidden="true"> ↗</span></a><p>{tx(lang,"Clique no endereço para escrever ao Instituto.","Select the address to email the Institute.")}</p></div></section>'
  return '<main id="main">'+heading(lang,p['title'],p['eyebrow'],p['intro'])+contact_card+f'<div class="wrap article-layout"><aside class="side-nav" aria-label="{tx(lang,"Nesta página","On this page")}"><h2>{tx(lang,"Nesta página","On this page")}</h2>{side}</aside><article class="body-content">{pic}{"".join(section_html(s,i) for i,s in enumerate(sections))}{listing}{extra}</article></div></main>'
-home=lambda lang:render_home(lang,pages,data,tx,link,button,event,resource,areas)
+home=lambda lang:render_home(lang,pages,data,tx,link,button,event,resource,areas).replace('<section class="section about-overview">', pathways(lang, href)+'<section class="section about-overview">')
 index={'pt':[],'en':[]}
 def save(path,title,description,body,id,lang,alternate=None):
  alt=alternate or href(id,'en' if lang=='pt' else 'pt')
@@ -106,3 +107,4 @@ make_portable(DIST)
 from production import enhance
 enhance(DIST, ROOT)
 print('Built',len(list(DIST.rglob('index.html'))),'portable HTML routes')
+

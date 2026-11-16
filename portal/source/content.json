@@ -539,6 +539,30 @@
               "Apresente sua organização, uma breve descrição da pauta e o objetivo do contato. Quando houver material público que ajude a compreender a proposta, inclua o endereço de consulta. A equipe poderá avaliar a aderência ao propósito institucional e a viabilidade de uma conversa.",
               "Prazos, recursos, uso de marcas, divulgação de resultados e responsabilidades devem ser acordados antes de qualquer iniciativa. Esta página abre um caminho de interlocução; não publica uma lista de parceiros ou assegura a aceitação de propostas. Os canais disponíveis estão reunidos na página de contato."
             ]
+          },
+          {
+            "heading": "Notas técnicas para o debate público",
+            "paragraphs": [
+              "Para assessorias parlamentares e gestores: propostas de análise de um problema, comparação de alternativas e organização de fontes. A definição de escopo, equipe e revisão precede qualquer compromisso de entrega."
+            ]
+          },
+          {
+            "heading": "Formação para quem decide",
+            "paragraphs": [
+              "Para dirigentes e equipes: possibilidades de oficinas sobre riscos, responsabilidades e decisões em cibersegurança. Programa, instrutores e condições de participação dependem de análise de viabilidade."
+            ]
+          },
+          {
+            "heading": "Pesquisa e diálogos técnicos",
+            "paragraphs": [
+              "Para pesquisadores e organizações: propostas de estudos e encontros temáticos, com pergunta de pesquisa, responsabilidades e forma de divulgação acordadas entre os participantes."
+            ]
+          },
+          {
+            "heading": "Como apresentar uma proposta",
+            "paragraphs": [
+              "Envie o tema, o público, o objetivo e o prazo pretendido para administrativo@ibdcyber.org.br. Essas possibilidades de cooperação são pontos de partida para análise; não constituem serviços com contratação ou disponibilidade confirmadas."
+            ]
           }
         ]
       },
@@ -567,6 +591,30 @@
             "paragraphs": [
               "Introduce your organisation, briefly describe the subject and explain the aim of the contact. If public material would help the team understand the proposal, include a link. The team can then consider its relevance and whether a discussion would be useful.",
               "Timing, resources, use of brands, publication of results and responsibilities should be agreed before an initiative begins. This page offers a way to start a conversation. It does not list confirmed partners or guarantee acceptance of proposals. Available channels are gathered on the contact page."
+            ]
+          },
+          {
+            "heading": "Technical briefs for public debate",
+            "paragraphs": [
+              "For parliamentary staff and public managers: proposals to analyse an issue, compare alternatives and organise sources. Scope, staffing and review must be agreed before any delivery commitment."
+            ]
+          },
+          {
+            "heading": "Education for decision-makers",
+            "paragraphs": [
+              "For leaders and teams: potential workshops on cybersecurity risks, responsibilities and decisions. Programmes, instructors and participation conditions depend on a feasibility assessment."
+            ]
+          },
+          {
+            "heading": "Research and technical dialogue",
+            "paragraphs": [
+              "For researchers and organisations: proposals for studies and thematic discussions, with an agreed research question, responsibilities and publication arrangements."
+            ]
+          },
+          {
+            "heading": "How to submit a proposal",
+            "paragraphs": [
+              "Email the topic, intended audience, objective and proposed timeframe to administrativo@ibdcyber.org.br. These cooperation possibilities are starting points for assessment, not services with confirmed availability or contracting terms."
             ]
           }
         ]
@@ -947,6 +995,10 @@
       "kind": {
         "pt": "Referência externa",
         "en": "External reference"
+      },
+      "sourceLanguage": {
+        "pt": "Português",
+        "en": "Portuguese"
       }
     },
     {
@@ -973,6 +1025,10 @@
       "kind": {
         "pt": "Referência externa",
         "en": "External reference"
+      },
+      "sourceLanguage": {
+        "pt": "Português",
+        "en": "Portuguese"
       }
     },
     {
@@ -999,6 +1055,10 @@
       "kind": {
         "pt": "Referência externa",
         "en": "External reference"
+      },
+      "sourceLanguage": {
+        "pt": "Português",
+        "en": "Portuguese"
       }
     },
     {
@@ -1025,6 +1085,10 @@
       "kind": {
         "pt": "Referência externa",
         "en": "External reference"
+      },
+      "sourceLanguage": {
+        "pt": "Inglês",
+        "en": "English"
       }
     },
     {
@@ -1051,6 +1115,10 @@
       "kind": {
         "pt": "Referência externa",
         "en": "External reference"
+      },
+      "sourceLanguage": {
+        "pt": "Português",
+        "en": "Portuguese"
       }
     },
     {
@@ -1077,6 +1145,10 @@
       "kind": {
         "pt": "Referência externa",
         "en": "External reference"
+      },
+      "sourceLanguage": {
+        "pt": "Português",
+        "en": "Portuguese"
       }
     }
   ],

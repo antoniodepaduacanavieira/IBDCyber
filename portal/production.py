@@ -1,6 +1,7 @@
 """Production discovery metadata, without changing portable navigation links."""
 import json
 import re
+import posixpath
 from urllib.parse import urljoin
 from xml.sax.saxutils import escape
 
@@ -9,11 +10,22 @@ def enhance(directory, root):
     config = json.loads((root / 'source/production.json').read_text(encoding='utf-8'))
     base = config['canonicalBase'].rstrip('/') + '/'
     urls = []
+    css = '\n'.join((root / 'static' / name).read_text(encoding='utf-8-sig') for name in ('site.css', 'theme.css', 'light.css'))
+    css = re.sub(r'/\*.*?\*/', '', css, flags=re.S)
+    css = re.sub(r'\s+', ' ', css).strip()
+    (directory / 'portal.css').write_text(css, encoding='utf-8')
     images = json.loads((root / 'source/images.json').read_text(encoding='utf-8'))
     for page in sorted(directory.rglob('index.html')):
         relative = page.relative_to(directory).as_posix()
         canonical = base + relative
         text = page.read_text(encoding='utf-8')
+        styles = r'<link rel="stylesheet" href="[^"]+">'
+        # Inline the modest homepage stylesheet to avoid render-blocking requests.
+        # Internal pages share one cached bundle with the same cascade.
+        replacement = '<style>' + css + '</style>' if relative in ('pt/index.html', 'en/index.html') else '<link rel="stylesheet" href="' + posixpath.relpath('portal.css', posixpath.dirname(relative) or '.') + '">'
+        first = re.search(styles, text)
+        if first:
+            text = text[:first.start()] + replacement + re.sub(styles, '', text[first.end():])
         def picture(match):
             tag = match[0]
             source = re.search(r'src="([^"]+)"', tag)
