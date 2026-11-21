@@ -1,0 +1,202 @@
+{
+  "layout": [
+    {
+      "path": "pt",
+      "width": 360,
+      "overflow": 0,
+      "h1": 1
+    },
+    {
+      "path": "en",
+      "width": 360,
+      "overflow": 0,
+      "h1": 1
+    },
+    {
+      "path": "pt/conhecimento",
+      "width": 360,
+      "overflow": 0,
+      "h1": 1
+    },
+    {
+      "path": "en/knowledge",
+      "width": 360,
+      "overflow": 0,
+      "h1": 1
+    },
+    {
+      "path": "pt/governanca",
+      "width": 360,
+      "overflow": 0,
+      "h1": 1
+    },
+    {
+      "path": "en/governance",
+      "width": 360,
+      "overflow": 0,
+      "h1": 1
+    },
+    {
+      "path": "pt/privacidade",
+      "width": 360,
+      "overflow": 0,
+      "h1": 1
+    },
+    {
+      "path": "en/privacy",
+      "width": 360,
+      "overflow": 0,
+      "h1": 1
+    },
+    {
+      "path": "pt/agenda/requerimento-102-2026-ia-ciberseguranca",
+      "width": 360,
+      "overflow": 0,
+      "h1": 1
+    },
+    {
+      "path": "en/activity/requerimento-102-2026-ia-ciberseguranca",
+      "width": 360,
+      "overflow": 0,
+      "h1": 1
+    },
+    {
+      "path": "pt",
+      "width": 1440,
+      "overflow": 0,
+      "h1": 1
+    },
+    {
+      "path": "en",
+      "width": 1440,
+      "overflow": 0,
+      "h1": 1
+    },
+    {
+      "path": "pt/conhecimento",
+      "width": 1440,
+      "overflow": 0,
+      "h1": 1
+    },
+    {
+      "path": "en/knowledge",
+      "width": 1440,
+      "overflow": 0,
+      "h1": 1
+    },
+    {
+      "path": "pt/governanca",
+      "width": 1440,
+      "overflow": 0,
+      "h1": 1
+    },
+    {
+      "path": "en/governance",
+      "width": 1440,
+      "overflow": 0,
+      "h1": 1
+    },
+    {
+      "path": "pt/privacidade",
+      "width": 1440,
+      "overflow": 0,
+      "h1": 1
+    },
+    {
+      "path": "en/privacy",
+      "width": 1440,
+      "overflow": 0,
+      "h1": 1
+    },
+    {
+      "path": "pt/agenda/requerimento-102-2026-ia-ciberseguranca",
+      "width": 1440,
+      "overflow": 0,
+      "h1": 1
+    },
+    {
+      "path": "en/activity/requerimento-102-2026-ia-ciberseguranca",
+      "width": 1440,
+      "overflow": 0,
+      "h1": 1
+    }
+  ],
+  "filters": [
+    {
+      "path": "pt/conhecimento",
+      "width": 360,
+      "count": 48,
+      "topics": 13,
+      "lgpd": 2,
+      "emptyAndReset": true
+    },
+    {
+      "path": "en/knowledge",
+      "width": 360,
+      "count": 48,
+      "topics": 13,
+      "lgpd": 1,
+      "emptyAndReset": true
+    },
+    {
+      "path": "pt/conhecimento",
+      "width": 1440,
+      "count": 48,
+      "topics": 13,
+      "lgpd": 2,
+      "emptyAndReset": true
+    },
+    {
+      "path": "en/knowledge",
+      "width": 1440,
+      "count": 48,
+      "topics": 13,
+      "lgpd": 1,
+      "emptyAndReset": true
+    }
+  ],
+  "axe": [
+    {
+      "path": "pt",
+      "violations": []
+    },
+    {
+      "path": "en",
+      "violations": []
+    },
+    {
+      "path": "pt/conhecimento",
+      "violations": []
+    },
+    {
+      "path": "en/knowledge",
+      "violations": []
+    },
+    {
+      "path": "pt/governanca",
+      "violations": []
+    },
+    {
+      "path": "en/governance",
+      "violations": []
+    },
+    {
+      "path": "pt/privacidade",
+      "violations": []
+    },
+    {
+      "path": "en/privacy",
+      "violations": []
+    },
+    {
+      "path": "pt/agenda/requerimento-102-2026-ia-ciberseguranca",
+      "violations": []
+    },
+    {
+      "path": "en/activity/requerimento-102-2026-ia-ciberseguranca",
+      "violations": []
+    }
+  ],
+  "externalChatRequests": [],
+  "fileResults": 9
+}

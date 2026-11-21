@@ -55,6 +55,8 @@ def standard(id,lang):
  if id=='knowledge':listing=filters(data['knowledge'],'topic',lang)+'<div class="small-grid">'+''.join(resource(x,lang) for x in data['knowledge'])+'</div>'
  if id=='agenda':listing=filters(data['events'],'type',lang)+agenda_groups(data['events'],lang,event)
  if id=='front':listing=timeline(data['events'],lang,detail)
+ if id=='knowledge':
+  return '<main id="main">'+heading(lang,p['title'],p['eyebrow'],p['intro'])+'<section class="wrap section knowledge-library" aria-label="'+tx(lang,'Acervo de conhecimento','Knowledge collection')+'">'+listing+'</section></main>'
  contact_card=''
  if id=='contact':
   email=esc(pages[id]['email'])
@@ -85,6 +87,8 @@ for lang in ['pt','en']:
     body+='<div class="source-box"><strong>'+tx(lang,'Comunicado do IBDCyber','IBDCyber announcement')+'</strong><p>'+tx(lang,'Data do comunicado: ','Announcement date: ')+esc(item.get('sourceDate',item['date']))+'</p></div>'
    else:
     body+=f'<div class="source-box"><strong>{tx(lang,"Fonte","Source")}: {esc(item["sourceLabel"])}</strong><p><a href="{esc(item["sourceUrl"])}">{tx(lang,"Abrir documento ou página de origem","Open source document or page")} ↗</a></p><span>{tx(lang,"Referência conferida em: ","Source checked on: ")+esc(item.get("reviewedAt",item.get("date","2026-10-17")))}</span></div>'
+   if item.get('relatedSources'):
+    body+='<section><h2>'+tx(lang,'Documentos e cobertura','Documents and coverage')+'</h2><ul>'+''.join('<li><a href="'+esc(s['url'])+'">'+esc(s['label'][lang])+'</a></li>' for s in item['relatedSources'])+'</ul></section>'
    body+='</article></div></main>'
    save(detail(kind,item,lang),title,summary,body,parent,lang,detail(kind,item,'en' if lang=='pt' else 'pt'))
    index[lang].append({'title':title,'description':summary,'text':' '.join(paras+item.get('agenda',{}).get(lang,[])),'url':detail(kind,item,lang)})
@@ -98,11 +102,6 @@ for lang in ['pt','en']:
 (DIST/'content.json').write_text(json.dumps(data,ensure_ascii=False,indent=2),encoding='utf-8')
 (DIST/'robots.txt').write_text('User-agent: *\nAllow: /\n',encoding='utf-8')
 manifest=ROOT/'.openai/hosting.json';m=json.loads(manifest.read_text(encoding='utf-8-sig'));m['static']={'directory':'dist'};manifest.write_text(json.dumps(m,indent=2),encoding='utf-8')
-chat_embed = '<script src="/chat.js" defer></script>'
-for page in DIST.rglob('*.html'):
- if page == DIST/'index.html': continue
- doc = page.read_text(encoding='utf-8')
- page.write_text(doc.replace('</body>', chat_embed+'</body>'), encoding='utf-8')
 make_portable(DIST)
 from production import enhance
 enhance(DIST, ROOT)

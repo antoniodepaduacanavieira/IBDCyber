@@ -22,5 +22,5 @@ def timeline(events, lang, detail):
 
 def agenda_groups(events, lang, event):
     pt = lang == 'pt'
-    groups = [('Em preparação','In preparation', [x for x in events if x['type']['en']=='In preparation']), ('Histórico e comunicados anteriores','Past records and announcements',[x for x in events if x['type']['en']!='In preparation'])]
+    groups = [('Próximas pautas e atividades','Upcoming matters and activities', [x for x in events if x['type']['en'] in ('In preparation','Proposed hearing')]), ('Histórico e comunicados anteriores','Past records and announcements',[x for x in events if x['type']['en'] not in ('In preparation','Proposed hearing')])]
     return ''.join('<section class="agenda-group"><h2>'+(a if pt else b)+'</h2><div class="agenda-list">'+''.join(event(x,lang) for x in sorted(items,key=lambda x:x['date'],reverse=True))+'</div></section>' for a,b,items in groups)

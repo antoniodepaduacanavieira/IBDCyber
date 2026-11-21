@@ -142,12 +142,6 @@ body{background:#fffefa;color:var(--ink);font-size:18px}
 .record-image picture{display:block}
 :focus-visible{outline:3px solid #b07813;outline-offset:4px}
 .body-content a{overflow-wrap:anywhere}
-.chat-access{max-width:1160px;margin:0 auto 32px;padding:24px;border-bottom:1px solid #657786;color:#fff}
-.chat-access button{font:inherit;background:#fff;color:#153746;border:0;border-radius:5px;padding:12px 20px;min-height:44px;cursor:pointer}
-.chat-access p{font-size:14px;line-height:1.6;color:#e0e7eb;margin:12px 0}
-.chat-access a{color:#fff;text-decoration:underline}
-.site-footer .chat-access{color:#163744;border-color:#c9d3d2}
-.site-footer .chat-access p,.site-footer .chat-access a{color:#254b58}
 .practice-top>span{color:#52636a}
 .pathways{padding:32px 0 40px;border-bottom:1px solid #d4dfdd;background:#fffefa}
 .pathways h2{font-size:22px;line-height:1.3;margin:0 0 22px;color:#153341}
@@ -165,4 +159,12 @@ body{background:#fffefa;color:var(--ink);font-size:18px}
 .parliament-timeline time{font-weight:600;color:#264b58}.timeline-status{display:block;font-size:13px;color:#52636a;margin-top:5px}
 .parliament-timeline h3{font-size:23px;line-height:1.4;margin:10px 0}
 .agenda-group{margin:32px 0}.agenda-group[hidden]{display:none}
+.hearing-spotlight{background:#f3f1e9;border-top:3px solid #ad8b43;border-bottom:1px solid #d8d8ce}
+.hearing-spotlight .spotlight-grid{grid-template-columns:110px minmax(0,1.3fr) minmax(0,1fr) auto;gap:22px;padding-top:20px;padding-bottom:20px}
+.hearing-spotlight .spotlight-label{color:#284957;border-color:#d4d4c7;font-size:12px}
+.hearing-spotlight h2{font-size:22px;color:#153341}
+.hearing-spotlight p{font-size:15px;line-height:1.6}
+.hearing-spotlight .text-link{white-space:normal;min-height:44px;display:inline-flex;align-items:center;gap:12px}
+@media(max-width:980px){.hearing-spotlight .spotlight-grid{grid-template-columns:minmax(0,1fr) auto}.hearing-spotlight .spotlight-label{display:none}.hearing-spotlight .spotlight-grid>div{grid-column:1;grid-row:1}.hearing-spotlight .spotlight-grid>p{grid-column:1;grid-row:2}.hearing-spotlight .spotlight-grid>.text-link{grid-column:2;grid-row:1 / 3}}
+@media(max-width:600px){.hearing-spotlight .spotlight-grid{grid-template-columns:1fr;gap:10px;padding-top:18px;padding-bottom:18px}.hearing-spotlight h2{font-size:21px}.hearing-spotlight .spotlight-grid>.text-link{grid-column:1;grid-row:3;justify-self:start}.hearing-spotlight .mini-label{font-size:11px}}
 @media(max-width:700px){.pathway-grid{grid-template-columns:1fr;gap:12px}.pathways{padding:28px 0}.pathway-grid>a{padding:18px 36px 18px 18px}}

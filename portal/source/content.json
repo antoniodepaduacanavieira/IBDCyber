@@ -135,7 +135,7 @@
         "title": "Governança e transparência",
         "eyebrow": "O Instituto",
         "description": "Princípios do IBDCyber, documentos institucionais, fontes e canal para correções.",
-        "intro": "Uma apresentação institucional precisa permitir que o leitor identifique quem fala, em qual função e com base em quais documentos.",
+        "intro": "",
         "sections": [
           {
             "heading": "Princípios declarados",
@@ -150,16 +150,9 @@
             ]
           },
           {
-            "heading": "Como ler os registros",
-            "paragraphs": [
-              "Declarações do Instituto são identificadas como informações institucionais. Registros do Senado e materiais de outras organizações mantêm a indicação de origem. Participação em um evento e exercício de uma função são apresentados com seu contexto, sem presumir uma parceria entre organizações."
-            ]
-          },
-          {
             "heading": "Publicação e correções",
             "paragraphs": [
               "Este portal é publicado pelo Instituto Brasileiro de Defesa Cibernética. Solicitações de correção e documentos para atualização devem ser encaminhados a administrativo@ibdcyber.org.br, com indicação da página e da fonte que sustenta a alteração.",
-              "As datas de consulta mostram quando uma fonte foi conferida. A data de cada atividade é informada separadamente. Comunicados com detalhes ainda não confirmados são identificados dessa forma.",
               "O IBDCyber revisa mensalmente a agenda e as referências legislativas e também as atualiza sempre que recebe novos documentos. A revisão confere datas, fontes, links e o estado das informações publicadas."
             ]
           }
@@ -169,7 +162,7 @@
         "title": "Governance and transparency",
         "eyebrow": "The Institute",
         "description": "IBDCyber principles, institutional documents, sources and correction requests.",
-        "intro": "An institutional website should make it clear who is speaking, in what capacity and on the basis of which records.",
+        "intro": "",
         "sections": [
           {
             "heading": "Stated principles",
@@ -184,16 +177,9 @@
             ]
           },
           {
-            "heading": "Reading the records",
-            "paragraphs": [
-              "Statements by the Institute are identified as institutional information. Senate records and resources from other organisations retain their source attribution. Event participation and individual appointments are described in context without implying a partnership between organisations."
-            ]
-          },
-          {
             "heading": "Publication and corrections",
             "paragraphs": [
               "This website is published by Instituto Brasileiro de Defesa Cibernética. Send correction requests and supporting documents to administrativo@ibdcyber.org.br, identifying the page and the source supporting the change.",
-              "Review dates indicate when a source was checked. Activity dates are shown separately. Announcements with details awaiting confirmation are identified accordingly.",
               "IBDCyber reviews its agenda and legislative references monthly and also updates them whenever new documents are received. Reviews check dates, sources, links and the status of published information."
             ]
           }
@@ -336,15 +322,13 @@
           {
             "heading": "Acompanhar a discussão legislativa",
             "paragraphs": [
-              "A seção FPCIBERSEG oferece um ponto de consulta para registros da agenda parlamentar. O visitante encontra a identificação da Frente e acesso às fontes oficiais. A leitura de uma proposta deve considerar sua versão, a etapa de tramitação e a data da consulta.",
-              "Um projeto em discussão pode receber alterações. Por isso, a origem de uma informação e seu contexto temporal fazem parte do conteúdo. Análises e posicionamentos institucionais, quando publicados, devem ser identificados como tais e acompanhados dos documentos em que se baseiam."
+              "A seção FPCIBERSEG reúne os registros da agenda parlamentar e os documentos oficiais sobre o debate da cibersegurança no Senado. A tramitação do PL 4752/2025 pode ser acompanhada na página da matéria."
             ]
           },
           {
             "heading": "Assuntos para uma conversa",
             "paragraphs": [
-              "Órgãos públicos, entidades representativas e pesquisadores podem apresentar questões sobre governança, responsabilidades institucionais e participação no debate de cibersegurança. Uma descrição da decisão em pauta, do setor afetado e das evidências disponíveis ajuda a delimitar o assunto.",
-              "A equipe precisa avaliar cada possibilidade de trabalho. Esta página apresenta uma área de atuação e não confirma um serviço de assessoria já contratado ou disponível em condições padronizadas. Os canais de contato permitem iniciar essa avaliação, sem antecipar resultados legislativos ou compromissos em nome de outras instituições."
+              "Órgãos públicos, entidades representativas e pesquisadores podem apresentar questões sobre governança e participação no debate de cibersegurança. As possibilidades de contribuição são discutidas com a equipe do Instituto, a partir do tema e do escopo propostos."
             ]
           }
         ]
@@ -365,15 +349,13 @@
           {
             "heading": "Following legislative discussion",
             "paragraphs": [
-              "The FPCIBERSEG section provides a starting point for consulting parliamentary records. Visitors can identify the group and reach its official sources. A proposal should be read with attention to its version, legislative stage and the date on which the information was checked.",
-              "A bill under consideration may change. Its source and timing are therefore part of the information, not optional details. Any future institutional analysis or position should be clearly labelled and accompanied by the documents on which it relies. Readers should be able to return to the underlying record."
+              "The FPCIBERSEG section brings together parliamentary records and official documents on the Senate’s cybersecurity debate. Progress on Bill 4752/2025 is available in its official legislative record."
             ]
           },
           {
             "heading": "Subjects for a conversation",
             "paragraphs": [
-              "Public bodies, representative organisations and researchers can introduce questions about governance, institutional responsibilities and participation in cybersecurity debate. Describing the decision at issue, the affected sector and the available evidence helps define a useful scope.",
-              "The team must assess each potential engagement. This page presents an area of work, rather than a standard advisory service already available for purchase. The contact channels allow that assessment to begin without promising legislative outcomes or making commitments on behalf of other institutions."
+              "Public bodies, representative organisations and researchers can raise questions about governance and participation in cybersecurity discussions. Potential contributions are discussed with the Institute’s team based on the proposed subject and scope."
             ]
           }
         ]
@@ -394,15 +376,13 @@
           {
             "heading": "Conhecimento para uma decisão concreta",
             "paragraphs": [
-              "Desenvolver estudos e pesquisas integra os objetivos declarados do IBDCyber. Essa finalidade abrange questões de cibersegurança e proteção de dados, com atenção ao debate público. A proposta editorial desta frente é tornar visíveis a pergunta investigada, a origem das informações e a utilidade do trabalho.",
-              "Uma comparação internacional, por exemplo, precisa considerar diferenças de competência, escala e recursos. A existência de uma prática em outro país não demonstra que ela produzirá o mesmo resultado no Brasil. Explicar essas diferenças torna a comparação mais útil para quem precisa decidir."
+              "Estudos e pesquisas integram os objetivos do IBDCyber nas áreas de cibersegurança e proteção de dados. O foco está na análise de problemas relevantes para o debate público e na organização de evidências que apoiem decisões."
             ]
           },
           {
             "heading": "Ler a evidência com cuidado",
             "paragraphs": [
-              "Relatórios de mercado, registros administrativos e pesquisas acadêmicas respondem a perguntas distintas. Período de observação, universo pesquisado e definição dos termos influenciam os resultados. Esses elementos devem acompanhar qualquer número usado para fundamentar uma recomendação.",
-              "A área de conhecimento do portal começa com uma seleção de referências externas. A autoria permanece com cada organização de origem. Essa seleção facilita a consulta; ela não equivale a uma coleção de estudos produzidos pelo IBDCyber nem representa a adesão integral do Instituto às conclusões de terceiros."
+              "O acervo de conhecimento reúne legislação, regulamentos e referências técnicas de organizações brasileiras e internacionais, com identificação da autoria e acesso à fonte."
             ]
           },
           {
@@ -423,15 +403,13 @@
           {
             "heading": "Knowledge for a specific decision",
             "paragraphs": [
-              "Developing studies and research forms part of IBDCyber's stated objectives. This purpose covers cybersecurity and data protection, with attention to public debate. Research questions, sources and intended uses help readers assess a study.",
-              "An international comparison, for example, needs to consider differences in institutional powers, scale and resources. The existence of a practice in another country does not establish that it would produce the same result in Brazil. Explaining these differences makes the comparison more useful to those considering a decision."
+              "Research is among IBDCyber’s objectives in cybersecurity and data protection. The focus is on analysing issues relevant to public debate and organising evidence to support decisions."
             ]
           },
           {
             "heading": "Reading evidence carefully",
             "paragraphs": [
-              "Market reports, administrative records and academic studies answer different questions. Observation periods, sample coverage and definitions influence their findings. These details should accompany any figures used to support a recommendation, particularly when numbers from different sources are compared.",
-              "The website's knowledge section begins with a selection of external resources. Authorship remains with each originating organisation. The selection helps readers find information; it is not a collection of IBDCyber research and does not imply that the Institute endorses every conclusion drawn by another organisation."
+              "The knowledge collection brings together legislation, regulations and technical resources from Brazilian and international organisations, identifying their publishers and linking to the source."
             ]
           },
           {
@@ -459,15 +437,13 @@
           {
             "heading": "Começar pelo público",
             "paragraphs": [
-              "A formação de atores públicos e privados está entre os objetivos apresentados pelo IBDCyber. Uma proposta nessa área precisa partir do trabalho que as pessoas realizam e das decisões pelas quais respondem. O conteúdo deve ajudar o participante a reconhecer uma situação, formular a pergunta adequada e saber quando buscar apoio especializado.",
-              "Para gestores, o foco pode estar na compreensão de responsabilidades, prioridades e limites de uma decisão. Para equipes que participam de políticas públicas, importa compreender conceitos, fontes e implicações institucionais. O nível de profundidade deve acompanhar a necessidade de cada público."
+              "A formação de atores públicos e privados está entre os objetivos do IBDCyber. Os temas incluem riscos cibernéticos, responsabilidades institucionais e decisões sobre segurança."
             ]
           },
           {
             "heading": "Aprendizagem com contexto",
             "paragraphs": [
-              "Casos discutidos com cuidado permitem relacionar um conceito a uma escolha concreta. Uma atividade pode examinar como uma organização prepara sua comunicação, como define responsabilidades ou como lê uma evidência de risco. O valor está na clareza do raciocínio e na possibilidade de aplicar o aprendizado.",
-              "A apresentação institucional estabelece a formação como finalidade. Ela não informa, por si, turmas abertas, corpo docente, carga horária ou certificação. Este portal não oferece matrícula. Qualquer programa futuro precisará apresentar essas condições antes de receber participantes."
+              "As possibilidades de formação são discutidas conforme o público e suas necessidades. Informações sobre programas, instrutores, carga horária e condições de participação serão divulgadas quando houver atividades confirmadas."
             ]
           },
           {
@@ -488,15 +464,13 @@
           {
             "heading": "Start with the audience",
             "paragraphs": [
-              "Education for people working in public and private organisations is among IBDCyber's stated objectives. A proposal in this area should begin with the work participants do and the decisions for which they are responsible. Content should help them recognise a situation, ask an appropriate question and understand when specialist support is needed.",
-              "For managers, the emphasis may be on responsibilities, priorities and the limits of a decision. For teams involved in public policy, it may be on concepts, sources and institutional implications. The depth of an activity should reflect what its participants need to understand and do."
+              "Education for public and private sector participants is among IBDCyber’s objectives. Topics include cyber risks, institutional responsibilities and security decisions."
             ]
           },
           {
             "heading": "Learning in context",
             "paragraphs": [
-              "Carefully discussed cases can connect a concept to an actual choice. An activity might examine how an organisation prepares its communication, allocates responsibilities or assesses evidence of risk. Its value lies in clear reasoning and the opportunity to use what has been learned.",
-              "The institutional presentation establishes education as a purpose. It does not, on its own, confirm available courses, instructors, teaching hours or certification. This website does not accept enrolments. Any future programme will need to state those conditions before receiving participants."
+              "Education opportunities are discussed according to the audience and its needs. Programme details, instructors, duration and participation terms will be published when activities are confirmed."
             ]
           },
           {
@@ -631,42 +605,16 @@
       "pt": {
         "title": "Conhecimento",
         "eyebrow": "Referências para consulta",
-        "description": "Seleção de fontes externas sobre legislação, políticas públicas e segurança digital, com autoria e data de consulta identificadas.",
-        "intro": "Um ponto de partida para consultar documentos legislativos e materiais de segurança digital. Cada referência leva à organização responsável por sua publicação.",
-        "sections": [
-          {
-            "heading": "O que você encontra aqui",
-            "paragraphs": [
-              "Esta seleção reúne fontes externas. Os materiais não são publicações do IBDCyber. Use a busca e os temas para localizar um assunto e consulte o documento original para compreender seu contexto."
-            ]
-          },
-          {
-            "heading": "Datas e versões",
-            "paragraphs": [
-              "A data de revisão indica quando a referência foi conferida. Ela não substitui a data de publicação do material. Documentos legislativos e acervos podem mudar; verifique a versão disponível na origem antes de utilizar a informação."
-            ]
-          }
-        ]
+        "description": "Acervo de legislação e governança de segurança cibernética: LGPD, PNCiber, E-Ciber, normas setoriais, NIST, ISO e referências internacionais.",
+        "intro": "Legislação, políticas públicas e referências de governança para compreender a segurança cibernética no Brasil e no exterior.",
+        "sections": []
       },
       "en": {
         "title": "Knowledge",
         "eyebrow": "Resources to consult",
-        "description": "Selected external sources on legislation, public policy and digital security, with authorship and review dates identified.",
-        "intro": "A starting point for legislative records and digital security resources. Each reference takes you to the organisation responsible for publishing it.",
-        "sections": [
-          {
-            "heading": "What this collection contains",
-            "paragraphs": [
-              "This selection brings together external sources. The materials are not IBDCyber publications. Use search and topic filters to find a subject, then consult the original document for its full context."
-            ]
-          },
-          {
-            "heading": "Dates and versions",
-            "paragraphs": [
-              "The review date records when the reference was checked for this project. It is separate from the source's publication date. Legislative records and collections can change; check the version available at the source before using the information."
-            ]
-          }
-        ]
+        "description": "Cybersecurity legislation and governance collection: Brazilian data protection, national policy, sector regulations, NIST, ISO and international resources.",
+        "intro": "Legislation, public policy and governance resources covering cybersecurity in Brazil and internationally.",
+        "sections": []
       }
     },
     {
@@ -690,7 +638,7 @@
           {
             "heading": "Acompanhe a matéria",
             "paragraphs": [
-              "Na consulta de 17 de outubro de 2026, o PL 4752/2025 estava em tramitação, com relatoria de Jorge Seif na CCT. O último estado registrado era de 3 de setembro de 2026. Trata-se de proposta legislativa, não de lei vigente."
+              "Na consulta de 17 de novembro de 2026, o PL 4752/2025 estava em tramitação, com relatoria de Jorge Seif na CCT. O último estado registrado era de 3 de setembro de 2026. Trata-se de proposta legislativa, não de lei vigente."
             ]
           },
           {
@@ -716,7 +664,7 @@
           {
             "heading": "Follow the bill",
             "paragraphs": [
-              "Checked on 17 October 2026, Bill 4752/2025 remained under consideration, assigned to Senator Jorge Seif at CCT. Its latest recorded status was dated 3 September 2026. It is a legislative proposal, not enacted law."
+              "Checked on 17 November 2026, Bill 4752/2025 remained under consideration, assigned to Senator Jorge Seif at CCT. Its latest recorded status was dated 3 September 2026. It is a legislative proposal, not enacted law."
             ]
           },
           {
@@ -856,13 +804,7 @@
           {
             "heading": "Navegação e busca",
             "paragraphs": [
-              "A busca consulta o conteúdo incluído no próprio portal. O site não possui cadastro ou formulário de contato próprio. O chat é carregado por um serviço externo da HostGator."
-            ]
-          },
-          {
-            "heading": "Chat da HostGator",
-            "paragraphs": [
-              "O chat é carregado somente quando você seleciona Abrir atendimento. Nesse momento, seu navegador se conecta ao serviço externo da HostGator. As mensagens enviadas são processadas por esse serviço. Você também pode entrar em contato por e-mail, sem abrir o chat."
+              "A busca é realizada no próprio navegador. O portal não possui cadastro, formulário de contato ou atendimento por chat. O contato institucional é feito por e-mail."
             ]
           },
           {
@@ -888,13 +830,7 @@
           {
             "heading": "Navigation and search",
             "paragraphs": [
-              "Search uses the content included in the portal itself. The site has no registration or contact form of its own. Chat is loaded from an external HostGator service."
-            ]
-          },
-          {
-            "heading": "HostGator chat",
-            "paragraphs": [
-              "Chat loads only when you select Open support chat. Your browser then connects to the external HostGator service, which processes messages you submit. You can also contact the Institute by email without opening chat."
+              "Search runs in your browser. The portal has no registration, contact form or chat service. Institutional enquiries are handled by email."
             ]
           },
           {
@@ -984,10 +920,10 @@
         "en": "Official record containing texts, amendments, rapporteur and progress of the proposed cybersecurity framework. Under consideration when checked."
       },
       "topic": {
-        "pt": "Políticas públicas",
-        "en": "Public policy"
+        "pt": "Agenda legislativa",
+        "en": "Legislative agenda"
       },
-      "date": "2026-10-17",
+      "date": "2026-11-17",
       "dateLabel": {
         "pt": "Referência revisada em",
         "en": "Reference reviewed on"
@@ -995,12 +931,21 @@
       "sourceLabel": "Senado Federal",
       "sourceUrl": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170613",
       "kind": {
-        "pt": "Referência externa",
-        "en": "External reference"
+        "pt": "Projeto de lei",
+        "en": "Bill"
       },
       "sourceLanguage": {
         "pt": "Português",
         "en": "Portuguese"
+      },
+      "reviewedAt": "2026-11-17",
+      "body": {
+        "pt": [
+          "Proposta de Marco Legal da Cibersegurança. Em 17 de novembro de 2026, a página do Senado informa tramitação na Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática. O projeto não é uma lei vigente."
+        ],
+        "en": [
+          "Proposed cybersecurity legal framework. On 17 November 2026, the Senate record lists it under consideration in the Science, Technology, Innovation, Communication and Information Technology Committee. The bill is not enacted law."
+        ]
       }
     },
     {
@@ -1152,6 +1097,1476 @@
         "pt": "Português",
         "en": "Portuguese"
       }
+    },
+    {
+      "id": "pnciber-11856",
+      "title": {
+        "pt": "PNCiber e CNCiber: Decreto nº 11.856/2023",
+        "en": "PNCiber and CNCiber: Decree 11,856/2023"
+      },
+      "summary": {
+        "pt": "Institui a Política Nacional de Cibersegurança e o comitê nacional responsável por acompanhar sua implementação.",
+        "en": "Establishes Brazil’s national cybersecurity policy and the national committee that monitors its implementation."
+      },
+      "topic": {
+        "pt": "Política e governança nacional",
+        "en": "National policy and governance"
+      },
+      "kind": {
+        "pt": "Legislação brasileira",
+        "en": "Brazilian legislation"
+      },
+      "sourceLabel": "Câmara dos Deputados",
+      "sourceUrl": "https://www2.camara.leg.br/legin/fed/decret/2023/decreto-11856-26-dezembro-2023-795155-norma-pe.html",
+      "date": "2026-11-17",
+      "reviewedAt": "2026-11-17",
+      "sourceLanguage": {
+        "pt": "Português",
+        "en": "Portuguese"
+      },
+      "body": {
+        "pt": [
+          "Institui a Política Nacional de Cibersegurança e o comitê nacional responsável por acompanhar sua implementação."
+        ],
+        "en": [
+          "Establishes Brazil’s national cybersecurity policy and the national committee that monitors its implementation."
+        ]
+      }
+    },
+    {
+      "id": "eciber-12573",
+      "title": {
+        "pt": "E-Ciber: Decreto nº 12.573/2025",
+        "en": "E-Ciber: Decree 12,573/2025"
+      },
+      "summary": {
+        "pt": "Estratégia nacional que orienta a implementação da política de cibersegurança e a elaboração de seu plano nacional.",
+        "en": "National strategy guiding implementation of cybersecurity policy and development of its national plan."
+      },
+      "topic": {
+        "pt": "Política e governança nacional",
+        "en": "National policy and governance"
+      },
+      "kind": {
+        "pt": "Legislação brasileira",
+        "en": "Brazilian legislation"
+      },
+      "sourceLabel": "Senado Federal",
+      "sourceUrl": "https://legis.senado.gov.br/norma/41189004",
+      "date": "2026-11-17",
+      "reviewedAt": "2026-11-17",
+      "sourceLanguage": {
+        "pt": "Português",
+        "en": "Portuguese"
+      },
+      "body": {
+        "pt": [
+          "Estratégia nacional que orienta a implementação da política de cibersegurança e a elaboração de seu plano nacional."
+        ],
+        "en": [
+          "National strategy guiding implementation of cybersecurity policy and development of its national plan."
+        ]
+      }
+    },
+    {
+      "id": "pnsi-12572",
+      "title": {
+        "pt": "PNSI: Decreto nº 12.572/2025",
+        "en": "National information security policy: Decree 12,572/2025"
+      },
+      "summary": {
+        "pt": "Política Nacional de Segurança da Informação e organização de sua governança na administração pública federal.",
+        "en": "National information security policy and its governance within the federal public administration."
+      },
+      "topic": {
+        "pt": "Política e governança nacional",
+        "en": "National policy and governance"
+      },
+      "kind": {
+        "pt": "Legislação brasileira",
+        "en": "Brazilian legislation"
+      },
+      "sourceLabel": "Presidência da República",
+      "sourceUrl": "https://www.presidencia.gov.br/ccivil_03/_ato2023-2026/2025/decreto/d12572.htm",
+      "date": "2026-11-17",
+      "reviewedAt": "2026-11-17",
+      "sourceLanguage": {
+        "pt": "Português",
+        "en": "Portuguese"
+      },
+      "body": {
+        "pt": [
+          "Política Nacional de Segurança da Informação e organização de sua governança na administração pública federal."
+        ],
+        "en": [
+          "National information security policy and its governance within the federal public administration."
+        ]
+      }
+    },
+    {
+      "id": "rede-incidentes-10748",
+      "title": {
+        "pt": "Rede Federal de Gestão de Incidentes: Decreto nº 10.748/2021",
+        "en": "Federal incident management network: Decree 10,748/2021"
+      },
+      "summary": {
+        "pt": "Cria a rede federal de gestão de incidentes cibernéticos, articulando a prevenção e a resposta no governo.",
+        "en": "Creates the federal cybersecurity incident management network, connecting government prevention and response activities."
+      },
+      "topic": {
+        "pt": "Administração pública",
+        "en": "Public administration"
+      },
+      "kind": {
+        "pt": "Legislação brasileira",
+        "en": "Brazilian legislation"
+      },
+      "sourceLabel": "Senado Federal",
+      "sourceUrl": "https://legis.senado.leg.br/norma/34300387",
+      "date": "2026-11-17",
+      "reviewedAt": "2026-11-17",
+      "sourceLanguage": {
+        "pt": "Português",
+        "en": "Portuguese"
+      },
+      "body": {
+        "pt": [
+          "Cria a rede federal de gestão de incidentes cibernéticos, articulando a prevenção e a resposta no governo."
+        ],
+        "en": [
+          "Creates the federal cybersecurity incident management network, connecting government prevention and response activities."
+        ]
+      }
+    },
+    {
+      "id": "lgpd",
+      "title": {
+        "pt": "LGPD: Lei nº 13.709/2018",
+        "en": "Brazilian General Data Protection Law: Law 13,709/2018"
+      },
+      "summary": {
+        "pt": "Regras sobre tratamento de dados pessoais, direitos dos titulares, segurança e responsabilidades dos agentes de tratamento.",
+        "en": "Rules on personal data processing, individual rights, security and the responsibilities of controllers and processors."
+      },
+      "topic": {
+        "pt": "Proteção de dados e direitos digitais",
+        "en": "Data protection and digital rights"
+      },
+      "kind": {
+        "pt": "Legislação brasileira",
+        "en": "Brazilian legislation"
+      },
+      "sourceLabel": "Senado Federal",
+      "sourceUrl": "https://legis.senado.leg.br/norma/27457334",
+      "date": "2026-11-17",
+      "reviewedAt": "2026-11-17",
+      "sourceLanguage": {
+        "pt": "Português",
+        "en": "Portuguese"
+      },
+      "body": {
+        "pt": [
+          "Regras sobre tratamento de dados pessoais, direitos dos titulares, segurança e responsabilidades dos agentes de tratamento."
+        ],
+        "en": [
+          "Rules on personal data processing, individual rights, security and the responsibilities of controllers and processors."
+        ]
+      }
+    },
+    {
+      "id": "ec115",
+      "title": {
+        "pt": "Proteção de dados na Constituição: EC nº 115/2022",
+        "en": "Constitutional data protection: Amendment 115/2022"
+      },
+      "summary": {
+        "pt": "Inclui a proteção de dados pessoais entre os direitos fundamentais e define competências da União sobre a matéria.",
+        "en": "Adds personal data protection to constitutional fundamental rights and assigns federal powers over the subject."
+      },
+      "topic": {
+        "pt": "Proteção de dados e direitos digitais",
+        "en": "Data protection and digital rights"
+      },
+      "kind": {
+        "pt": "Legislação brasileira",
+        "en": "Brazilian legislation"
+      },
+      "sourceLabel": "Senado Federal",
+      "sourceUrl": "https://legis.senado.leg.br/norma/35485358",
+      "date": "2026-11-17",
+      "reviewedAt": "2026-11-17",
+      "sourceLanguage": {
+        "pt": "Português",
+        "en": "Portuguese"
+      },
+      "body": {
+        "pt": [
+          "Inclui a proteção de dados pessoais entre os direitos fundamentais e define competências da União sobre a matéria."
+        ],
+        "en": [
+          "Adds personal data protection to constitutional fundamental rights and assigns federal powers over the subject."
+        ]
+      }
+    },
+    {
+      "id": "marco-civil",
+      "title": {
+        "pt": "Marco Civil da Internet: Lei nº 12.965/2014",
+        "en": "Brazilian Internet Civil Rights Framework: Law 12,965/2014"
+      },
+      "summary": {
+        "pt": "Princípios, direitos e deveres para o uso da internet no Brasil, incluindo privacidade e proteção de registros.",
+        "en": "Principles, rights and duties for internet use in Brazil, including privacy and protection of records."
+      },
+      "topic": {
+        "pt": "Proteção de dados e direitos digitais",
+        "en": "Data protection and digital rights"
+      },
+      "kind": {
+        "pt": "Legislação brasileira",
+        "en": "Brazilian legislation"
+      },
+      "sourceLabel": "Senado Federal",
+      "sourceUrl": "https://legis.senado.leg.br/norma/584776",
+      "date": "2026-11-17",
+      "reviewedAt": "2026-11-17",
+      "sourceLanguage": {
+        "pt": "Português",
+        "en": "Portuguese"
+      },
+      "body": {
+        "pt": [
+          "Princípios, direitos e deveres para o uso da internet no Brasil, incluindo privacidade e proteção de registros."
+        ],
+        "en": [
+          "Principles, rights and duties for internet use in Brazil, including privacy and protection of records."
+        ]
+      }
+    },
+    {
+      "id": "marco-civil-regulamento",
+      "title": {
+        "pt": "Regulamento do Marco Civil: Decreto nº 8.771/2016",
+        "en": "Internet framework regulation: Decree 8,771/2016"
+      },
+      "summary": {
+        "pt": "Regulamenta neutralidade de rede, guarda e proteção de dados. O registro oficial também relaciona alterações posteriores, incluindo o Decreto nº 12.975/2026.",
+        "en": "Regulates network neutrality and data retention and protection. The official record also lists subsequent amendments, including Decree 12,975/2026."
+      },
+      "topic": {
+        "pt": "Proteção de dados e direitos digitais",
+        "en": "Data protection and digital rights"
+      },
+      "kind": {
+        "pt": "Legislação brasileira",
+        "en": "Brazilian legislation"
+      },
+      "sourceLabel": "Senado Federal",
+      "sourceUrl": "https://legis.senado.leg.br/norma/414662",
+      "date": "2026-11-17",
+      "reviewedAt": "2026-11-17",
+      "sourceLanguage": {
+        "pt": "Português",
+        "en": "Portuguese"
+      },
+      "body": {
+        "pt": [
+          "Regulamenta neutralidade de rede, guarda e proteção de dados. O registro oficial também relaciona alterações posteriores, incluindo o Decreto nº 12.975/2026."
+        ],
+        "en": [
+          "Regulates network neutrality and data retention and protection. The official record also lists subsequent amendments, including Decree 12,975/2026."
+        ]
+      }
+    },
+    {
+      "id": "lei-acesso-informacao",
+      "title": {
+        "pt": "Lei de Acesso à Informação: Lei nº 12.527/2011",
+        "en": "Access to Information Law: Law 12,527/2011"
+      },
+      "summary": {
+        "pt": "Base legal da transparência pública e das regras de acesso, classificação e proteção de informações.",
+        "en": "Legal basis for public transparency and rules governing access, classification and protection of information."
+      },
+      "topic": {
+        "pt": "Administração pública",
+        "en": "Public administration"
+      },
+      "kind": {
+        "pt": "Legislação brasileira",
+        "en": "Brazilian legislation"
+      },
+      "sourceLabel": "Senado Federal",
+      "sourceUrl": "https://legis.senado.leg.br/norma/584383",
+      "date": "2026-11-17",
+      "reviewedAt": "2026-11-17",
+      "sourceLanguage": {
+        "pt": "Português",
+        "en": "Portuguese"
+      },
+      "body": {
+        "pt": [
+          "Base legal da transparência pública e das regras de acesso, classificação e proteção de informações."
+        ],
+        "en": [
+          "Legal basis for public transparency and rules governing access, classification and protection of information."
+        ]
+      }
+    },
+    {
+      "id": "eca-digital",
+      "title": {
+        "pt": "Estatuto Digital da Criança e do Adolescente: Lei nº 15.211/2025",
+        "en": "Digital Statute for Children and Adolescents: Law 15,211/2025"
+      },
+      "summary": {
+        "pt": "Proteção de crianças e adolescentes em produtos e serviços digitais, com deveres relacionados à segurança e à privacidade.",
+        "en": "Protection of children and adolescents using digital products and services, including security and privacy duties."
+      },
+      "topic": {
+        "pt": "Proteção de dados e direitos digitais",
+        "en": "Data protection and digital rights"
+      },
+      "kind": {
+        "pt": "Legislação brasileira",
+        "en": "Brazilian legislation"
+      },
+      "sourceLabel": "Câmara dos Deputados",
+      "sourceUrl": "https://www2.camara.leg.br/legin/fed/lei/2025/lei-15211-17-setembro-2025-797997-normaatualizada-pl.html",
+      "date": "2026-11-17",
+      "reviewedAt": "2026-11-17",
+      "sourceLanguage": {
+        "pt": "Português",
+        "en": "Portuguese"
+      },
+      "body": {
+        "pt": [
+          "Proteção de crianças e adolescentes em produtos e serviços digitais, com deveres relacionados à segurança e à privacidade."
+        ],
+        "en": [
+          "Protection of children and adolescents using digital products and services, including security and privacy duties."
+        ]
+      }
+    },
+    {
+      "id": "delitos-informaticos",
+      "title": {
+        "pt": "Delitos informáticos: Lei nº 12.737/2012",
+        "en": "Computer offences: Law 12,737/2012"
+      },
+      "summary": {
+        "pt": "Introduz a tipificação de delitos informáticos no Código Penal, incluindo a invasão de dispositivo informático.",
+        "en": "Introduces computer offences into the Brazilian Criminal Code, including unlawful intrusion into computing devices."
+      },
+      "topic": {
+        "pt": "Crimes cibernéticos",
+        "en": "Cybercrime"
+      },
+      "kind": {
+        "pt": "Legislação brasileira",
+        "en": "Brazilian legislation"
+      },
+      "sourceLabel": "Senado Federal",
+      "sourceUrl": "https://legis.senado.leg.br/norma/588113",
+      "date": "2026-11-17",
+      "reviewedAt": "2026-11-17",
+      "sourceLanguage": {
+        "pt": "Português",
+        "en": "Portuguese"
+      },
+      "body": {
+        "pt": [
+          "Introduz a tipificação de delitos informáticos no Código Penal, incluindo a invasão de dispositivo informático."
+        ],
+        "en": [
+          "Introduces computer offences into the Brazilian Criminal Code, including unlawful intrusion into computing devices."
+        ]
+      }
+    },
+    {
+      "id": "fraude-eletronica",
+      "title": {
+        "pt": "Fraudes eletrônicas: Lei nº 14.155/2021",
+        "en": "Electronic fraud: Law 14,155/2021"
+      },
+      "summary": {
+        "pt": "Altera o tratamento penal da invasão de dispositivos, do furto e do estelionato por meios eletrônicos.",
+        "en": "Changes criminal provisions for device intrusion, theft and fraud committed through electronic means."
+      },
+      "topic": {
+        "pt": "Crimes cibernéticos",
+        "en": "Cybercrime"
+      },
+      "kind": {
+        "pt": "Legislação brasileira",
+        "en": "Brazilian legislation"
+      },
+      "sourceLabel": "Câmara dos Deputados",
+      "sourceUrl": "https://www2.camara.leg.br/legin/fed/lei/2021/lei-14155-27-maio-2021-791396-norma-pl.html",
+      "date": "2026-11-17",
+      "reviewedAt": "2026-11-17",
+      "sourceLanguage": {
+        "pt": "Português",
+        "en": "Portuguese"
+      },
+      "body": {
+        "pt": [
+          "Altera o tratamento penal da invasão de dispositivos, do furto e do estelionato por meios eletrônicos."
+        ],
+        "en": [
+          "Changes criminal provisions for device intrusion, theft and fraud committed through electronic means."
+        ]
+      }
+    },
+    {
+      "id": "convencao-budapeste",
+      "title": {
+        "pt": "Convenção de Budapeste sobre o Crime Cibernético",
+        "en": "Budapest Convention on Cybercrime"
+      },
+      "summary": {
+        "pt": "Tratado sobre crimes cibernéticos, provas eletrônicas e cooperação internacional, promulgado no Brasil pelo Decreto nº 11.491/2023.",
+        "en": "Treaty addressing cybercrime, electronic evidence and international cooperation, promulgated in Brazil by Decree 11,491/2023."
+      },
+      "topic": {
+        "pt": "Crimes cibernéticos",
+        "en": "Cybercrime"
+      },
+      "kind": {
+        "pt": "Legislação brasileira",
+        "en": "Brazilian legislation"
+      },
+      "sourceLabel": "Senado Federal",
+      "sourceUrl": "https://legis.senado.leg.br/norma/35366124",
+      "date": "2026-11-17",
+      "reviewedAt": "2026-11-17",
+      "sourceLanguage": {
+        "pt": "Português",
+        "en": "Portuguese"
+      },
+      "body": {
+        "pt": [
+          "Tratado sobre crimes cibernéticos, provas eletrônicas e cooperação internacional, promulgado no Brasil pelo Decreto nº 11.491/2023."
+        ],
+        "en": [
+          "Treaty addressing cybercrime, electronic evidence and international cooperation, promulgated in Brazil by Decree 11,491/2023."
+        ]
+      }
+    },
+    {
+      "id": "ensic",
+      "title": {
+        "pt": "Infraestruturas críticas: Decreto nº 10.569/2020",
+        "en": "Critical infrastructure strategy: Decree 10,569/2020"
+      },
+      "summary": {
+        "pt": "Estratégia Nacional de Segurança de Infraestruturas Críticas, voltada à proteção de serviços e estruturas essenciais.",
+        "en": "National critical infrastructure security strategy addressing the protection of essential services and infrastructure."
+      },
+      "topic": {
+        "pt": "Infraestruturas críticas",
+        "en": "Critical infrastructure"
+      },
+      "kind": {
+        "pt": "Legislação brasileira",
+        "en": "Brazilian legislation"
+      },
+      "sourceLabel": "Senado Federal",
+      "sourceUrl": "https://legis.senado.leg.br/norma/32967021",
+      "date": "2026-11-17",
+      "reviewedAt": "2026-11-17",
+      "sourceLanguage": {
+        "pt": "Português",
+        "en": "Portuguese"
+      },
+      "body": {
+        "pt": [
+          "Estratégia Nacional de Segurança de Infraestruturas Críticas, voltada à proteção de serviços e estruturas essenciais."
+        ],
+        "en": [
+          "National critical infrastructure security strategy addressing the protection of essential services and infrastructure."
+        ]
+      }
+    },
+    {
+      "id": "plansic",
+      "title": {
+        "pt": "Plano de infraestruturas críticas: Decreto nº 11.200/2022",
+        "en": "Critical infrastructure plan: Decree 11,200/2022"
+      },
+      "summary": {
+        "pt": "Plano Nacional de Segurança de Infraestruturas Críticas, associado à política e à estratégia nacionais do setor.",
+        "en": "National critical infrastructure security plan, linked to the national policy and strategy for the sector."
+      },
+      "topic": {
+        "pt": "Infraestruturas críticas",
+        "en": "Critical infrastructure"
+      },
+      "kind": {
+        "pt": "Legislação brasileira",
+        "en": "Brazilian legislation"
+      },
+      "sourceLabel": "Senado Federal",
+      "sourceUrl": "https://legis.senado.leg.br/norma/36351705",
+      "date": "2026-11-17",
+      "reviewedAt": "2026-11-17",
+      "sourceLanguage": {
+        "pt": "Português",
+        "en": "Portuguese"
+      },
+      "body": {
+        "pt": [
+          "Plano Nacional de Segurança de Infraestruturas Críticas, associado à política e à estratégia nacionais do setor."
+        ],
+        "en": [
+          "National critical infrastructure security plan, linked to the national policy and strategy for the sector."
+        ]
+      }
+    },
+    {
+      "id": "gsi-in1",
+      "title": {
+        "pt": "Gestão de segurança da informação: IN GSI nº 1/2020",
+        "en": "Information security management: GSI Instruction 1/2020"
+      },
+      "summary": {
+        "pt": "Estrutura de gestão da segurança da informação no governo federal. A IN GSI nº 9/2026 alterou as regras de governança.",
+        "en": "Information security management structure in the federal government. GSI Instruction 9/2026 amended governance rules."
+      },
+      "topic": {
+        "pt": "Administração pública",
+        "en": "Public administration"
+      },
+      "kind": {
+        "pt": "Regulamentação brasileira",
+        "en": "Brazilian regulation"
+      },
+      "sourceLabel": "GSI",
+      "sourceUrl": "https://www.gov.br/gsi/pt-br/seguranca-da-informacao-e-cibernetica/legislacao/copy_of_IN01_consolidada.pdf",
+      "date": "2026-11-17",
+      "reviewedAt": "2026-11-17",
+      "sourceLanguage": {
+        "pt": "Português",
+        "en": "Portuguese"
+      },
+      "body": {
+        "pt": [
+          "Estrutura de gestão da segurança da informação no governo federal. A IN GSI nº 9/2026 alterou as regras de governança."
+        ],
+        "en": [
+          "Information security management structure in the federal government. GSI Instruction 9/2026 amended governance rules."
+        ]
+      }
+    },
+    {
+      "id": "gsi-in3",
+      "title": {
+        "pt": "Processos de segurança da informação: IN GSI nº 3/2021",
+        "en": "Information security processes: GSI Instruction 3/2021"
+      },
+      "summary": {
+        "pt": "Abrange ativos, riscos, continuidade, mudanças e avaliação de conformidade de segurança da informação no governo federal.",
+        "en": "Covers assets, risk, continuity, change management and information security compliance assessment in federal government."
+      },
+      "topic": {
+        "pt": "Administração pública",
+        "en": "Public administration"
+      },
+      "kind": {
+        "pt": "Regulamentação brasileira",
+        "en": "Brazilian regulation"
+      },
+      "sourceLabel": "GSI",
+      "sourceUrl": "https://www.gov.br/gsi/pt-br/seguranca-da-informacao-e-cibernetica/legislacao/copy_of_IN03_consolidada.pdf",
+      "date": "2026-11-17",
+      "reviewedAt": "2026-11-17",
+      "sourceLanguage": {
+        "pt": "Português",
+        "en": "Portuguese"
+      },
+      "body": {
+        "pt": [
+          "Abrange ativos, riscos, continuidade, mudanças e avaliação de conformidade de segurança da informação no governo federal."
+        ],
+        "en": [
+          "Covers assets, risk, continuity, change management and information security compliance assessment in federal government."
+        ]
+      }
+    },
+    {
+      "id": "ppsi",
+      "title": {
+        "pt": "PPSI 2.0: privacidade e segurança no governo digital",
+        "en": "PPSI 2.0: privacy and security in digital government"
+      },
+      "summary": {
+        "pt": "Programa instituído pela Portaria SGD/MGI nº 9.511/2025, com controles e medidas de privacidade e segurança para os órgãos integrantes do SISP.",
+        "en": "Programme established by SGD/MGI Ordinance 9,511/2025, with privacy and security controls for bodies participating in SISP."
+      },
+      "topic": {
+        "pt": "Administração pública",
+        "en": "Public administration"
+      },
+      "kind": {
+        "pt": "Referência de governança",
+        "en": "Governance resource"
+      },
+      "sourceLabel": "Governo Digital",
+      "sourceUrl": "https://www.gov.br/governodigitalfale-conosco/pt-br/privacidade-e-seguranca/ppsi-2.0",
+      "date": "2026-11-17",
+      "reviewedAt": "2026-11-17",
+      "sourceLanguage": {
+        "pt": "Português",
+        "en": "Portuguese"
+      },
+      "body": {
+        "pt": [
+          "Programa instituído pela Portaria SGD/MGI nº 9.511/2025, com controles e medidas de privacidade e segurança para os órgãos integrantes do SISP."
+        ],
+        "en": [
+          "Programme established by SGD/MGI Ordinance 9,511/2025, with privacy and security controls for bodies participating in SISP."
+        ]
+      }
+    },
+    {
+      "id": "anpd-incidentes",
+      "title": {
+        "pt": "ANPD nº 15/2024: comunicação de incidentes",
+        "en": "ANPD 15/2024: incident notification"
+      },
+      "summary": {
+        "pt": "Regulamenta a comunicação de incidentes de segurança envolvendo dados pessoais.",
+        "en": "Regulates notification of security incidents involving personal data."
+      },
+      "topic": {
+        "pt": "Proteção de dados e direitos digitais",
+        "en": "Data protection and digital rights"
+      },
+      "kind": {
+        "pt": "Regulamentação brasileira",
+        "en": "Brazilian regulation"
+      },
+      "sourceLabel": "ANPD",
+      "sourceUrl": "https://www.gov.br/anpd/pt-br/canais_atendimento/agente-de-tratamento/comunicado-de-incidente-de-seguranca-cis",
+      "date": "2026-11-17",
+      "reviewedAt": "2026-11-17",
+      "sourceLanguage": {
+        "pt": "Português",
+        "en": "Portuguese"
+      },
+      "body": {
+        "pt": [
+          "Regulamenta a comunicação de incidentes de segurança envolvendo dados pessoais."
+        ],
+        "en": [
+          "Regulates notification of security incidents involving personal data."
+        ]
+      }
+    },
+    {
+      "id": "anpd-encarregado",
+      "title": {
+        "pt": "ANPD nº 18/2024: encarregado de dados",
+        "en": "ANPD 18/2024: data protection officer"
+      },
+      "summary": {
+        "pt": "Define regras para a atuação do encarregado pelo tratamento de dados pessoais.",
+        "en": "Sets rules for the role of the data protection officer."
+      },
+      "topic": {
+        "pt": "Proteção de dados e direitos digitais",
+        "en": "Data protection and digital rights"
+      },
+      "kind": {
+        "pt": "Regulamentação brasileira",
+        "en": "Brazilian regulation"
+      },
+      "sourceLabel": "ANPD",
+      "sourceUrl": "https://www.gov.br/anpd/pt-br/acesso-a-informacao/institucional/atos-normativos/regulamentacoes_anpd/",
+      "date": "2026-11-17",
+      "reviewedAt": "2026-11-17",
+      "sourceLanguage": {
+        "pt": "Português",
+        "en": "Portuguese"
+      },
+      "body": {
+        "pt": [
+          "Define regras para a atuação do encarregado pelo tratamento de dados pessoais."
+        ],
+        "en": [
+          "Sets rules for the role of the data protection officer."
+        ]
+      }
+    },
+    {
+      "id": "anpd-transferencias",
+      "title": {
+        "pt": "ANPD nº 19/2024: transferências internacionais",
+        "en": "ANPD 19/2024: international transfers"
+      },
+      "summary": {
+        "pt": "Regulamento e cláusulas-padrão para transferências internacionais de dados pessoais.",
+        "en": "Regulation and standard contractual clauses for international personal data transfers."
+      },
+      "topic": {
+        "pt": "Proteção de dados e direitos digitais",
+        "en": "Data protection and digital rights"
+      },
+      "kind": {
+        "pt": "Regulamentação brasileira",
+        "en": "Brazilian regulation"
+      },
+      "sourceLabel": "ANPD",
+      "sourceUrl": "https://www.gov.br/anpd/pt-br/acesso-a-informacao/institucional/atos-normativos/regulamentacoes_anpd/resolucao-cd-anpd-no-19-de-23-de-agosto-de-2024",
+      "date": "2026-11-17",
+      "reviewedAt": "2026-11-17",
+      "sourceLanguage": {
+        "pt": "Português",
+        "en": "Portuguese"
+      },
+      "body": {
+        "pt": [
+          "Regulamento e cláusulas-padrão para transferências internacionais de dados pessoais."
+        ],
+        "en": [
+          "Regulation and standard contractual clauses for international personal data transfers."
+        ]
+      }
+    },
+    {
+      "id": "anpd-pequeno-porte",
+      "title": {
+        "pt": "ANPD nº 2/2022: agentes de pequeno porte",
+        "en": "ANPD 2/2022: small processing agents"
+      },
+      "summary": {
+        "pt": "Disciplina a aplicação da LGPD a agentes de tratamento de pequeno porte.",
+        "en": "Governs application of the LGPD to small processing agents."
+      },
+      "topic": {
+        "pt": "Proteção de dados e direitos digitais",
+        "en": "Data protection and digital rights"
+      },
+      "kind": {
+        "pt": "Regulamentação brasileira",
+        "en": "Brazilian regulation"
+      },
+      "sourceLabel": "ANPD",
+      "sourceUrl": "https://www.gov.br/anpd/pt-br/acesso-a-informacao/institucional/atos-normativos/regulamentacoes_anpd/resolucao-cd-anpd-no-2-de-27-de-janeiro-de-2022",
+      "date": "2026-11-17",
+      "reviewedAt": "2026-11-17",
+      "sourceLanguage": {
+        "pt": "Português",
+        "en": "Portuguese"
+      },
+      "body": {
+        "pt": [
+          "Disciplina a aplicação da LGPD a agentes de tratamento de pequeno porte."
+        ],
+        "en": [
+          "Governs application of the LGPD to small processing agents."
+        ]
+      }
+    },
+    {
+      "id": "anpd-sancoes",
+      "title": {
+        "pt": "ANPD nº 4/2023: sanções administrativas",
+        "en": "ANPD 4/2023: administrative sanctions"
+      },
+      "summary": {
+        "pt": "Regulamento de dosimetria e aplicação de sanções administrativas.",
+        "en": "Rules for calculating and applying administrative sanctions."
+      },
+      "topic": {
+        "pt": "Proteção de dados e direitos digitais",
+        "en": "Data protection and digital rights"
+      },
+      "kind": {
+        "pt": "Regulamentação brasileira",
+        "en": "Brazilian regulation"
+      },
+      "sourceLabel": "ANPD",
+      "sourceUrl": "https://www.gov.br/anpd/pt-br/acesso-a-informacao/institucional/atos-normativos/regulamentacoes_anpd/",
+      "date": "2026-11-17",
+      "reviewedAt": "2026-11-17",
+      "sourceLanguage": {
+        "pt": "Português",
+        "en": "Portuguese"
+      },
+      "body": {
+        "pt": [
+          "Regulamento de dosimetria e aplicação de sanções administrativas."
+        ],
+        "en": [
+          "Rules for calculating and applying administrative sanctions."
+        ]
+      }
+    },
+    {
+      "id": "anpd-adequacao-ue",
+      "title": {
+        "pt": "ANPD nº 32/2026: adequação da União Europeia",
+        "en": "ANPD 32/2026: European Union adequacy"
+      },
+      "summary": {
+        "pt": "Reconhecimento da adequação da União Europeia para transferências internacionais de dados.",
+        "en": "Recognition of European Union adequacy for international data transfers."
+      },
+      "topic": {
+        "pt": "Proteção de dados e direitos digitais",
+        "en": "Data protection and digital rights"
+      },
+      "kind": {
+        "pt": "Regulamentação brasileira",
+        "en": "Brazilian regulation"
+      },
+      "sourceLabel": "ANPD",
+      "sourceUrl": "https://www.gov.br/anpd/pt-br/acesso-a-informacao/institucional/atos-normativos/regulamentacoes_anpd/",
+      "date": "2026-11-17",
+      "reviewedAt": "2026-11-17",
+      "sourceLanguage": {
+        "pt": "Português",
+        "en": "Portuguese"
+      },
+      "body": {
+        "pt": [
+          "Reconhecimento da adequação da União Europeia para transferências internacionais de dados."
+        ],
+        "en": [
+          "Recognition of European Union adequacy for international data transfers."
+        ]
+      }
+    },
+    {
+      "id": "cmn4893",
+      "title": {
+        "pt": "CMN nº 4.893/2021: segurança cibernética",
+        "en": "CMN 4,893/2021: cybersecurity"
+      },
+      "summary": {
+        "pt": "Política de segurança cibernética e contratação de processamento, armazenamento e nuvem nas instituições abrangidas pela resolução. Texto com alterações posteriores.",
+        "en": "Cybersecurity policy and procurement of processing, storage and cloud services for institutions covered by the resolution. Includes subsequent amendments."
+      },
+      "topic": {
+        "pt": "Regulação setorial",
+        "en": "Sector regulation"
+      },
+      "kind": {
+        "pt": "Regulamentação brasileira",
+        "en": "Brazilian regulation"
+      },
+      "sourceLabel": "Banco Central do Brasil",
+      "sourceUrl": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?numero=4893&tipo=Resolu%C3%A7%C3%A3o+CMN",
+      "date": "2026-11-17",
+      "reviewedAt": "2026-11-17",
+      "sourceLanguage": {
+        "pt": "Português",
+        "en": "Portuguese"
+      },
+      "body": {
+        "pt": [
+          "Política de segurança cibernética e contratação de processamento, armazenamento e nuvem nas instituições abrangidas pela resolução. Texto com alterações posteriores."
+        ],
+        "en": [
+          "Cybersecurity policy and procurement of processing, storage and cloud services for institutions covered by the resolution. Includes subsequent amendments."
+        ]
+      }
+    },
+    {
+      "id": "bcb85",
+      "title": {
+        "pt": "BCB nº 85/2021: segurança e serviços em nuvem",
+        "en": "BCB 85/2021: security and cloud services"
+      },
+      "summary": {
+        "pt": "Regras de segurança cibernética e contratação de serviços tecnológicos para as instituições abrangidas. A Resolução BCB nº 552/2026 altera seu alcance.",
+        "en": "Cybersecurity and technology outsourcing rules for covered institutions. BCB Resolution 552/2026 amends its scope."
+      },
+      "topic": {
+        "pt": "Regulação setorial",
+        "en": "Sector regulation"
+      },
+      "kind": {
+        "pt": "Regulamentação brasileira",
+        "en": "Brazilian regulation"
+      },
+      "sourceLabel": "Banco Central do Brasil",
+      "sourceUrl": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?numero=85&tipo=Resolu%C3%A7%C3%A3o+BCB",
+      "date": "2026-11-17",
+      "reviewedAt": "2026-11-17",
+      "sourceLanguage": {
+        "pt": "Português",
+        "en": "Portuguese"
+      },
+      "body": {
+        "pt": [
+          "Regras de segurança cibernética e contratação de serviços tecnológicos para as instituições abrangidas. A Resolução BCB nº 552/2026 altera seu alcance."
+        ],
+        "en": [
+          "Cybersecurity and technology outsourcing rules for covered institutions. BCB Resolution 552/2026 amends its scope."
+        ]
+      }
+    },
+    {
+      "id": "anatel740",
+      "title": {
+        "pt": "Anatel nº 740/2020: segurança nas telecomunicações",
+        "en": "Anatel 740/2020: telecommunications security"
+      },
+      "summary": {
+        "pt": "Regulamento de segurança cibernética para telecomunicações, com responsabilidades das prestadoras e alterações posteriores incorporadas à página oficial.",
+        "en": "Telecommunications cybersecurity regulation covering providers’ responsibilities, with subsequent amendments shown on the official page."
+      },
+      "topic": {
+        "pt": "Regulação setorial",
+        "en": "Sector regulation"
+      },
+      "kind": {
+        "pt": "Regulamentação brasileira",
+        "en": "Brazilian regulation"
+      },
+      "sourceLabel": "Anatel",
+      "sourceUrl": "https://informacoes.anatel.gov.br/legislacao/resolucoes/2020/1497resolucao-740",
+      "date": "2026-11-17",
+      "reviewedAt": "2026-11-17",
+      "sourceLanguage": {
+        "pt": "Português",
+        "en": "Portuguese"
+      },
+      "body": {
+        "pt": [
+          "Regulamento de segurança cibernética para telecomunicações, com responsabilidades das prestadoras e alterações posteriores incorporadas à página oficial."
+        ],
+        "en": [
+          "Telecommunications cybersecurity regulation covering providers’ responsibilities, with subsequent amendments shown on the official page."
+        ]
+      }
+    },
+    {
+      "id": "aneel964",
+      "title": {
+        "pt": "ANEEL nº 964/2021: setor elétrico",
+        "en": "ANEEL 964/2021: electricity sector"
+      },
+      "summary": {
+        "pt": "Diretrizes e conteúdo mínimo das políticas de segurança cibernética dos agentes do setor de energia elétrica.",
+        "en": "Guidelines and minimum content for cybersecurity policies of electricity sector entities."
+      },
+      "topic": {
+        "pt": "Regulação setorial",
+        "en": "Sector regulation"
+      },
+      "kind": {
+        "pt": "Regulamentação brasileira",
+        "en": "Brazilian regulation"
+      },
+      "sourceLabel": "ANEEL",
+      "sourceUrl": "https://www2.aneel.gov.br/cedoc/ren2021964.pdf",
+      "date": "2026-11-17",
+      "reviewedAt": "2026-11-17",
+      "sourceLanguage": {
+        "pt": "Português",
+        "en": "Portuguese"
+      },
+      "body": {
+        "pt": [
+          "Diretrizes e conteúdo mínimo das políticas de segurança cibernética dos agentes do setor de energia elétrica."
+        ],
+        "en": [
+          "Guidelines and minimum content for cybersecurity policies of electricity sector entities."
+        ]
+      }
+    },
+    {
+      "id": "susep638",
+      "title": {
+        "pt": "SUSEP: segurança cibernética e supervisão prudencial",
+        "en": "SUSEP: cybersecurity and prudential supervision"
+      },
+      "summary": {
+        "pt": "Reúne a Circular nº 638/2021, orientações e materiais sobre governança, controles e risco cibernético das entidades supervisionadas.",
+        "en": "Brings together Circular 638/2021 and resources on governance, controls and cyber risk for supervised entities."
+      },
+      "topic": {
+        "pt": "Regulação setorial",
+        "en": "Sector regulation"
+      },
+      "kind": {
+        "pt": "Acervo oficial",
+        "en": "Official collection"
+      },
+      "sourceLabel": "SUSEP",
+      "sourceUrl": "https://www.gov.br/susep/pt-br/assuntos/informacoes-ao-mercado/solvencia-supervisao-prudencial/supervisao-consolidada-cgcon/seguranca-cibernetica",
+      "date": "2026-11-17",
+      "reviewedAt": "2026-11-17",
+      "sourceLanguage": {
+        "pt": "Português",
+        "en": "Portuguese"
+      },
+      "body": {
+        "pt": [
+          "Reúne a Circular nº 638/2021, orientações e materiais sobre governança, controles e risco cibernético das entidades supervisionadas."
+        ],
+        "en": [
+          "Brings together Circular 638/2021 and resources on governance, controls and cyber risk for supervised entities."
+        ]
+      }
+    },
+    {
+      "id": "cnj-seguranca",
+      "title": {
+        "pt": "CNJ: segurança cibernética no Poder Judiciário",
+        "en": "CNJ: cybersecurity in the judiciary"
+      },
+      "summary": {
+        "pt": "Acervo de normas do Judiciário, incluindo a Resolução nº 396/2021, protocolos e regras para serviços notariais e de registro.",
+        "en": "Judiciary regulations, including Resolution 396/2021, protocols and rules for notarial and registry services."
+      },
+      "topic": {
+        "pt": "Regulação setorial",
+        "en": "Sector regulation"
+      },
+      "kind": {
+        "pt": "Acervo oficial",
+        "en": "Official collection"
+      },
+      "sourceLabel": "Conselho Nacional de Justiça",
+      "sourceUrl": "https://www.cnj.jus.br/tecnologia-da-informacao-e-comunicacao/seguranca-da-informacao/normativos/",
+      "date": "2026-11-17",
+      "reviewedAt": "2026-11-17",
+      "sourceLanguage": {
+        "pt": "Português",
+        "en": "Portuguese"
+      },
+      "body": {
+        "pt": [
+          "Acervo de normas do Judiciário, incluindo a Resolução nº 396/2021, protocolos e regras para serviços notariais e de registro."
+        ],
+        "en": [
+          "Judiciary regulations, including Resolution 396/2021, protocols and rules for notarial and registry services."
+        ]
+      }
+    },
+    {
+      "id": "nist-csf2",
+      "title": {
+        "pt": "NIST Cybersecurity Framework 2.0",
+        "en": "NIST Cybersecurity Framework 2.0"
+      },
+      "summary": {
+        "pt": "Modelo de gestão do risco cibernético com seis funções, incluindo Governar. Referência técnica para organizações de diferentes portes e setores.",
+        "en": "Cyber risk management framework with six functions, including Govern. Technical guidance for organisations of different sizes and sectors."
+      },
+      "topic": {
+        "pt": "Modelos de governança e controles",
+        "en": "Governance models and controls"
+      },
+      "kind": {
+        "pt": "Referência de governança",
+        "en": "Governance resource"
+      },
+      "sourceLabel": "NIST",
+      "sourceUrl": "https://www.nist.gov/publications/nist-cybersecurity-framework-csf-20",
+      "date": "2026-11-17",
+      "reviewedAt": "2026-11-17",
+      "sourceLanguage": {
+        "pt": "Inglês",
+        "en": "English"
+      },
+      "body": {
+        "pt": [
+          "Modelo de gestão do risco cibernético com seis funções, incluindo Governar. Referência técnica para organizações de diferentes portes e setores."
+        ],
+        "en": [
+          "Cyber risk management framework with six functions, including Govern. Technical guidance for organisations of different sizes and sectors."
+        ]
+      }
+    },
+    {
+      "id": "nist-incidentes",
+      "title": {
+        "pt": "NIST SP 800-61 Rev. 3: resposta a incidentes",
+        "en": "NIST SP 800-61 Rev. 3: incident response"
+      },
+      "summary": {
+        "pt": "Recomendações de 2025 que integram a resposta a incidentes à gestão de riscos e ao CSF 2.0. Substitui a revisão 2.",
+        "en": "2025 recommendations integrating incident response with risk management and CSF 2.0. Supersedes revision 2."
+      },
+      "topic": {
+        "pt": "Modelos de governança e controles",
+        "en": "Governance models and controls"
+      },
+      "kind": {
+        "pt": "Referência de governança",
+        "en": "Governance resource"
+      },
+      "sourceLabel": "NIST",
+      "sourceUrl": "https://csrc.nist.gov/pubs/sp/800/61/r3/final",
+      "date": "2026-11-17",
+      "reviewedAt": "2026-11-17",
+      "sourceLanguage": {
+        "pt": "Inglês",
+        "en": "English"
+      },
+      "body": {
+        "pt": [
+          "Recomendações de 2025 que integram a resposta a incidentes à gestão de riscos e ao CSF 2.0. Substitui a revisão 2."
+        ],
+        "en": [
+          "2025 recommendations integrating incident response with risk management and CSF 2.0. Supersedes revision 2."
+        ]
+      }
+    },
+    {
+      "id": "cis-controls",
+      "title": {
+        "pt": "CIS Controls v8.1",
+        "en": "CIS Controls v8.1"
+      },
+      "summary": {
+        "pt": "Controles e salvaguardas priorizados para orientar programas de segurança e sua governança.",
+        "en": "Prioritised controls and safeguards supporting security programmes and their governance."
+      },
+      "topic": {
+        "pt": "Modelos de governança e controles",
+        "en": "Governance models and controls"
+      },
+      "kind": {
+        "pt": "Referência de governança",
+        "en": "Governance resource"
+      },
+      "sourceLabel": "Center for Internet Security",
+      "sourceUrl": "https://www.cisecurity.org/controls/v8-1",
+      "date": "2026-11-17",
+      "reviewedAt": "2026-11-17",
+      "sourceLanguage": {
+        "pt": "Inglês",
+        "en": "English"
+      },
+      "body": {
+        "pt": [
+          "Controles e salvaguardas priorizados para orientar programas de segurança e sua governança."
+        ],
+        "en": [
+          "Prioritised controls and safeguards supporting security programmes and their governance."
+        ]
+      }
+    },
+    {
+      "id": "cobit",
+      "title": {
+        "pt": "COBIT: governança da informação e tecnologia",
+        "en": "COBIT: information and technology governance"
+      },
+      "summary": {
+        "pt": "Referencial da ISACA para governança e gestão da informação e da tecnologia em toda a organização.",
+        "en": "ISACA framework for enterprise-wide governance and management of information and technology."
+      },
+      "topic": {
+        "pt": "Modelos de governança e controles",
+        "en": "Governance models and controls"
+      },
+      "kind": {
+        "pt": "Referência de governança",
+        "en": "Governance resource"
+      },
+      "sourceLabel": "ISACA",
+      "sourceUrl": "https://www.isaca.org/en/resources/cobit",
+      "date": "2026-11-17",
+      "reviewedAt": "2026-11-17",
+      "sourceLanguage": {
+        "pt": "Inglês",
+        "en": "English"
+      },
+      "body": {
+        "pt": [
+          "Referencial da ISACA para governança e gestão da informação e da tecnologia em toda a organização."
+        ],
+        "en": [
+          "ISACA framework for enterprise-wide governance and management of information and technology."
+        ]
+      }
+    },
+    {
+      "id": "iso27001",
+      "title": {
+        "pt": "ISO/IEC 27001:2022: sistema de gestão",
+        "en": "ISO/IEC 27001:2022: management system"
+      },
+      "summary": {
+        "pt": "Requisitos para um sistema de gestão de segurança da informação. Página de apresentação da norma; o texto integral é comercializado pela ISO.",
+        "en": "Requirements for an information security management system. Standard overview; ISO sells the full text."
+      },
+      "topic": {
+        "pt": "Modelos de governança e controles",
+        "en": "Governance models and controls"
+      },
+      "kind": {
+        "pt": "Norma técnica",
+        "en": "Technical standard"
+      },
+      "sourceLabel": "ISO",
+      "sourceUrl": "https://www.iso.org/standard/27001",
+      "date": "2026-11-17",
+      "reviewedAt": "2026-11-17",
+      "sourceLanguage": {
+        "pt": "Inglês",
+        "en": "English"
+      },
+      "body": {
+        "pt": [
+          "Requisitos para um sistema de gestão de segurança da informação. Página de apresentação da norma; o texto integral é comercializado pela ISO."
+        ],
+        "en": [
+          "Requirements for an information security management system. Standard overview; ISO sells the full text."
+        ]
+      }
+    },
+    {
+      "id": "iso27002",
+      "title": {
+        "pt": "ISO/IEC 27002:2022: controles",
+        "en": "ISO/IEC 27002:2022: controls"
+      },
+      "summary": {
+        "pt": "Referência para controles de segurança da informação. Acesso à descrição oficial; o texto integral é comercializado pela ISO.",
+        "en": "Guidance on information security controls. Official overview; ISO sells the full text."
+      },
+      "topic": {
+        "pt": "Modelos de governança e controles",
+        "en": "Governance models and controls"
+      },
+      "kind": {
+        "pt": "Norma técnica",
+        "en": "Technical standard"
+      },
+      "sourceLabel": "ISO",
+      "sourceUrl": "https://www.iso.org/standard/75652.html",
+      "date": "2026-11-17",
+      "reviewedAt": "2026-11-17",
+      "sourceLanguage": {
+        "pt": "Inglês",
+        "en": "English"
+      },
+      "body": {
+        "pt": [
+          "Referência para controles de segurança da informação. Acesso à descrição oficial; o texto integral é comercializado pela ISO."
+        ],
+        "en": [
+          "Guidance on information security controls. Official overview; ISO sells the full text."
+        ]
+      }
+    },
+    {
+      "id": "iso27005",
+      "title": {
+        "pt": "ISO/IEC 27005:2022: gestão de riscos",
+        "en": "ISO/IEC 27005:2022: risk management"
+      },
+      "summary": {
+        "pt": "Orientações para gerir riscos de segurança da informação. Acesso à descrição oficial; o texto integral é comercializado pela ISO.",
+        "en": "Guidance for managing information security risks. Official overview; ISO sells the full text."
+      },
+      "topic": {
+        "pt": "Modelos de governança e controles",
+        "en": "Governance models and controls"
+      },
+      "kind": {
+        "pt": "Norma técnica",
+        "en": "Technical standard"
+      },
+      "sourceLabel": "ISO",
+      "sourceUrl": "https://www.iso.org/standard/80585.html",
+      "date": "2026-11-17",
+      "reviewedAt": "2026-11-17",
+      "sourceLanguage": {
+        "pt": "Inglês",
+        "en": "English"
+      },
+      "body": {
+        "pt": [
+          "Orientações para gerir riscos de segurança da informação. Acesso à descrição oficial; o texto integral é comercializado pela ISO."
+        ],
+        "en": [
+          "Guidance for managing information security risks. Official overview; ISO sells the full text."
+        ]
+      }
+    },
+    {
+      "id": "nis2",
+      "title": {
+        "pt": "União Europeia: Diretiva NIS2",
+        "en": "European Union: NIS2 Directive"
+      },
+      "summary": {
+        "pt": "Diretiva (UE) 2022/2555 sobre gestão de riscos, notificação de incidentes e supervisão. Sua implementação depende da legislação de cada Estado-Membro.",
+        "en": "Directive (EU) 2022/2555 on risk management, incident reporting and supervision. Implementation depends on each Member State’s legislation."
+      },
+      "topic": {
+        "pt": "Legislação internacional",
+        "en": "International legislation"
+      },
+      "kind": {
+        "pt": "Legislação da União Europeia",
+        "en": "European Union legislation"
+      },
+      "sourceLabel": "EUR-Lex",
+      "sourceUrl": "https://eur-lex.europa.eu/eli/dir/2022/2555/oj",
+      "date": "2026-11-17",
+      "reviewedAt": "2026-11-17",
+      "sourceLanguage": {
+        "pt": "Inglês",
+        "en": "English"
+      },
+      "body": {
+        "pt": [
+          "Diretiva (UE) 2022/2555 sobre gestão de riscos, notificação de incidentes e supervisão. Sua implementação depende da legislação de cada Estado-Membro."
+        ],
+        "en": [
+          "Directive (EU) 2022/2555 on risk management, incident reporting and supervision. Implementation depends on each Member State’s legislation."
+        ]
+      }
+    },
+    {
+      "id": "dora",
+      "title": {
+        "pt": "União Europeia: DORA",
+        "en": "European Union: DORA"
+      },
+      "summary": {
+        "pt": "Regulamento (UE) 2022/2554 sobre resiliência operacional digital no setor financeiro, incluindo riscos de tecnologia e terceiros.",
+        "en": "Regulation (EU) 2022/2554 on financial-sector digital operational resilience, including technology and third-party risks."
+      },
+      "topic": {
+        "pt": "Legislação internacional",
+        "en": "International legislation"
+      },
+      "kind": {
+        "pt": "Legislação da União Europeia",
+        "en": "European Union legislation"
+      },
+      "sourceLabel": "EUR-Lex",
+      "sourceUrl": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj",
+      "date": "2026-11-17",
+      "reviewedAt": "2026-11-17",
+      "sourceLanguage": {
+        "pt": "Inglês",
+        "en": "English"
+      },
+      "body": {
+        "pt": [
+          "Regulamento (UE) 2022/2554 sobre resiliência operacional digital no setor financeiro, incluindo riscos de tecnologia e terceiros."
+        ],
+        "en": [
+          "Regulation (EU) 2022/2554 on financial-sector digital operational resilience, including technology and third-party risks."
+        ]
+      }
+    },
+    {
+      "id": "cyber-resilience-act",
+      "title": {
+        "pt": "União Europeia: Cyber Resilience Act",
+        "en": "European Union: Cyber Resilience Act"
+      },
+      "summary": {
+        "pt": "Regulamento (UE) 2024/2847 sobre segurança de produtos com elementos digitais. A aplicação segue o cronograma previsto no próprio regulamento.",
+        "en": "Regulation (EU) 2024/2847 on security of products with digital elements. Application follows the timetable set out in the regulation."
+      },
+      "topic": {
+        "pt": "Legislação internacional",
+        "en": "International legislation"
+      },
+      "kind": {
+        "pt": "Legislação da União Europeia",
+        "en": "European Union legislation"
+      },
+      "sourceLabel": "EUR-Lex",
+      "sourceUrl": "https://eur-lex.europa.eu/eli/reg/2024/2847/oj",
+      "date": "2026-11-17",
+      "reviewedAt": "2026-11-17",
+      "sourceLanguage": {
+        "pt": "Inglês",
+        "en": "English"
+      },
+      "body": {
+        "pt": [
+          "Regulamento (UE) 2024/2847 sobre segurança de produtos com elementos digitais. A aplicação segue o cronograma previsto no próprio regulamento."
+        ],
+        "en": [
+          "Regulation (EU) 2024/2847 on security of products with digital elements. Application follows the timetable set out in the regulation."
+        ]
+      }
+    },
+    {
+      "id": "acervo-gsi",
+      "title": {
+        "pt": "GSI: legislação de segurança da informação e cibernética",
+        "en": "GSI: information security and cybersecurity legislation"
+      },
+      "summary": {
+        "pt": "Coleção oficial de leis, decretos, portarias, instruções normativas e normas complementares.",
+        "en": "Official collection of laws, decrees, ordinances, normative instructions and supplementary standards."
+      },
+      "topic": {
+        "pt": "Acervos oficiais",
+        "en": "Official collections"
+      },
+      "kind": {
+        "pt": "Acervo oficial",
+        "en": "Official collection"
+      },
+      "sourceLabel": "GSI",
+      "sourceUrl": "https://www.gov.br/gsi/pt-br/seguranca-da-informacao-e-cibernetica/legislacao",
+      "date": "2026-11-17",
+      "reviewedAt": "2026-11-17",
+      "sourceLanguage": {
+        "pt": "Português",
+        "en": "Portuguese"
+      },
+      "body": {
+        "pt": [
+          "Coleção oficial de leis, decretos, portarias, instruções normativas e normas complementares."
+        ],
+        "en": [
+          "Official collection of laws, decrees, ordinances, normative instructions and supplementary standards."
+        ]
+      }
+    },
+    {
+      "id": "acervo-anpd",
+      "title": {
+        "pt": "ANPD: regulamentações e situação dos atos",
+        "en": "ANPD: regulations and status of instruments"
+      },
+      "summary": {
+        "pt": "Índice oficial dos regulamentos de proteção de dados, com referências a alterações e retificações.",
+        "en": "Official index of data protection regulations, with references to amendments and corrections."
+      },
+      "topic": {
+        "pt": "Acervos oficiais",
+        "en": "Official collections"
+      },
+      "kind": {
+        "pt": "Acervo oficial",
+        "en": "Official collection"
+      },
+      "sourceLabel": "ANPD",
+      "sourceUrl": "https://www.gov.br/anpd/pt-br/acesso-a-informacao/institucional/atos-normativos/regulamentacoes_anpd/",
+      "date": "2026-11-17",
+      "reviewedAt": "2026-11-17",
+      "sourceLanguage": {
+        "pt": "Português",
+        "en": "Portuguese"
+      },
+      "body": {
+        "pt": [
+          "Índice oficial dos regulamentos de proteção de dados, com referências a alterações e retificações."
+        ],
+        "en": [
+          "Official index of data protection regulations, with references to amendments and corrections."
+        ]
+      }
     }
   ],
   "events": [
@@ -1186,8 +2601,7 @@
       },
       "sourceType": "institutional-notice",
       "sourceLabel": "IBDCyber",
-      "sourceDate": "2026-11-15",
-      "featured": true
+      "sourceDate": "2026-11-15"
     },
     {
       "id": "front-installation",
@@ -1217,8 +2631,7 @@
         "en": "Parliamentary activity"
       },
       "sourceLabel": "Senado Federal",
-      "sourceUrl": "https://legis.senado.leg.br/atividade/comissoes/comissao/2716/reuniao/13380",
-      "featured": false
+      "sourceUrl": "https://legis.senado.leg.br/atividade/comissoes/comissao/2716/reuniao/13380"
     },
     {
       "id": "front-opening",
@@ -1248,8 +2661,7 @@
         "en": "Parliamentary activity"
       },
       "sourceLabel": "Senado Federal",
-      "sourceUrl": "https://legis.senado.leg.br/atividade/comissoes/comissao/2716/reuniao/13626",
-      "featured": false
+      "sourceUrl": "https://legis.senado.leg.br/atividade/comissoes/comissao/2716/reuniao/13626"
     },
     {
       "id": "front-hearing",
@@ -1279,8 +2691,7 @@
         "en": "Parliamentary activity"
       },
       "sourceLabel": "Senado Federal",
-      "sourceUrl": "https://legis.senado.leg.br/atividade/comissoes/comissao/2716/reuniao/14171",
-      "featured": false
+      "sourceUrl": "https://legis.senado.leg.br/atividade/comissoes/comissao/2716/reuniao/14171"
     },
     {
       "id": "rsa2025",
@@ -1310,8 +2721,7 @@
         "en": "Institutional participation"
       },
       "sourceLabel": "Apresentação institucional do IBDCyber",
-      "sourceUrl": "https://drive.google.com/file/d/1soc9H5SItfho9lnlMgRBPLny8xpMlP7a/view",
-      "featured": false
+      "sourceUrl": "https://drive.google.com/file/d/1soc9H5SItfho9lnlMgRBPLny8xpMlP7a/view"
     },
     {
       "id": "mission2024",
@@ -1341,8 +2751,7 @@
         "en": "Institutional participation"
       },
       "sourceLabel": "Apresentação institucional do IBDCyber",
-      "sourceUrl": "https://drive.google.com/file/d/1soc9H5SItfho9lnlMgRBPLny8xpMlP7a/view",
-      "featured": false
+      "sourceUrl": "https://drive.google.com/file/d/1soc9H5SItfho9lnlMgRBPLny8xpMlP7a/view"
     },
     {
       "id": "reuniao-diretoria-2026-11-05",
@@ -1389,8 +2798,66 @@
       },
       "sourceType": "institutional-notice",
       "sourceLabel": "IBDCyber",
-      "sourceDate": "2026-11-03",
-      "featured": false
+      "sourceDate": "2026-11-03"
+    },
+    {
+      "id": "requerimento-102-2026-ia-ciberseguranca",
+      "title": {
+        "pt": "Audiência pública proposta: IA e cibersegurança",
+        "en": "Proposed public hearing: AI and cybersecurity"
+      },
+      "summary": {
+        "pt": "Jorge Seif apresenta o REQ 102/2026 na CCT. Pedido em pauta para 25/11; audiência ainda sem data confirmada.",
+        "en": "Jorge Seif submits request 102/2026 to CCT. On the 25 November agenda; hearing date not yet confirmed."
+      },
+      "date": "2026-11-18",
+      "reviewedAt": "2026-11-21",
+      "displayDate": {
+        "pt": "Pedido em pauta: 25/11/2026",
+        "en": "Request on agenda: 25 November 2026"
+      },
+      "type": {
+        "pt": "Audiência proposta",
+        "en": "Proposed hearing"
+      },
+      "featured": true,
+      "sourceLabel": "Senado Federal",
+      "sourceUrl": "https://www25.senado.leg.br/web/atividade/materias/-/materia/176454",
+      "body": {
+        "pt": [
+          "O senador Jorge Seif (PL/SC) apresentou, em 18 de novembro, o REQ 102/2026 à Comissão de Ciência, Tecnologia, Inovação e Informática (CCT). O pedido propõe uma audiência sobre agentes autônomos, inteligência artificial de fronteira e seus efeitos na segurança cibernética.",
+          "O debate proposto abrange a competição tecnológica entre Estados Unidos e China e os riscos para serviços essenciais. O texto sugere representantes do governo, das Forças Armadas e do setor privado, sem confirmar presenças.",
+          "Na consulta de 21/11/2026, o pedido integra a pauta da reunião deliberativa da CCT de 25/11, às 10h, horário de Brasília. A audiência ainda não tem data confirmada."
+        ],
+        "en": [
+          "Senator Jorge Seif (PL/SC) submitted request 102/2026 to the Science, Technology, Innovation and Informatics Committee (CCT) on 18 November. It proposes a hearing on autonomous agents, frontier artificial intelligence and their cybersecurity implications.",
+          "The proposed discussion covers US-China technology competition and risks to essential services. The text suggests government, military and private-sector representatives, without confirming attendance.",
+          "As checked on 21 November 2026, the request is on the agenda for CCT’s deliberative meeting on 25 November at 10 a.m., Brasília time. The hearing date remains unconfirmed."
+        ]
+      },
+      "relatedSources": [
+        {
+          "label": {
+            "pt": "Pauta da CCT: 25/11/2026",
+            "en": "CCT agenda: 25 November 2026"
+          },
+          "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/1363/reuniao/15050"
+        },
+        {
+          "label": {
+            "pt": "Texto do requerimento (PDF)",
+            "en": "Request text (PDF)"
+          },
+          "url": "https://legis.senado.gov.br/sdleg-getter/documento/download/abe10ac9-8ba8-493b-8bca-d641440f76fc"
+        },
+        {
+          "label": {
+            "pt": "Cobertura do Atlas Público",
+            "en": "Atlas Público coverage"
+          },
+          "url": "https://atlaspublico.com.br/senado/noticias/seif-pede-audiencia-na-cct-sobre-ia-de-fronteira-disputa-103207"
+        }
+      ]
     }
   ],
   "carousel": {

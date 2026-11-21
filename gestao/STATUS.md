@@ -57,3 +57,13 @@ Relatório: gestao/auditorias/supervisao-local/AVALIACAO-2026-11-15-d6239f1.md. 
 
 Nova versão consolidada em entregas/IBDCyber-portal-20261116T114623816610Z.zip. A reconstrução limpa reproduziu todos os arquivos; 62 HTMLs, referências internas, e-mail bilíngue e integridade do pacote aprovados. O conteúdo corresponde à versão avaliada em 90/100, sem nova alteração de interface nesta consolidação. Publicação na HostGator e testes com leitor de tela real permanecem pendentes. O ZIP contém somente o portal para hospedagem.
 
+
+## Entrega de 21/11/2026: audiência, acervo e limpeza editorial
+
+Faixa da audiência pública proposta acima do carrossel nas duas línguas. O REQ 102/2026-CCT, de Jorge Seif, está na pauta deliberativa de 25/11, às 10h. Não se trata da data da audiência. Fonte consultada em 21/11: https://www25.senado.leg.br/web/atividade/materias/-/materia/176454 e https://legis.senado.leg.br/atividade/comissoes/comissao/1363/reuniao/15050. O registro novo não atribui autoria ou organização ao Instituto sem comprovação; o comunicado institucional anterior foi preservado separadamente, sem destaque.
+
+Removidos atendimento externo, script chat.js, CSS associado e textos indicados em Governança e Conhecimento. Privacidade atualizada, conteúdo editorial simplificado PT/EN. Conhecimento ampliado de 6 para 48 referências em 13 temas, com fontes oficiais, resumos bilíngues e distinção entre leis, propostas, regulamentação e modelos técnicos. Registro de pesquisa: gestao/ACERVO-LEGISLACAO-2026-11-17.md. Não é um inventário exaustivo de toda a legislação.
+
+Verificações: 148 HTMLs, links internos e ausência de travessões; reconstrução limpa idêntica; integridade do ZIP; 20 combinações de página e largura sem transbordamento; axe em 10 páginas sem violações nas regras selecionadas; busca, 13 filtros, limpar filtros, estado vazio, troca de idioma e busca via file aprovados. Nenhuma requisição ao chat. Inspeção visual desktop/celular concluída. Testes em gestao/auditorias/acervo-2026-11-17.cjs e JSON correspondente, executados na entrega de 21/11. O teste aguarda o fim da animação antes de medir contraste. Não foi atribuída nova nota global nem declarada conformidade integral.
+
+ZIP final: entregas/IBDCyber-portal-20261121T142249356428Z.zip. Enviar somente seu conteúdo à hospedagem, com backup prévio. HostGator não foi atualizada nesta sessão. A pendência anterior relativa ao funcionamento do chat deixa de se aplicar, pois o recurso foi removido a pedido do responsável.
